@@ -236,7 +236,7 @@ console.log("Not available here:", x);
 //output: ReferenceError: x is not defined
 ```
 
-So the reason you see Hi! from the log within the function is because its IN the function. The console.log statement inside will display the argument. The secondary console.log statement in the second example doesnt show up because it is a console.log statement that is outside of the function, so it cant see the x that has been declared inside the function.
+So the reason you see Hi! from the log within the function is because its IN the function. The console.log statement inside will display the argument. The secondary console.log statement in the second example, doesnt show up because it is a console.log statement that is outside of the function, so it cant see the x that has been declared inside the function.
 
 >[!Frame of mind]
 >Think of a photographer inside of a booth. They take a picture of someone that is inside the booth and shows the person their picture. They can see it since they're inside the booth. Now lets say we have another photographer outside of the booth, they take a picture of someone, but the picture can only be viewed inside of the booth because it gets sent wirelessley to a monitor inside the booth. The outdoor photographer wont be able to see the picture, but the one inside the booth will be able to see it and have it on display.
