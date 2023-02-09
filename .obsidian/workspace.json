@@ -18,17 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "42bab6ed8a8ee090",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Web Development.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Web Development.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Web Development.md"
+              }
             }
           },
           {
@@ -170,17 +165,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "42bab6ed8a8ee090",
+  "active": "35a2c762fdf2e1b4",
   "lastOpenFiles": [
-    "Untitled 3.md",
+    "Javascript.md",
     "Web Development.md",
+    "Addition.md",
+    "Biology Assignments.md",
+    "Untitled 3.md",
     "Home.md",
     "School.md",
     "IT 121 - Javascript 1.md",
     "BIOL 100 - Survey of Biology.md",
-    "mitosis.md",
-    "2-7 Class Notes.md",
-    "meiosis.md",
-    "Chapter 2 Notes.md"
+    "mitosis.md"
   ]
 }
