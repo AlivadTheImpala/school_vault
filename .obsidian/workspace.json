@@ -4,22 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "2e9d9bcb93754ab3",
+        "id": "28721436505465aa",
         "type": "tabs",
         "children": [
           {
-            "id": "35a2c762fdf2e1b4",
+            "id": "b85eb3920aff0805",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development.md",
+                "file": "Functions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development.md",
+                "file": "Functions.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,18 +103,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development.md",
+                "file": "Functions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "31999102653fa1ea",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
             }
           },
           {
@@ -133,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development.md"
+                "file": "Functions.md"
               }
             }
           },
@@ -144,13 +137,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "0119cf5225896cc0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 248.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,17 +166,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "35a2c762fdf2e1b4",
+  "active": "8b5ceeeecda126fb",
   "lastOpenFiles": [
+    "Functions.md",
     "Javascript.md",
     "Web Development.md",
+    "Home.md",
     "Addition.md",
     "Biology Assignments.md",
     "Untitled 3.md",
-    "Home.md",
     "School.md",
     "IT 121 - Javascript 1.md",
-    "BIOL 100 - Survey of Biology.md",
-    "mitosis.md"
+    "BIOL 100 - Survey of Biology.md"
   ]
 }
