@@ -241,3 +241,21 @@ So the reason you see Hi! from the log within the function is because its IN the
 >[!Frame of mind]
 >Think of a photographer inside of a booth. They take a picture of someone that is inside the booth and shows the person their picture. They can see it since they're inside the booth. Now lets say we have another photographer outside of the booth, they take a picture of someone, but the picture can only be viewed inside of the booth because it gets sent wirelessley to a monitor inside the booth. The outdoor photographer wont be able to see the picture, but the one inside the booth will be able to see it and have it on display.
 
+In order to see a variable thats been declared inside of a function, outside of the function, we need to use `return` and store the returned value in its own variable.
+```javascript
+function testAvailability() {
+  let y = "I'll return";
+  console.log("Available here:", y);
+  return y;
+}
+let z = testAvailability();
+console.log("Outside the function:", z);
+console.log("Not available here:", y);
+
+//output:
+//Available here: I'll return
+//Outside the function: I'll return
+//ReferenceError: y is not defined
+
+//Here z is assigned the function `testAvailability` which returns y. When we console.log z, we are displaying the value of y. If we try to console.log y outside of the function however, we get `y is not defined` because again, `y` is only available inside the function. 
+```
