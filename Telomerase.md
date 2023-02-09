@@ -1,0 +1,1 @@
+enzyme that attaches to the ends of a chromosome, adding bases to RNA templates in order for the leading strand and laggin strand to connect. This allows constant replication of the ends of a chromosome.

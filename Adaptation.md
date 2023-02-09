@@ -1,0 +1,1 @@
+Adaptation refers to the ability of an organism to "fit" into its environment. Each adaptation increases its reproductive potential and ability to survive in its given environment. As the name suggests, adaptations are not static and will change or "adapt" as the environment changes. These changes happen over a long period through the process of [[natural selection]].

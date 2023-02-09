@@ -1,0 +1,1 @@
+Booleans are just true or false statements and can be used when you want to store data to indicate yes/no or on/off

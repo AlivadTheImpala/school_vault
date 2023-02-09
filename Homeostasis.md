@@ -1,0 +1,1 @@
+Homeostasis is an organisms ability to maintain constant internal conditions for it to function properly. Regulating temperature in a process called thermoregulation is one way to maintain proper internal temperatures.

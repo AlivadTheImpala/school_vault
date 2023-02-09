@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "764e62b0f00d0d45",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e9d9bcb93754ab3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35a2c762fdf2e1b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Development.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42bab6ed8a8ee090",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02d140d6e127bd14",
+    "type": "split",
+    "children": [
+      {
+        "id": "c40e5ffa5e5a4b40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aebbbf03b5b76b49",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "457e91d59870c3ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "mitos",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "88ef50dbe640e987",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "888b3822c1b3eb0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fe78dcbd022b819",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abe197763625d4f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4f4ece3c912cbdc5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31999102653fa1ea",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "e262270d586d5a19",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequencyReverse",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8b5ceeeecda126fb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "066dbef486990dc9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "42bab6ed8a8ee090",
+  "lastOpenFiles": [
+    "Untitled 3.md",
+    "Web Development.md",
+    "Home.md",
+    "School.md",
+    "IT 121 - Javascript 1.md",
+    "BIOL 100 - Survey of Biology.md",
+    "mitosis.md",
+    "2-7 Class Notes.md",
+    "meiosis.md",
+    "Chapter 2 Notes.md"
+  ]
+}

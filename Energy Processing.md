@@ -1,0 +1,1 @@
+All forms of life use some form of energy for [[metabolic activities]]

@@ -1,0 +1,1 @@
+The 4 monomers(nucleotides) present in DNA were always present in equal values. They did this in pairs.

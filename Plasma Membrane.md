@@ -1,0 +1,2 @@
+The plasma membrane is made up of a phospholipid bilayer and contains embedded proteins. Its purpose is to seperate the internal contents of a cell with its external environment.
+![[Screenshot 2023-01-29 at 15.56.15 2.png]]

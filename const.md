@@ -1,0 +1,1 @@
+__const__ is also a block-scoped variable, but it can only be assigned a value, and this value cannot be reassigned later. Like let, it is only available on the line it was assigned and below.

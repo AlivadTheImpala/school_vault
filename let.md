@@ -1,0 +1,1 @@
+__let__ is block-scoped, which means it's only available within the open/close curly brackets where it was defined in. Unlike var, let is only available on the line it was assigned and below. 

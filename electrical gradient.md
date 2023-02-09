@@ -1,0 +1,1 @@
+the difference in electrical charge between the inside of a cell and its surrounding extracellular fluid.

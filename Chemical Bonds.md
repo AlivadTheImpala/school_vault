@@ -1,0 +1,1 @@
+Chemical bonds rely on an atoms instability, dictated by whether its outermost shell of electrons has a vacant spot. If the outer most shell has a spot to be filled by an electron, it is unstable until it is filled. Thus a chemical bond is formed.

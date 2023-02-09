@@ -1,0 +1,4 @@
+- Positive electrical charge +1
+- Located in the nucleus of an atom (its core)
+- the protons determine what element the atom is.
+- Atomic mass of 1

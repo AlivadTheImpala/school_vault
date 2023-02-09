@@ -1,0 +1,1 @@
+Equivalent to the number of protons of an element

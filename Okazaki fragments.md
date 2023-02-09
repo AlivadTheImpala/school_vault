@@ -1,0 +1,1 @@
+fragment of DNA sequence containing DNA polymerase and an RNA primer. This fragment is part of the lagging strand of DNA

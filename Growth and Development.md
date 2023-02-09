@@ -1,0 +1,1 @@
+An organism's genes are hard coded with the instruction for how it will grow and develop

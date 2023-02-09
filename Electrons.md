@@ -1,0 +1,3 @@
+- Negatively charged -1
+- Depending on the number and position of electrons determine how these atoms can bond with other atoms to form molecules.
+- Located orbiting around the atomic nucleus

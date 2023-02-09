@@ -1,0 +1,4 @@
+- No electrical charge 0
+- Neutrons determine the weight and stability of atoms. Some carbon atoms can have more neutrons and how many there are determines their ability to stay whole or break apart.
+- Located in the atomic nucleus 
+- Atomic mass of 1
