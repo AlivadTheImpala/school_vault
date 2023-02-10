@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "888b3822c1b3eb0c",
@@ -147,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -166,7 +167,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0119cf5225896cc0",
+  "active": "8b5ceeeecda126fb",
   "lastOpenFiles": [
     "Functions.md",
     "Javascript.md",
