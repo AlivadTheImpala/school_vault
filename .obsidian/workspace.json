@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "28721436505465aa",
+        "id": "a1cd6c79b85bc09f",
         "type": "tabs",
         "children": [
           {
-            "id": "b85eb3920aff0805",
+            "id": "e4186400d55e748b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functions.md",
+                "file": "BIOL 100 - Survey of Biology.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "934019806971294d",
+            "id": "10c22883da3574bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "String.md",
+                "file": "Chapter 6 Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "888b3822c1b3eb0c",
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "String.md",
+                "file": "Chapter 6 Notes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "String.md",
+                "file": "Chapter 6 Notes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "String.md"
+                "file": "Chapter 6 Notes.md"
               }
             }
           },
@@ -165,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,17 +179,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "934019806971294d",
+  "active": "10c22883da3574bc",
   "lastOpenFiles": [
+    "BIOL 100 - Survey of Biology.md",
+    "School.md",
+    "Home.md",
     "Functions.md",
     "Javascript.md",
     "Web Development.md",
-    "Home.md",
     "Addition.md",
     "Biology Assignments.md",
-    "Untitled 3.md",
-    "School.md",
-    "IT 121 - Javascript 1.md",
-    "BIOL 100 - Survey of Biology.md"
+    "Chapter 6 Notes.md",
+    "IT 121 - Javascript 1.md"
   ]
 }
