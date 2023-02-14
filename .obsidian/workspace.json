@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "34f8d0dc3efd454f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operators.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Objects and Arrays.md",
+                "file": "Operators.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Objects and Arrays.md",
+                "file": "Operators.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Objects and Arrays.md"
+                "file": "Operators.md"
               }
             }
           },
@@ -180,17 +192,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f230a47901daf856",
+  "active": "34f8d0dc3efd454f",
   "lastOpenFiles": [
+    "Javascript.md",
+    "Web Development.md",
+    "Home.md",
+    "Objects and Arrays.md",
     "Javascript Methods.md",
     "Functions.md",
-    "Javascript.md",
     "Javascript Functions.md",
     "BIOL 100 - Survey of Biology.md",
     "Chapter 6 Notes.md",
-    "IT 121 - Javascript 1.md",
-    "School.md",
-    "Home.md",
-    "Web Development.md"
+    "IT 121 - Javascript 1.md"
   ]
 }
