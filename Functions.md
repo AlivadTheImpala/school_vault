@@ -1,3 +1,4 @@
+#javascript 
 # Basic Functions
 Javascript has a bunch of function built-in that help you accomplish certain tasks or perform certain actions. prompt(), console.log(), push(), sort() are all functions that you have used before. 
 
