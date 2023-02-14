@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 6 Notes.md",
+                "file": "Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mitos",
+                "query": "functions",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 6 Notes.md",
+                "file": "Functions.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 6 Notes.md",
+                "file": "Functions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 6 Notes.md"
+                "file": "Functions.md"
               }
             }
           },
@@ -181,15 +182,15 @@
   },
   "active": "10c22883da3574bc",
   "lastOpenFiles": [
+    "Javascript.md",
+    "Javascript Functions.md",
+    "Functions.md",
     "BIOL 100 - Survey of Biology.md",
+    "Chapter 6 Notes.md",
+    "IT 121 - Javascript 1.md",
     "School.md",
     "Home.md",
-    "Functions.md",
-    "Javascript.md",
     "Web Development.md",
-    "Addition.md",
-    "Biology Assignments.md",
-    "Chapter 6 Notes.md",
-    "IT 121 - Javascript 1.md"
+    "Addition.md"
   ]
 }
