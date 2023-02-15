@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a1cd6c79b85bc09f",
+        "id": "c2e5b68d276dd2ae",
         "type": "tabs",
         "children": [
           {
-            "id": "90c42977b7fb6c91",
+            "id": "14cd86c74edc1ab0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quiz 1 Notes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -87,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quiz 1 Notes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quiz 1 Notes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Quiz 1 Notes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,8 +159,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "90c42977b7fb6c91",
+  "active": "14cd86c74edc1ab0",
   "lastOpenFiles": [
+    "Quiz 1 Notes.md",
+    "Hydrogen and Ionic Bonds.md",
     "BIOL 100 - Survey of Biology.md",
     "School.md",
     "Home.md",
@@ -176,8 +170,6 @@
     "Javascript.md",
     "Web Development.md",
     "Objects and Arrays.md",
-    "Javascript Methods.md",
-    "Functions.md",
-    "Javascript Functions.md"
+    "Javascript Methods.md"
   ]
 }
