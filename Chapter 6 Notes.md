@@ -20,6 +20,7 @@ The genome in eukaryotes by contrast is comprised of several double stranded DNA
 ![[Screenshot 2023-02-13 at 13.04.42.png]]
 A cell goes through a series of events that involve cell growth  and cell division. The two major phases of a cells cycle include the [[Interphase]] and the [[mitotic phase]] 
 
+[The Cell Cycle Video](https://youtu.be/e6N9_RhD10Q)
 ## Interphase
 There are 3 stages to interphase. G1, S, and G2
 
