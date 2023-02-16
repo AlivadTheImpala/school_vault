@@ -3,7 +3,13 @@
 # 6.1 | The Genome
 
 ## Genomic DNA
-The Genome is essentially a cal
+
+### Prokaryots
+The Genome is essentially a cells complete compliment of DNA. Prokaryotic cells only have a single double stranded DNA molecule that makes up their genomes. All of its genetic information is stored in the nucleiod.
+
+### Eukaryotes
+The genome in eukaryotes by contrast is comprised of 
+
 
 ***
 # 6.2 | The Cell Cycle
