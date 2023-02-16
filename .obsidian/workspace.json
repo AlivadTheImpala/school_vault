@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meiosis.md",
+                "file": "Quiz 2 Notes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meiosis.md",
+                "file": "Quiz 2 Notes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meiosis.md"
+                "file": "Quiz 2 Notes.md"
               }
             }
           },
@@ -265,10 +265,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9a799e55fabe7282",
+  "active": "d708a19a49e10aee",
   "lastOpenFiles": [
-    "Quiz 2 Notes.md",
     "meiosis.md",
+    "Quiz 2 Notes.md",
     "mitosis.md",
     "Evolution and Diversity.md",
     "Speciation.md",

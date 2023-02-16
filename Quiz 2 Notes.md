@@ -5,6 +5,8 @@ Law of segregation.
 meiosis 
 Active Transport an Passive Transport.
 
+
+
 [[mitosis]]
 
 [[Meiosis]]
