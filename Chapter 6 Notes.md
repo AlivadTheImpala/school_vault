@@ -26,5 +26,8 @@ There are 3 stages to interphase. G1, S, and G2
 ### G1 phase
 In this phase the cell is accumulating the building blocks of chromosomal DNA and the proteins required to bind it all into a chromosome. 
 
+### S phase
+
+
 # 6.3 | Cancer and the Cell Cycle
 # 6.4 | Prokaryotic Cell Division
