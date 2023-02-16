@@ -24,6 +24,7 @@ Big Debate between geologists during Darwins Time postulating that big but infre
 
 # Evolution of insecticide resistance as an example of Natural Selection
 
+A mutation in a gene that then allows resistance to an insectacide ( resistance can be multiple different changes, ie behaviour change or some way that the insecticide has no effect.) This leads to population growth of those that inherit the mutation.
 
 
 
