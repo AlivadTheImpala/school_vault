@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quiz 2 Notes.md",
+                "file": "mitosis.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evolution and Diversity.md",
+                "file": "mitosis.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Evolution and Diversity.md",
+                "file": "mitosis.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evolution and Diversity.md"
+                "file": "mitosis.md"
               }
             }
           },
@@ -252,17 +252,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6bb5db48024e7e19",
+  "active": "d708a19a49e10aee",
   "lastOpenFiles": [
-    "Speciation.md",
+    "Quiz 2 Notes.md",
+    "mitosis.md",
     "Evolution and Diversity.md",
+    "Speciation.md",
     "Fitness.md",
     "Interphase.md",
     "Chapter 6 Notes.md",
     "Chapter 9 Notes.md",
     "BIOL 100 - Survey of Biology.md",
-    "mitotic phase.md",
-    "Quiz 2 Notes.md",
-    "School.md"
+    "mitotic phase.md"
   ]
 }

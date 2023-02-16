@@ -1,0 +1,1 @@
+This is what all cells go through to sustain their population. This happens after the [[Interphase]] which is the phase of preperation, DNA replication and enzyme production to allow for division 
