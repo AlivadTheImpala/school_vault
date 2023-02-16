@@ -18,7 +18,7 @@ The genome in eukaryotes by contrast is comprised of several double stranded DNA
 # 6.2 | The Cell Cycle
 
 ![[Screenshot 2023-02-13 at 13.04.42.png]]
-
+A cell goes through a series of events that involve cell growth  and cell division. 
 
 # 6.3 | Cancer and the Cell Cycle
 # 6.4 | Prokaryotic Cell Division
