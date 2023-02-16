@@ -32,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quiz 2 Notes.md",
+                "file": "Chapter 6 Notes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quiz 2 Notes.md",
+                "file": "Chapter 6 Notes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quiz 2 Notes.md"
+                "file": "Chapter 6 Notes.md"
               }
             }
           },
@@ -180,8 +179,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d708a19a49e10aee",
+  "active": "2d7f07431c2cf642",
   "lastOpenFiles": [
+    "Quiz 2 Notes.md",
     "Chapter 6 Notes.md",
     "BIOL 100 - Survey of Biology.md",
     "School.md",
@@ -190,7 +190,6 @@
     "Hydrogen and Ionic Bonds.md",
     "Operators.md",
     "Javascript.md",
-    "Web Development.md",
-    "Objects and Arrays.md"
+    "Web Development.md"
   ]
 }
