@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "251e04ddeb6a11b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mitotic phase.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93294efe9e949a05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interphase.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d708a19a49e10aee",
             "type": "leaf",
             "state": {
@@ -181,15 +205,15 @@
   },
   "active": "2d7f07431c2cf642",
   "lastOpenFiles": [
-    "Quiz 2 Notes.md",
+    "mitotic phase.md",
     "Chapter 6 Notes.md",
+    "Interphase.md",
+    "Quiz 2 Notes.md",
     "BIOL 100 - Survey of Biology.md",
     "School.md",
     "Home.md",
     "Quiz 1 Notes.md",
     "Hydrogen and Ionic Bonds.md",
-    "Operators.md",
-    "Javascript.md",
-    "Web Development.md"
+    "Operators.md"
   ]
 }

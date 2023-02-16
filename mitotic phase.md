@@ -1,0 +1,1 @@
+The cytoplasmic contents and replicated DNA are seperated to form 2 new cells. 
