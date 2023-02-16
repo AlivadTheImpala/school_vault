@@ -2,6 +2,9 @@
 
 # 6.1 | The Genome
 
+## Genomic DNA
+The Genome is essentially a cal
+
 ***
 # 6.2 | The Cell Cycle
 
