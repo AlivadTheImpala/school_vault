@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 6,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Speciation.md",
+                "file": "Evolution and Diversity.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Speciation.md",
+                "file": "Evolution and Diversity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Speciation.md"
+                "file": "Evolution and Diversity.md"
               }
             }
           },
@@ -252,8 +252,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a7e3a34489bba830",
+  "active": "6bb5db48024e7e19",
   "lastOpenFiles": [
+    "Speciation.md",
     "Evolution and Diversity.md",
     "Fitness.md",
     "Interphase.md",
@@ -262,7 +263,6 @@
     "BIOL 100 - Survey of Biology.md",
     "mitotic phase.md",
     "Quiz 2 Notes.md",
-    "School.md",
-    "Home.md"
+    "School.md"
   ]
 }
