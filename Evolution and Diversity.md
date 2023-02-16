@@ -26,7 +26,9 @@ Big Debate between geologists during Darwins Time postulating that big but infre
 
 A mutation in a gene that then allows resistance to an insectacide ( resistance can be multiple different changes, ie behaviour change or some way that the insecticide has no effect.) This leads to population growth of those that inherit the mutation.
 
-Variation within a population is also necessary in order for certain traits to be better suited for certain environments
+Variation within a population is also necessary in order for certain traits to be better suited for certain environments.
+
+
 
 
 
