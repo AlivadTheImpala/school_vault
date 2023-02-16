@@ -78,9 +78,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a7e3a34489bba830",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Speciation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0056593ece237f22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fitness.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 6,
         "stacked": true
       }
     ],
@@ -147,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evolution and Diversity.md",
+                "file": "Speciation.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -164,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Evolution and Diversity.md",
+                "file": "Speciation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evolution and Diversity.md"
+                "file": "Speciation.md"
               }
             }
           },
@@ -228,17 +252,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6bb5db48024e7e19",
+  "active": "a7e3a34489bba830",
   "lastOpenFiles": [
-    "Interphase.md",
     "Evolution and Diversity.md",
+    "Fitness.md",
+    "Interphase.md",
     "Chapter 6 Notes.md",
     "Chapter 9 Notes.md",
     "BIOL 100 - Survey of Biology.md",
     "mitotic phase.md",
     "Quiz 2 Notes.md",
     "School.md",
-    "Home.md",
-    "Quiz 1 Notes.md"
+    "Home.md"
   ]
 }

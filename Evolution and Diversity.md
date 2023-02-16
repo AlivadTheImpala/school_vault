@@ -4,9 +4,9 @@ Terms to know
 Evolutuion 
 Population
 Natural Selection
-Fitness
+[[Fitness]]
 Genetic Drift
-Speciation
+[[Speciation]]
 Phylogenetic Trees
 
-
+Evolution, natural selection and genetic variation
