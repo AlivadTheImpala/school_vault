@@ -10,7 +10,7 @@ The Genome is essentially a cells complete compliment of DNA. Prokaryotic cells 
 ### Eukaryotes
 The genome in eukaryotes by contrast is comprised of several double stranded DNA molecules, which are bound in proteins to form the structure of a chromasome. Every eukaryote species has a distinct number of chromosomes, humans contain 46. These human body cells, also known as somatic cells, contain two matched sets of chromosomes known as a diploid.. If you split the chromosome in half you get the 2 individual chromatids that make up 1 chromosome. 
 
-*n* represents a single set of chromosomes. Dispload is designated 2n
+*n* represents a single set of chromosomes. Dispload is designated 2n. The matched pairs of chromosomes in a dipload are called homologous pairs. They are of similar length and contain specific genes in the same locations[[gen]]
 ![[Screenshot 2023-02-16 at 12.38.11.png]]
 
 
