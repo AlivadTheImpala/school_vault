@@ -54,7 +54,19 @@ browserType.slice(-5); //"zilla"
 ```
 ## Extracting with substr()
 You can also use substr() to exctract a portion of the string. The difference between substr() and slice() is in the second paramter. 
-- slice(start,end): in slice() the end parameter just states 
+- slice(start,end): in slice() the end parameter just states at what index the slice will stop
+- substr(start,length): in substr() however you state where you want to start the extraction, and the second parameter specifies the length of the extraction in relation to the start position
+```javascript
+let text = "Apple, Banana, Kiwi";  
+let part = text.slice(7, 13);//Banana
+//you are explicitly stating the ending index
+
+let part = str.substr(7, 6);//Banana
+//you are stating how long the cut will be, in this case 6 index characters long.
+
+
+```
+
 # Finding the Position of a substring within a string
 To find the index of a substring, you would use **indexof()**
 - indexof(1,2) takes two parameters:
@@ -82,11 +94,11 @@ console.log(radData.toLowerCase());// my name is mud
 console.log(radData.toUpperCase());// MY NAME IS MUD
 ```
 
-# Updating part of a string
+# Updating part of a string w/ replace()
 replace() will replace one substring inside of a string, with another substring. It will only replace the first occurence of the substring you specifiy.
-- **replace(1,2)** takes two parameters 
-	- 1 is the substring you want to replace.
-	- 2 is what you want to replace it with.
+- **replace(a,b)** takes two parameters 
+	- a is the substring you want to replace.
+	- b is what you want to replace it with.
 ```javascript
 const browserType = 'mozilla';
 const updated = browserType.replace('moz','van');
