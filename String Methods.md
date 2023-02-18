@@ -140,3 +140,4 @@ let newText = text.replace(/MICROSOFT/i, "W3Schools");
 ---
 # Sources
 [String Methods Refernce Sheet](https://www.w3schools.com/jsref/jsref_obj_string.asp)
+[Mozzilla Developer String Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
