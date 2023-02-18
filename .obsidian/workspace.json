@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e71a55fcbaafe9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "regular expression.md",
+                "file": "Operators.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "888b3822c1b3eb0c",
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic.md",
+                "file": "Operators.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic.md",
+                "file": "Operators.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic.md"
+                "file": "Operators.md"
               }
             }
           },
@@ -183,9 +170,9 @@
   },
   "active": "37baa2f733e1a962",
   "lastOpenFiles": [
+    "Logic.md",
     "Conditional Logic.md",
     "Javascript.md",
-    "Logic.md",
     "String Methods.md",
     "regular expression.md",
     "Javascript Datatypes.md",
