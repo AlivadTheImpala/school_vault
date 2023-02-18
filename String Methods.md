@@ -136,3 +136,7 @@ let newText = text.replace(/MICROSOFT/i, "W3Schools");
 
 //this would work, and replace Microsoft with W3Schools.
 ```
+
+---
+# Sources
+[String Methods Refernce Sheet](https://www.w3schools.com/jsref/jsref_obj_string.asp)
