@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "String Methods.md",
+                "file": "regular expression.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "String Methods.md",
+                "file": "regular expression.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "String Methods.md",
+                "file": "regular expression.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "String Methods.md"
+                "file": "regular expression.md"
               }
             }
           },
@@ -181,8 +181,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8b5ceeeecda126fb",
+  "active": "37baa2f733e1a962",
   "lastOpenFiles": [
+    "String Methods.md",
     "Javascript.md",
     "Javascript Datatypes.md",
     "String.md",
@@ -191,7 +192,6 @@
     "Web Development.md",
     "Home.md",
     "meiosis.md",
-    "Quiz 2 Notes.md",
-    "mitosis.md"
+    "Quiz 2 Notes.md"
   ]
 }

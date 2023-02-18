@@ -129,3 +129,10 @@ let newText = text.replace("MICROSOFT", "W3Schools");
 
 //this would not replace `Microsoft` because the cases are different
 ```
+To replace with case insensitivity use a [[regular expression]] with an /i flag
+```javascript
+let text = "Please visit Microsoft!";
+let newText = text.replace(/MICROSOFT/i, "W3Schools");
+
+//this would work, and replace Microsoft with W3Schools.
+```
