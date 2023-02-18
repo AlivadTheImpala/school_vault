@@ -13,6 +13,7 @@ let doubleString = "How are you?";
 //you also cant start with one type of quote and end with a different one otherwise an error will kick.
 ```
 
+## Template Literals
 When using backticks, the advantage here is that you can then call a variable inside of the string. This makes you code a bit more readable than concatinating everything with + symbols.
 ```javascript
 let language = "JavaScript"; 
@@ -34,7 +35,7 @@ I gave it a score of 90%.
 */
 
 ```
-To get the same effect as above you need to include the line break character ```\n
+To get the same effect as above using quotes instead of backticks, you need to include the line break character ```\n
 ```javascript
 const output = "I like the song.\nI gave it a score of 90%.";
 console.log(output);

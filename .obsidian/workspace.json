@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript Datatypes.md",
+                "file": "String.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "888b3822c1b3eb0c",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript Datatypes.md",
+                "file": "String.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript Datatypes.md",
+                "file": "String.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript Datatypes.md"
+                "file": "String.md"
               }
             }
           },
@@ -148,12 +149,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,10 +168,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f69f7d03d657ab49",
+  "active": "0119cf5225896cc0",
   "lastOpenFiles": [
-    "BigInt.md",
     "Javascript Datatypes.md",
+    "BigInt.md",
     "Number.md",
     "String.md",
     "Javascript.md",
