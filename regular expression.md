@@ -9,6 +9,7 @@ A regular expression is a sequence of characters that forms a **search pattern*
 //i  is a modifier (modifies the search to be case-insensitive).
 ```
 ![[Screenshot 2023-02-18 at 13.32.55.png]]
+![[Screenshot 2023-02-18 at 13.35.22 1.png]]
 
 ---
 # Sources
