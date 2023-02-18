@@ -1,7 +1,6 @@
 #javascript 
 
 [[Objects and Arrays]]
-# String methods
 
 ## Finding the length of a string:
 ```javascript
@@ -16,7 +15,7 @@ browserType.length-3;
 ```
 
 ## Retrieving a certain character in a string:
-To return a certain character, you would append [] square bracket at the end of your variable name. inside the brackets you specify the index number of the character you want to return.
+To return a certain character, you would append `[]` square bracket at the end of your variable name. inside the brackets you specify the index number of the character you want to return.
 ```javascript
 browserType[0];
 //this would return m because it is in first position. 
