@@ -47,6 +47,10 @@ console.log(browserType.slice(1, 4)); // "ozi"
 
 //If you want to extract all remaining characters from your start point, you dont have to include the end parameter
 browserType.slice(2); // "zilla"
+
+//Conversley if you want to begin you slice starting from the end of the string, you use a negative number
+
+browserType.slice(-5); //"zilla"
 ```
 
 ## Finding the Position of a substring within a string
