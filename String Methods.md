@@ -120,3 +120,12 @@ quote = quote.replaceAll('be','code');
 
 console.log(quote);  // "To code or not to code"
 ```
+
+### Case sensitivity w/replace()
+By Default replace is case sensitive, so you would have to make sure that what youre looking for matches with the spelling in the string your looking into
+```javascript
+let text = "Please visit Microsoft!";  
+let newText = text.replace("MICROSOFT", "W3Schools");
+
+//this would not replace `Microsoft` because the cases are different
+```
