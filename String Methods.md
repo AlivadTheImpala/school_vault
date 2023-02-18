@@ -2,7 +2,7 @@
 
 [[Objects and Arrays]]
 
-## Finding the length of a string:
+# Finding the length of a string:
 ```javascript
 const browserType = "mozilla";
 browserType.length;
@@ -14,7 +14,7 @@ browserType.length-3;
 //this will return 4, because using a negative number will look at the strong from the end first and count in the specified number. So in the word mozilla, we start at a (position -0) 
 ```
 
-## Retrieving a certain character in a string:
+# Retrieving a certain character in a string:
 To return a certain character, you would append `[]` square bracket at the end of your variable name. inside the brackets you specify the index number of the character you want to return.
 ```javascript
 browserType[0];
@@ -23,7 +23,7 @@ browserType[0];
 ```
 To return the last character of any string we can 
 
-## Testing if a string contains a substring
+# Testing if a string contains a substring
 If you want to see if a string contains a substring, in this case the 'zilla' portion of the word mozilla, we can use the **includes()** method to search for it. It returns true if it exists otherwise, it returns false.
 ```javascript
 const browserType = 'mozilla';
@@ -36,7 +36,7 @@ if (browserType.includes('zilla')) {
 
 ```
 
-## Extracting a substring from a string
+# Extracting with slice()
 Using the slice() method you can extract a portion of a string. You can give it two index values slice(start, end).
 - The **end** is exclusive, meaning that it will not include the substring in the stated index number, it will only extract just before the index number.
 ```javascript
@@ -52,8 +52,10 @@ browserType.slice(2); // "zilla"
 
 browserType.slice(-5); //"zilla"
 ```
-
-## Finding the Position of a substring within a string
+## Extracting with substr()
+You can also use substr() to exctract a portion of the string. The difference between substr() and slice() is in the second paramter. 
+- slice(start,end): in slice() the end parameter just states 
+# Finding the Position of a substring within a string
 To find the index of a substring, you would use **indexof()**
 - indexof(1,2) takes two parameters:
 	- 1: the substring you want to search for
@@ -70,7 +72,7 @@ console.log(firstOccurrence); // 20
 console.log(secondOccurrence); // 35
 ```
 
-## Changing case
+# Changing case
 If you want to ensure the inputted user strings all follow the same case. you can use two methods
 - toLowerCase()
 - toUpperCase()
@@ -80,7 +82,7 @@ console.log(radData.toLowerCase());// my name is mud
 console.log(radData.toUpperCase());// MY NAME IS MUD
 ```
 
-## Updating part of a string
+# Updating part of a string
 replace() will replace one substring inside of a string, with another substring. It will only replace the first occurence of the substring you specifiy.
 - **replace(1,2)** takes two parameters 
 	- 1 is the substring you want to replace.
