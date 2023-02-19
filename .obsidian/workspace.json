@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ribosome",
+                "query": "active transport",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,15 +170,15 @@
   },
   "active": "37baa2f733e1a962",
   "lastOpenFiles": [
+    "Quiz 2 Notes.md",
+    "Chapter 3 Notes.md",
     "nitrogenous base.md",
     "Chapter 9 Notes.md",
     "Chapter 6 Notes.md",
     "Operators.md",
-    "Chapter 3 Notes.md",
     "DNA.md",
     "BIOL 100 - Survey of Biology.md",
     "School.md",
-    "Home.md",
-    "Logic.md"
+    "Home.md"
   ]
 }
