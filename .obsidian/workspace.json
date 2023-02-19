@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 9 Notes.md",
+                "file": "nitrogenous base.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 9 Notes.md",
+                "file": "nitrogenous base.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 9 Notes.md",
+                "file": "nitrogenous base.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 9 Notes.md"
+                "file": "nitrogenous base.md"
               }
             }
           },
@@ -168,8 +168,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "457e91d59870c3ce",
+  "active": "37baa2f733e1a962",
   "lastOpenFiles": [
+    "Chapter 9 Notes.md",
     "Chapter 6 Notes.md",
     "Operators.md",
     "Chapter 3 Notes.md",
@@ -178,7 +179,6 @@
     "School.md",
     "Home.md",
     "Logic.md",
-    "Conditional Logic.md",
-    "Javascript.md"
+    "Conditional Logic.md"
   ]
 }
