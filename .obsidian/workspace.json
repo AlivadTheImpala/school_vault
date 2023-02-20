@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "31afd733f66e10e0",
+        "id": "40ae9b12f1e0b986",
         "type": "tabs",
         "children": [
           {
-            "id": "37baa2f733e1a962",
+            "id": "8a5609054b8a972e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 3 Notes.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 3 Notes.md",
+                "file": "Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 3 Notes.md",
+                "file": "Home.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 3 Notes.md"
+                "file": "Home.md"
               }
             }
           },
@@ -168,7 +168,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "37baa2f733e1a962",
+  "active": "8a5609054b8a972e",
   "lastOpenFiles": [
     "Quiz 2 Notes.md",
     "Chapter 3 Notes.md",
