@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "40ae9b12f1e0b986",
+        "id": "c0feb425bf6fa829",
         "type": "tabs",
         "children": [
           {
-            "id": "8a5609054b8a972e",
+            "id": "363a3a02db0d9f78",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,7 +168,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8a5609054b8a972e",
+  "active": "363a3a02db0d9f78",
   "lastOpenFiles": [
     "Quiz 2 Notes.md",
     "Chapter 3 Notes.md",
