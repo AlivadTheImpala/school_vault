@@ -12,3 +12,5 @@ algae
 protozoa
 water molds
 slime molds
+
+Hydrogen bonds can break in extreme temperature because proteins will change shape,not allowing their substrates to hold on
