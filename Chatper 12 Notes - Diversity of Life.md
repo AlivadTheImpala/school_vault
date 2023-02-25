@@ -6,4 +6,9 @@ In biology we need to understand the relationship between different species. All
 
 **Phylogeny** is the history and relationships between different species and the study of organisms to find their relationships is called **systematics**
 
+Although we have different classes now, new data is always being produced and new characteristics are found. Thus the tree of life is always evolving.
+
+## The Levels of Classification
+**Taxonomy** is the arrang
+
 
