@@ -29,5 +29,8 @@ Although Humans share a common ancestor with bonobos and chimpanzees, this does 
 The **branch point** refers to where a split occurs on the tree, and any lineages that stem from the same branch point are known as **sister taxa**. A branch point with more than two groups illustrates a situation for which scientists have not definitively determined relationships as is the case for the gorilla branch.
 
 ## Limitiations of Phylogenetic Trees
-Phylogenetics trees are great to illustrate the order in which new traits where introduced into a population. However they dont show how much time has passed. 
+Phylogenetics trees are great to illustrate the order in which new traits where introduced into a population. However they dont show how much time has passed. A phylogenetic tree is also not indicative that because one trait evolved that another stopped. This all depends on context of where an organism lived and its environment. 
 ![[Screenshot 2023-02-25 at 14.23.21.png]]
+
+# 12.2 | Determing Evolutionary Relationships
+
