@@ -21,5 +21,9 @@ At the very bottom are the three Domains that hold all other species. Within tha
 *** 
 
 
+## Classification and Phylogeny
+unlike the Taxonomic system, Phylogenetic trees act as a sort of map for different species common ancesotors 
+![[Screenshot 2023-02-25 at 14.12.28.png]]
+Although Humans share a common ancestor with bonobos and chimpanzees, this does not mean that one evolved from the other. Humans did not evolve from chimps nor chimps evolve from humans. What is true is that each shared a common ancestor that exhibited traits similar to ours. 
 
-
+The **branch point** refers to where a split occurs on the tree, and any lineages that stem from the same branch point are known as **sister taxa**. 
