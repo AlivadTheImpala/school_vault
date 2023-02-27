@@ -33,14 +33,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protists vs Bacteria.md",
+                "file": "2-7 Class Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3728ee4efa87e81b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 9 Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -70,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "active transport",
+                "query": "mitosis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protists vs Bacteria.md",
+                "file": "Chapter 9 Notes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protists vs Bacteria.md",
+                "file": "Chapter 9 Notes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protists vs Bacteria.md"
+                "file": "Chapter 9 Notes.md"
               }
             }
           },
@@ -174,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,10 +202,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6ae0c2718f11ae1f",
+  "active": "3728ee4efa87e81b",
   "lastOpenFiles": [
-    "Chatper 12 Notes - Diversity of Life.md",
+    "mitosis.md",
+    "2-7 Class Notes.md",
     "Protists vs Bacteria.md",
+    "Chatper 12 Notes - Diversity of Life.md",
     "BIOL 100 - Survey of Biology.md",
     "School.md",
     "Home.md",
