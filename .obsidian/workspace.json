@@ -4,23 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c0feb425bf6fa829",
+        "id": "4f7b9b79aacff2c9",
         "type": "tabs",
         "children": [
           {
-            "id": "363a3a02db0d9f78",
+            "id": "8ed542b00522c9a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIOL 100 - Survey of Biology.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "6a67250790b52c79",
+            "id": "4b308479210d125a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ae0c2718f11ae1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Protists vs Bacteria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -101,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chatper 12 Notes - Diversity of Life.md",
+                "file": "Protists vs Bacteria.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chatper 12 Notes - Diversity of Life.md",
+                "file": "Protists vs Bacteria.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chatper 12 Notes - Diversity of Life.md"
+                "file": "Protists vs Bacteria.md"
               }
             }
           },
@@ -181,8 +189,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6a67250790b52c79",
+  "active": "6ae0c2718f11ae1f",
   "lastOpenFiles": [
+    "Chatper 12 Notes - Diversity of Life.md",
+    "Protists vs Bacteria.md",
     "BIOL 100 - Survey of Biology.md",
     "School.md",
     "Home.md",
