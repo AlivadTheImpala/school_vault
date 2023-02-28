@@ -1,0 +1,1 @@
+the process certain protists take in where they ingest a food particle and create a food vacoul within the cell cytoplasm. A lysosome attaches to the vacoul, allowing the cell to break down the material into smaller molecules it can use within the cell. Then [[exocytosis]] expells the waste outside of the cell.

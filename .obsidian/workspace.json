@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "3ea35d1fafe9b624",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "exocytosis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b2e3d3a45c58a60f",
             "type": "leaf",
             "state": {
@@ -230,12 +242,15 @@
   },
   "active": "a475194daa11a2c6",
   "lastOpenFiles": [
+    "phagocytosis.md",
+    "Chapter 13 Notes.md",
+    "exocytosis.md",
+    "Screenshot 2023-02-27 at 21.43.43.png",
     "Screenshot 2023-02-27 at 21.37.54.png",
     "Eukaryotes.md",
     "Screenshot 2023-02-27 at 20.46.52.png",
     "Chapter 9 Notes.md",
     "Chapter 6 Notes.md",
-    "Chapter 13 Notes.md",
     "mitosis.md",
     "2-7 Class Notes.md",
     "Protists vs Bacteria.md",
