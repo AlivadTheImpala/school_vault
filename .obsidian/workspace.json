@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 6 Notes.md",
+                "file": "Chapter 9 Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eukaryotes.md",
+                "file": "Eukaryotes.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eukaryotes.md",
+                "file": "Eukaryotes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eukaryotes.md",
+                "file": "Eukaryotes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eukaryotes.md"
+                "file": "Eukaryotes.md"
               }
             }
           },
@@ -228,12 +228,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "abe197763625d4f5",
+  "active": "d9bdd1f928424b2c",
   "lastOpenFiles": [
-    "Chapter 6 Notes.md",
-    "eukaryotes.md",
-    "Chapter 13 Notes.md",
+    "Screenshot 2023-02-27 at 20.46.52.png",
     "Chapter 9 Notes.md",
+    "Chapter 6 Notes.md",
+    "Eukaryotes.md",
+    "Chapter 13 Notes.md",
     "mitosis.md",
     "2-7 Class Notes.md",
     "Protists vs Bacteria.md",
