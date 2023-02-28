@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eukaryotes.md",
+                "file": "Chapter 13 Notes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eukaryotes.md",
+                "file": "Chapter 13 Notes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eukaryotes.md"
+                "file": "Chapter 13 Notes.md"
               }
             }
           },
@@ -228,12 +228,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d9bdd1f928424b2c",
+  "active": "a475194daa11a2c6",
   "lastOpenFiles": [
+    "Eukaryotes.md",
     "Screenshot 2023-02-27 at 20.46.52.png",
     "Chapter 9 Notes.md",
     "Chapter 6 Notes.md",
-    "Eukaryotes.md",
     "Chapter 13 Notes.md",
     "mitosis.md",
     "2-7 Class Notes.md",
