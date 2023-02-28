@@ -7,7 +7,7 @@
 ### Prokaryots
 The Genome is essentially a cells complete compliment of DNA. Prokaryotic cells only have a single double stranded DNA molecule that makes up their genomes. All of its genetic information is stored in the nucleiod.
 
-### Eukaryotes
+### [[Eukaryotes]]
 The genome in eukaryotes by contrast is comprised of several double stranded DNA molecules, which are bound in proteins to form the structure of a chromasome. Every eukaryote species has a distinct number of chromosomes, humans contain 46. These human body cells, also known as somatic cells, contain two matched sets of chromosomes known as a diploid.. If you split the chromosome in half you get the 2 individual chromatids that make up 1 chromosome. 
 
 

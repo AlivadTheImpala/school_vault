@@ -54,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b2e3d3a45c58a60f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 6 Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9bdd1f928424b2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "eukaryotes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -86,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mitosis",
+                "query": "eukar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +127,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -123,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 13 Notes.md",
+                "file": "eukaryotes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 13 Notes.md",
+                "file": "eukaryotes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 13 Notes.md"
+                "file": "eukaryotes.md"
               }
             }
           },
@@ -183,8 +208,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -204,10 +228,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a475194daa11a2c6",
+  "active": "abe197763625d4f5",
   "lastOpenFiles": [
-    "Chapter 9 Notes.md",
+    "Chapter 6 Notes.md",
+    "eukaryotes.md",
     "Chapter 13 Notes.md",
+    "Chapter 9 Notes.md",
     "mitosis.md",
     "2-7 Class Notes.md",
     "Protists vs Bacteria.md",
@@ -219,7 +245,6 @@
     "Quiz 2 Notes.md",
     "Chapter 3 Notes.md",
     "nitrogenous base.md",
-    "Chapter 6 Notes.md",
     "Operators.md"
   ]
 }
