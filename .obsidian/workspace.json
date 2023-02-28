@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a475194daa11a2c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 13 Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -91,13 +103,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "888b3822c1b3eb0c",
@@ -113,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 9 Notes.md",
+                "file": "Chapter 13 Notes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -130,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 9 Notes.md",
+                "file": "Chapter 13 Notes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 9 Notes.md"
+                "file": "Chapter 13 Notes.md"
               }
             }
           },
@@ -194,8 +204,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3728ee4efa87e81b",
+  "active": "a475194daa11a2c6",
   "lastOpenFiles": [
+    "Chapter 9 Notes.md",
+    "Chapter 13 Notes.md",
     "mitosis.md",
     "2-7 Class Notes.md",
     "Protists vs Bacteria.md",
@@ -207,7 +219,6 @@
     "Quiz 2 Notes.md",
     "Chapter 3 Notes.md",
     "nitrogenous base.md",
-    "Chapter 9 Notes.md",
     "Chapter 6 Notes.md",
     "Operators.md"
   ]
