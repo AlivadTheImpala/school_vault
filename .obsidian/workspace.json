@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Chatper 12 Notes - Diversity of Life.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Chatper 12 Notes - Diversity of Life.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Chatper 12 Notes - Diversity of Life.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Chatper 12 Notes - Diversity of Life.md"
               }
             }
           },
@@ -166,8 +166,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aebbbf03b5b76b49",
+  "active": "3d28d86d1ec325b3",
   "lastOpenFiles": [
+    "School.md",
+    "Home.md",
     "Untitled",
     "Eukaryotes.md",
     "Chapter 13 Notes.md",
@@ -183,8 +185,6 @@
     "Protists vs Bacteria.md",
     "Chatper 12 Notes - Diversity of Life.md",
     "BIOL 100 - Survey of Biology.md",
-    "School.md",
-    "Home.md",
     "Class Notes Feb 23.md",
     "Quiz 2 Notes.md",
     "Chapter 3 Notes.md",
