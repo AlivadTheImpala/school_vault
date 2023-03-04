@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 11 Notes.md",
+                "file": "natural selection.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 11 Notes.md",
+                "file": "natural selection.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 11 Notes.md",
+                "file": "natural selection.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 11 Notes.md"
+                "file": "natural selection.md"
               }
             }
           },
@@ -182,10 +182,11 @@
   },
   "active": "8e01ddeab55115e4",
   "lastOpenFiles": [
+    "Chapter 11 Notes.md",
+    "natural selection.md",
     "BIOL 100 - Survey of Biology.md",
     "Chapter 12 Notes - Diversity of Life.md",
     "Protists vs Bacteria.md",
-    "Chapter 11 Notes.md",
     "School.md",
     "Home.md",
     "Untitled",
