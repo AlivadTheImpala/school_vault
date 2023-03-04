@@ -4,5 +4,8 @@
 Although Charles Darwin is best know for the theory of [[natural selection]], both he and Alfred Russel Wallace carried out research in search of this. 
 
 There are 3 characteristics that Charles Darwin postulated:
-1. Inheritaded Characteristics: 
+1. Inherited Characteristics: Characteristics are passed down from parent to offspring
+2. Surplus of Offspring: more offspring are produced than are able to survive given the limited resources in a given environment. Therefore there is **competition** every generation for those resources.
+3. Offspring Variety: Offspring vary from each other, and those with characteristics that allow them to survive will then pass along those genes. Over generations this leads to those traits being more represented in subsequent generations leading to changes in populations. Darwin called this process "Descent with modification"
+
 
