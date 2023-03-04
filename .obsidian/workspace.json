@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "phenotype.md",
+                "file": "Chapter 11 Notes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "phenotype.md",
+                "file": "Chapter 11 Notes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "phenotype.md"
+                "file": "Chapter 11 Notes.md"
               }
             }
           },
@@ -204,10 +204,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "928fad794a56aa1a",
+  "active": "8e01ddeab55115e4",
   "lastOpenFiles": [
-    "Chapter 11 Notes.md",
     "phenotype.md",
+    "Chapter 11 Notes.md",
     "Screenshot 2023-03-04 at 15.06.49.png",
     "natural selection.md",
     "BIOL 100 - Survey of Biology.md",
