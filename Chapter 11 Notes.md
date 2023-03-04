@@ -18,7 +18,14 @@ Genetic diversity comes about in two ways:
 1. Mutation
 2. Sexual Reproduction
 
+### Mutation
 Mutation is the main source for new alleles in a population and can have 3 outcomes:
 1. Lowered Fitness: a mutation may affect the phenotype of an individual in a way that lowers its likelihood of survival resulting in fewer offspring
 2. Benefit to Fitness: the mutation may produce a [[phenotype]] that increases the individuals fitness leading to greater number of offspring
-3. No change: mutation may have no effect on fitness. 
+3. Neutral Mutation: mutation may have no effect on fitness. 
+4. 
+### Sexual Reproduction
+In Sexual reproduction, crossing over during meisos leads to genetic diversity by combing in unique ways to produce unique genotypes/phenotypes. 
+
+### Adaptation
+An adaptation occurs when a heritable trait aids in the survival and reproduction of an organism within its environment. The adaptation is a "match" to an environment, meaning that over a period of time, the characteristics presented in populations is directly tied to the resource of the environment they live in. 
