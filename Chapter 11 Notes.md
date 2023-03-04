@@ -28,4 +28,8 @@ Mutation is the main source for new alleles in a population and can have 3 outco
 In Sexual reproduction, crossing over during meisos leads to genetic diversity by combing in unique ways to produce unique genotypes/phenotypes. 
 
 ### Adaptation
-An adaptation occurs when a heritable trait aids in the survival and reproduction of an organism within its environment. The adaptation is a "match" to an environment, meaning that over a period of time, the characteristics presented in populations is directly tied to the resource of the environment they live in. 
+An adaptation occurs when a heritable trait aids in the survival and reproduction of an organism within its environment. The adaptation is a "match" to an environment, meaning that over a period of time, the characteristics presented in populations is directly tied to the resource of the environment they live in. These adaptation though, will change to be favorable or disfavorable depending on the changes within the environment. 
+
+Like in the case of the Galapagos finches, larger beaks were beneficial when there was a decline in smaller soft seeds. Seeds that smaller beaked finches relied on. If the environment changed however and smaller softer seeds were abundent, the population would change over time because now, it is no longer a negative to have a smaller beak.
+
+
