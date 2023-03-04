@@ -18,4 +18,6 @@ Genetic diversity comes about in two ways:
 1. Mutation
 2. Sexual Reproduction
 
-Mutation is by far 
+Mutation is the main source for new alleles in a population and can have 3 outcomes:
+1. Lowered Fitness: a mutation may affect the phenotype of an individual in a way that lowers its likelihood of survival resulting in fewer offspring
+2. Benefit to Fitness: the mutation may produce a [[phenotype]]

@@ -1,0 +1,1 @@
+The external appearance of an individuals genetic makeup. An individuals [[genotype ]]will code for certain characteristics which results in an individual looking a certain way because of that genetic code. This is called the phenotype.
