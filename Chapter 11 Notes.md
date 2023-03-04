@@ -12,3 +12,10 @@ There are 3 characteristics that Charles Darwin postulated:
 ![[Screenshot 2023-03-04 at 15.06.49.png]]
 
 ## Variation and Adaptation
+For [[natural selection]] to occur, there needs to be genetic variation amongst individuals in a population. Being tall because of good nutrition wont pass down genes for being tall, you'd need to have an allele that codes for height.
+
+Genetic diversity comes about in two ways:
+1. Mutation
+2. Sexual Reproduction
+
+Mutation is by far 
