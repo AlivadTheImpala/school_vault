@@ -33,3 +33,4 @@ An adaptation occurs when a heritable trait aids in the survival and reproductio
 Like in the case of the Galapagos finches, larger beaks were beneficial when there was a decline in smaller soft seeds. Seeds that smaller beaked finches relied on. If the environment changed however and smaller softer seeds were abundent, the population would change over time because now, it is no longer a negative to have a smaller beak.
 
 
+
