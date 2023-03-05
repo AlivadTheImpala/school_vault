@@ -32,5 +32,10 @@ An adaptation occurs when a heritable trait aids in the survival and reproductio
 
 Like in the case of the Galapagos finches, larger beaks were beneficial when there was a decline in smaller soft seeds. Seeds that smaller beaked finches relied on. If the environment changed however and smaller softer seeds were abundent, the population would change over time because now, it is no longer a negative to have a smaller beak.
 
+## Patterns of Evolution
+
+### Divergent Evolution
+
+Divergent evolution occurs with a starting ancestor and branches off to form new species. Flowers are an example of this in that flowers will all share the same basic anatomy for reproduction, Their structure and pehnotype will be vastly different based on 
 
 
