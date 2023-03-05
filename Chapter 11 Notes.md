@@ -12,6 +12,7 @@ There are 3 characteristics that Charles Darwin postulated:
 ![[Screenshot 2023-03-04 at 15.06.49.png]]
 
 ## Variation and Adaptation
+***
 For [[natural selection]] to occur, there needs to be genetic variation amongst individuals in a population. Being tall because of good nutrition wont pass down genes for being tall, you'd need to have an allele that codes for height.
 
 Genetic diversity comes about in two ways:
@@ -33,9 +34,11 @@ An adaptation occurs when a heritable trait aids in the survival and reproductio
 Like in the case of the Galapagos finches, larger beaks were beneficial when there was a decline in smaller soft seeds. Seeds that smaller beaked finches relied on. If the environment changed however and smaller softer seeds were abundent, the population would change over time because now, it is no longer a negative to have a smaller beak.
 
 ## Patterns of Evolution
-
+***
 ### Divergent Evolution
+Divergent evolution occurs with a starting ancestor and branches off to form new species. Flowers are an example of this in that flowers will all share the same basic anatomy for reproduction, Their structure and pehnotype will be vastly different based on their environments and their pollinators.
+![[Screenshot 2023-03-04 at 16.50.25.png]]
 
-Divergent evolution occurs with a starting ancestor and branches off to form new species. Flowers are an example of this in that flowers will all share the same basic anatomy for reproduction, Their structure and pehnotype will be vastly different based on 
-
+### Convergent Evolution
+Convergent evolution occurs in the case of two different species, with two different origin points, developing characteristics  that have a similar form 
 
