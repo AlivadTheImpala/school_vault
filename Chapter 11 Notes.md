@@ -42,3 +42,7 @@ Divergent evolution occurs with a starting ancestor and branches off to form new
 ### Convergent Evolution
 Convergent evolution occurs in the case of two different species, with two different origin points, developing characteristics that have a similar form and function. This is called an **analagous structure**. We can look at bats and insects for example. They dont share a common ancestor, but both developed what we call wings. A **Homologus structure**, by contrast, would be the wings of a hummingbird and an ostrich. Their wings did not evolve independantly, they came from a common ancestor with wings, each is just a branch within that tree.
 
+# 11.2 | Mechanisms of Evolution
+## Genetic Drift
+
+
