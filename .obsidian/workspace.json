@@ -4,11 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a8930d6f009bbfca",
+        "id": "a12b1325767c5a8b",
         "type": "tabs",
         "children": [
           {
-            "id": "3d28d86d1ec325b3",
+            "id": "0f6b88db752b1489",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ec2b8c64c57a5833",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,31 +28,19 @@
             }
           },
           {
-            "id": "8e01ddeab55115e4",
+            "id": "bf807f2d0fd874b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 11 Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93037804eaf1ec28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "natural selection.md",
+                "file": "Mar 14 2023.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -95,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "888b3822c1b3eb0c",
@@ -112,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 11 Notes.md",
+                "file": "Mar 14 2023.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -129,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 11 Notes.md",
+                "file": "Mar 14 2023.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 11 Notes.md"
+                "file": "Mar 14 2023.md"
               }
             }
           },
@@ -192,18 +187,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8e01ddeab55115e4",
+  "active": "bf807f2d0fd874b8",
   "lastOpenFiles": [
+    "BIOL 100 - Survey of Biology.md",
+    "Mar 14 2023.md",
+    "School.md",
+    "Home.md",
     "Screenshot 2023-03-04 at 16.50.25.png",
     "phenotype.md",
     "Chapter 11 Notes.md",
     "Screenshot 2023-03-04 at 15.06.49.png",
     "natural selection.md",
-    "BIOL 100 - Survey of Biology.md",
     "Chapter 12 Notes - Diversity of Life.md",
     "Protists vs Bacteria.md",
-    "School.md",
-    "Home.md",
     "Untitled",
     "Eukaryotes.md",
     "Chapter 13 Notes.md",
