@@ -1,4 +1,7 @@
 {
-	"nodes":[],
+	"nodes":[
+		{"id":"12812fcbe0c5fec9","x":-460,"y":-360,"width":250,"height":351,"type":"text","text":"In chapter 1 we learned about [[adaptation]], 1 of 8 characteristics shared by all life. Adaptation refers an organisms ability to fit into its environment. "},
+		{"id":"e2fd64d5e028f75f","x":-732,"y":180,"width":1045,"height":321,"type":"file","file":"Screenshot 2023-03-04 at 15.06.49.png"}
+	],
 	"edges":[]
 }

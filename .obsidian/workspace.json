@@ -15,14 +15,51 @@
               "state": {
                 "file": "Untitled 2.canvas",
                 "viewState": {
-                  "x": -60.54625512586124,
-                  "y": -101.33327545190215,
-                  "zoom": -0.3058580337961515
+                  "x": -214.87752114612118,
+                  "y": -95.50945409264708,
+                  "zoom": -0.6466634814441204
                 }
+              }
+            }
+          },
+          {
+            "id": "ce79de14ec243cf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 11 Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06906ebadc44aaad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 11 Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8145754b871e9aad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 9 Notes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -52,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "eukar",
+                "query": "dna replication",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gamete.md",
+                "file": "Chapter 9 Notes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -107,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gamete.md",
+                "file": "Chapter 9 Notes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gamete.md"
+                "file": "Chapter 9 Notes.md"
               }
             }
           },
@@ -169,15 +206,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c0d077534fa6d4be",
+  "active": "8145754b871e9aad",
   "lastOpenFiles": [
+    "Chapter 11 Notes.md",
+    "Evolution and Diversity.md",
+    "Untitled 2.canvas",
+    "natural selection.md",
+    "Adaptation.md",
+    "Chapter 1 Notes.md",
     "gamete.md",
     "Eukaryotes.md",
     "Chapter 9 Notes.md",
     "Chapter 12 Notes - Diversity of Life.md",
     "Chapter 6 Notes.md",
     "Chapter 3 Notes.md",
-    "Untitled 2.canvas",
     "Protists vs Bacteria.md",
     "Order.md",
     "Levels of Organization.md",
@@ -188,17 +230,12 @@
     "Cytoplasm.md",
     "Chapter 2 Notes.md",
     "Chemical Bonds.md",
-    "Chapter 1 Notes.md",
     "Carbon Dating.md",
     "The Periodic Table of Elements.md",
     "Sensitivity or response to stimuli.md",
     "Growth and Development.md",
     "DNA Ligase.md",
-    "Home.md",
     "Biology 100 - Canvas.canvas",
-    "BIOL 100 - Survey of Biology.md",
-    "Web Development.md",
-    "Mar 14 2023.md",
     "Screenshot 2023-03-04 at 16.50.25.png",
     "Screenshot 2023-03-04 at 15.06.49.png",
     "Untitled",
