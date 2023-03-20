@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "de0bdc54e95ea895",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Order.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c0d077534fa6d4be",
             "type": "leaf",
             "state": {
@@ -27,9 +15,9 @@
               "state": {
                 "file": "Untitled 2.canvas",
                 "viewState": {
-                  "x": -171.36753334576827,
-                  "y": -162.0555563096016,
-                  "zoom": -0.8284084106485049
+                  "x": -60.54625512586124,
+                  "y": -101.33327545190215,
+                  "zoom": -0.3058580337961515
                 }
               }
             }
@@ -64,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "organelles",
+                "query": "eukar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Order.md",
+                "file": "Chapter 2 Notes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Order.md",
+                "file": "Chapter 2 Notes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Order.md"
+                "file": "Chapter 2 Notes.md"
               }
             }
           },
@@ -181,36 +169,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "de0bdc54e95ea895",
+  "active": "c0d077534fa6d4be",
   "lastOpenFiles": [
-    "Levels of Organization.md",
     "Eukaryotes.md",
+    "Chapter 9 Notes.md",
+    "Chapter 12 Notes - Diversity of Life.md",
+    "Chapter 6 Notes.md",
     "Chapter 3 Notes.md",
+    "Untitled 2.canvas",
+    "Protists vs Bacteria.md",
+    "Order.md",
+    "Levels of Organization.md",
     "Week 3 Class Notes.md",
     "mitosis.md",
     "Plasma Membrane.md",
     "DNA.md",
     "Cytoplasm.md",
-    "Order.md",
     "Chapter 2 Notes.md",
-    "Untitled 2.canvas",
     "Chemical Bonds.md",
     "Chapter 1 Notes.md",
     "Carbon Dating.md",
     "The Periodic Table of Elements.md",
     "Sensitivity or response to stimuli.md",
     "Growth and Development.md",
-    "Chapter 12 Notes - Diversity of Life.md",
-    "Chapter 6 Notes.md",
-    "Protists vs Bacteria.md",
-    "Chapter 9 Notes.md",
     "DNA Ligase.md",
     "Home.md",
     "Biology 100 - Canvas.canvas",
     "BIOL 100 - Survey of Biology.md",
     "Web Development.md",
     "Mar 14 2023.md",
-    "School.md",
     "Screenshot 2023-03-04 at 16.50.25.png",
     "Screenshot 2023-03-04 at 15.06.49.png",
     "Untitled",
