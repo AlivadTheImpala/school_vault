@@ -1,9 +1,15 @@
 {
 	"nodes":[
-		{"type":"file","file":"Screenshot 2023-03-04 at 15.06.49.png","id":"e2fd64d5e028f75f","x":-822,"y":160,"width":1045,"height":321},
-		{"type":"text","text":"In chapter 1 we learned about [[adaptation]], 1 of 8 characteristics shared by all life. Adaptation refers an organisms ability to fit into its environment. ","id":"12812fcbe0c5fec9","x":-822,"y":-240,"width":250,"height":351},
-		{"type":"text","text":"In order for [[natural selection]] to occur, there needs to be genetic variation within a population which can occur through sexual reproduction or by mutation. Mutations are checked for during ","id":"8d065ba9b5e8f505","x":-27,"y":-240,"width":250,"height":351},
-		{"type":"text","text":"This ties into [[natural selection]], which states that certain characteristics in an organism allow it to survive in its environment leading to those genes being better represented in future generations.","id":"f49bb4c5b50414a8","x":-424,"y":-240,"width":250,"height":351}
+		{"type":"text","text":"# 1.\nIn chapter 1 we learned about [[adaptation]], 1 of 8 characteristics shared by all life. Adaptation refers an organisms ability to fit into its environment. ","id":"12812fcbe0c5fec9","x":-822,"y":-240,"width":250,"height":351},
+		{"type":"text","text":"# 2. \nThis ties into [[natural selection]], which states that certain characteristics in an organism allow it to survive in its environment leading to those genes being better represented in future generations.","id":"f49bb4c5b50414a8","x":-424,"y":-240,"width":250,"height":351},
+		{"type":"text","text":"# 3. \nIn order for [[natural selection]] to occur, there needs to be genetic variation within a population which can occur through sexual reproduction or by mutation. Mutations are checked for at 3 points during interphase and mitosis. These are the G1 checkpoint the G2 checkpoints during interphase and the M checkpoint during mitosis","id":"8d065ba9b5e8f505","x":-60,"y":-264,"width":326,"height":400},
+		{"type":"file","file":"Screenshot 2023-03-04 at 15.06.49.png","id":"e2fd64d5e028f75f","x":-670,"y":-540,"width":742,"height":228},
+		{"id":"f220bf16631094a9","x":-227,"y":200,"width":660,"height":424,"type":"file","file":"Screenshot 2023-03-19 at 19.52.07.png"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"dec83648164b3cbe","fromNode":"12812fcbe0c5fec9","fromSide":"right","toNode":"f49bb4c5b50414a8","toSide":"left"},
+		{"id":"2015a599fd632eee","fromNode":"f49bb4c5b50414a8","fromSide":"right","toNode":"8d065ba9b5e8f505","toSide":"left"},
+		{"id":"d49bfe03aa49bcd4","fromNode":"f49bb4c5b50414a8","fromSide":"top","toNode":"e2fd64d5e028f75f","toSide":"bottom"},
+		{"id":"854358e1bf3a8b74","fromNode":"8d065ba9b5e8f505","fromSide":"bottom","toNode":"f220bf16631094a9","toSide":"top"}
+	]
 }
