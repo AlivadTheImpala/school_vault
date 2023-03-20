@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"8739ce30bbaa41e5","x":0,"y":0,"width":400,"height":400,"type":"file","file":"Levels of Organization.md"}
+		{"id":"8739ce30bbaa41e5","x":-680,"y":-420,"width":400,"height":400,"color":"4","type":"file","file":"Levels of Organization.md"},
+		{"id":"2115adc51b3179b1","x":-100,"y":-900,"width":400,"height":400,"type":"file","file":"Chapter 2 Notes.md"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"27f9cc00f948f10b","fromNode":"8739ce30bbaa41e5","fromSide":"right","toNode":"2115adc51b3179b1","toSide":"left"}
+	]
 }
