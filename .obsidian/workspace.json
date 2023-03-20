@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 12 Notes - Diversity of Life.md",
+                "file": "Levels of Organization.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "888b3822c1b3eb0c",
@@ -167,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,13 +185,21 @@
   },
   "active": "c0d077534fa6d4be",
   "lastOpenFiles": [
-    "Untitled 2.canvas",
+    "Levels of Organization.md",
+    "Chapter 1 Notes.md",
+    "Chapter 3 Notes.md",
+    "Chapter 2 Notes.md",
+    "Carbon Dating.md",
+    "The Periodic Table of Elements.md",
+    "Chemical Bonds.md",
+    "Sensitivity or response to stimuli.md",
+    "Growth and Development.md",
     "Chapter 12 Notes - Diversity of Life.md",
+    "Untitled 2.canvas",
     "Chapter 6 Notes.md",
     "Protists vs Bacteria.md",
     "Week 3 Class Notes.md",
     "Chapter 9 Notes.md",
-    "Chapter 3 Notes.md",
     "DNA Ligase.md",
     "Home.md",
     "Biology 100 - Canvas.canvas",
@@ -208,15 +216,8 @@
     "Eukaryotes.md",
     "Chapter 13 Notes.md",
     "phagocytosis.md",
-    "exocytosis.md",
     "Screenshot 2023-02-27 at 21.43.43.png",
     "Screenshot 2023-02-27 at 21.37.54.png",
-    "Screenshot 2023-02-27 at 20.46.52.png",
-    "mitosis.md",
-    "2-7 Class Notes.md",
-    "Class Notes Feb 23.md",
-    "Quiz 2 Notes.md",
-    "nitrogenous base.md",
-    "Operators.md"
+    "Screenshot 2023-02-27 at 20.46.52.png"
   ]
 }
