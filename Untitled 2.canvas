@@ -1,7 +1,9 @@
 {
 	"nodes":[
-		{"id":"12812fcbe0c5fec9","x":-460,"y":-360,"width":250,"height":351,"type":"text","text":"In chapter 1 we learned about [[adaptation]], 1 of 8 characteristics shared by all life. Adaptation refers an organisms ability to fit into its environment. "},
-		{"id":"e2fd64d5e028f75f","x":-732,"y":180,"width":1045,"height":321,"type":"file","file":"Screenshot 2023-03-04 at 15.06.49.png"}
+		{"type":"file","file":"Screenshot 2023-03-04 at 15.06.49.png","id":"e2fd64d5e028f75f","x":-732,"y":180,"width":1045,"height":321},
+		{"type":"text","text":"In chapter 1 we learned about [[adaptation]], 1 of 8 characteristics shared by all life. Adaptation refers an organisms ability to fit into its environment. ","id":"12812fcbe0c5fec9","x":-760,"y":-280,"width":250,"height":351},
+		{"id":"4e984e6121d5e042","x":-1408,"y":-3,"width":250,"height":60,"type":"text","text":""},
+		{"id":"f49bb4c5b50414a8","x":-425,"y":87,"width":250,"height":60,"type":"text","text":"This ties into [[natural selection]], which states that certain characteristics in an organism allow it to survive in its environment "}
 	],
 	"edges":[]
 }
