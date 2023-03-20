@@ -1,11 +1,4 @@
 {
-	"nodes":[
-		{"type":"file","file":"Levels of Organization.md","id":"8739ce30bbaa41e5","x":-860,"y":-200,"width":400,"height":400,"color":"4"},
-		{"type":"file","file":"Eukaryotes.md","id":"118408b58ccdf372","x":360,"y":-200,"width":400,"height":400},
-		{"type":"file","file":"Chapter 2 Notes.md","id":"2115adc51b3179b1","x":-220,"y":-340,"width":400,"height":400}
-	],
-	"edges":[
-		{"id":"27f9cc00f948f10b","fromNode":"8739ce30bbaa41e5","fromSide":"right","toNode":"2115adc51b3179b1","toSide":"left"},
-		{"id":"210eeb976126b7e7","fromNode":"2115adc51b3179b1","fromSide":"right","toNode":"118408b58ccdf372","toSide":"left"}
-	]
+	"nodes":[],
+	"edges":[]
 }

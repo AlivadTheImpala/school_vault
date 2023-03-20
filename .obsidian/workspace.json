@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2 Notes.md",
+                "file": "gamete.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2 Notes.md",
+                "file": "gamete.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2 Notes.md"
+                "file": "gamete.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "c0d077534fa6d4be",
   "lastOpenFiles": [
+    "gamete.md",
     "Eukaryotes.md",
     "Chapter 9 Notes.md",
     "Chapter 12 Notes - Diversity of Life.md",
