@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Levels of Organization.md",
+                "file": "Chapter 3 Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Levels of Organization.md",
+                "file": "Chapter 3 Notes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Levels of Organization.md",
+                "file": "Chapter 3 Notes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Levels of Organization.md"
+                "file": "Chapter 3 Notes.md"
               }
             }
           },
@@ -169,8 +169,10 @@
   },
   "active": "c40eb6ee566451eb",
   "lastOpenFiles": [
-    "Order.md",
     "BIOL 100 - Survey of Biology.md",
+    "Chapter 6 Notes.md",
+    "Order.md",
+    "Levels of Organization.md",
     "Chapter 21 Notes.md",
     "Home.md",
     "Screenshot 2023-03-19 at 19.52.07.png",
@@ -178,7 +180,6 @@
     "Untitled 2.canvas",
     "Chapter 11 Notes.md",
     "Biology 100 - Canvas.canvas",
-    "Chapter 6 Notes.md",
     "Chapter 9 Notes.md",
     "Evolution and Diversity.md",
     "Adaptation.md",
@@ -188,7 +189,6 @@
     "Chapter 12 Notes - Diversity of Life.md",
     "Chapter 3 Notes.md",
     "Protists vs Bacteria.md",
-    "Levels of Organization.md",
     "Week 3 Class Notes.md",
     "mitosis.md",
     "Plasma Membrane.md",

@@ -75,7 +75,7 @@ To relate the osmolarity of the extracellular fluid around the cell to the osmol
 ***
 **Hypotonic solutions** like water, the extracellular fluid has a lower concentration of solutes than the fluid inside the cell. This means that there is more water in the extracellular fluid than inside the cell, causing water to flow into the cell (lower concentration of water in the cell). **This can cause the cell to burst, aka lyse, in an animal cell.**
 
-**Hypertonic solutions** such as seawater, the extracellular fluid contain less water than a cell. Because of this, water will move outside the cell, effectively drawing water out of the cell.
+**Hypertonic solutions** such as seawater, the extracellular fluid contains less water than a cell. Because of this, water will move outside the cell, effectively drawing water out of the cell.
 
 **Isotonic solutions** have the same osmolarity inside the cell and extracellular fluid. This means there is no movement of water into or out of the cell.
 ![[Screenshot 2023-01-29 at 18.11.19.png]]
