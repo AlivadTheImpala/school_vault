@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5dcae3c6d327dcf6",
+        "id": "a3fac52f1533ea35",
         "type": "tabs",
         "children": [
           {
-            "id": "c40eb6ee566451eb",
+            "id": "245b0a3baf92aca4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 3 Notes.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 3 Notes.md",
+                "file": "Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 3 Notes.md",
+                "file": "Home.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 3 Notes.md"
+                "file": "Home.md"
               }
             }
           },
@@ -167,7 +167,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c40eb6ee566451eb",
+  "active": "245b0a3baf92aca4",
   "lastOpenFiles": [
     "BIOL 100 - Survey of Biology.md",
     "Chapter 6 Notes.md",
