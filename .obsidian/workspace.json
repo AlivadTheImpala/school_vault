@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "a3fac52f1533ea35",
+        "id": "9bd08ff4e64dd055",
         "type": "tabs",
         "children": [
           {
-            "id": "245b0a3baf92aca4",
+            "id": "225b175af8582aeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Javascript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c4ef8e48cecd57e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24325054ca2fff09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PIP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -66,8 +91,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "PIP.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "PIP.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "PIP.md"
               }
             }
           },
@@ -167,14 +191,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "245b0a3baf92aca4",
+  "active": "24325054ca2fff09",
   "lastOpenFiles": [
+    "Python/Python.md",
+    "PIP.md",
+    "Python stuff.md",
+    "Web Development.md",
+    "Python",
+    "Javascript.md",
+    "Home.md",
     "BIOL 100 - Survey of Biology.md",
     "Chapter 6 Notes.md",
     "Order.md",
     "Levels of Organization.md",
     "Chapter 21 Notes.md",
-    "Home.md",
     "Screenshot 2023-03-19 at 19.52.07.png",
     "natural selection.md",
     "Untitled 2.canvas",
@@ -193,14 +223,8 @@
     "mitosis.md",
     "Plasma Membrane.md",
     "DNA.md",
-    "Cytoplasm.md",
-    "Chapter 2 Notes.md",
-    "Chemical Bonds.md",
-    "Carbon Dating.md",
-    "The Periodic Table of Elements.md",
     "Screenshot 2023-03-04 at 16.50.25.png",
     "Screenshot 2023-03-04 at 15.06.49.png",
-    "Untitled",
     "Screenshot 2023-02-27 at 21.43.43.png",
     "Screenshot 2023-02-27 at 21.37.54.png",
     "Screenshot 2023-02-27 at 20.46.52.png"
