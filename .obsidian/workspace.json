@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "9bd08ff4e64dd055",
+        "id": "d0b295997ac9dee6",
         "type": "tabs",
         "children": [
           {
-            "id": "225b175af8582aeb",
+            "id": "9187ed81ce6b102b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript.md",
+                "file": "Web Development.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7c4ef8e48cecd57e",
+            "id": "b573ae8228de6385",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Python.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24325054ca2fff09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PIP.md",
+                "file": "User Experience.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -111,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PIP.md",
+                "file": "User Experience.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -128,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PIP.md",
+                "file": "User Experience.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PIP.md"
+                "file": "User Experience.md"
               }
             }
           },
@@ -191,15 +179,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "24325054ca2fff09",
+  "active": "b573ae8228de6385",
   "lastOpenFiles": [
+    "Web Development.md",
+    "User Experience.md",
     "Python/Python.md",
+    "Home.md",
     "PIP.md",
     "Python stuff.md",
-    "Web Development.md",
     "Python",
     "Javascript.md",
-    "Home.md",
     "BIOL 100 - Survey of Biology.md",
     "Chapter 6 Notes.md",
     "Order.md",
@@ -222,7 +211,6 @@
     "Week 3 Class Notes.md",
     "mitosis.md",
     "Plasma Membrane.md",
-    "DNA.md",
     "Screenshot 2023-03-04 at 16.50.25.png",
     "Screenshot 2023-03-04 at 15.06.49.png",
     "Screenshot 2023-02-27 at 21.43.43.png",
