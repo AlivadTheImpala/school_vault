@@ -16,5 +16,5 @@ Metrics are a way for us to consistently measure or evaluate something. Some Met
 - Task Success
 - User satisfaction
 - Errors
-
+Metrics must be observable either directly or indirectly. They must also be quantifiable
 
