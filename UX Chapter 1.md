@@ -21,7 +21,12 @@ Metrics must be observable either directly or indirectly. They must also be quan
 A good metric would measure something about the user and their interaction with the product. Whether it is *effective*, *efficient*, or *satisfactory* to use. Because people are different though. 
 
 # 1.3 | The Value of UX Metrics
+Because the metrics we use need to be observable and quantifiable, we can than feel better about making certain decisions for a product or system. Rather than taking a guess on what you think might be better, you can utilize the metrics you've gathered to make a much better decision. 
 
+There are 3 outcomes from implementing change through metrics:
+1. The new version is better than the current one
+2. The new version is worse
+3. No difference between versions
 
 
 
