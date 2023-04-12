@@ -18,5 +18,10 @@ Metrics are a way for us to consistently measure or evaluate something. Some Met
 - Errors
 Metrics must be observable either directly or indirectly. They must also be quantifiable and turned into numbers. For example, a UX metric might reveal that 90% of the users are able to complete a set of tasks in less than 1 minute or 50% of users failed to notice a key element on the interface.
 
-A good metric would measure something about the user and their interaction with the product. Whether it is *effective*, *efficient*, or *satisfactory* to use. Because people are different though 
+A good metric would measure something about the user and their interaction with the product. Whether it is *effective*, *efficient*, or *satisfactory* to use. Because people are different though. 
+
+# 1.3 | The Value of UX Metrics
+
+
+
 
