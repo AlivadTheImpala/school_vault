@@ -28,6 +28,8 @@ There are 3 outcomes from implementing change through UX metrics:
 2. The new version is worse
 3. No difference between versions: user experience may not be whats impacting a newer product, other factors may need to be addressed.
 
+# 1.4 Metrics for Everyone
+It may seem daunting to go out and research in order to find the metrics you need for whatever it is your working on. But you can utilize the book in order to function as a guide for your project. There are services that can do the data collection for you!
 
 
 
