@@ -1,7 +1,7 @@
 #python 
 ***
 # manage.py commands
-[](https://docs.djangoproject.com/en/4.2/ref/django-admin/)
+[manage.py commands doc](https://docs.djangoproject.com/en/4.2/ref/django-admin/)
 - **runserver**: Starts the Django development HTTP server, to serve your Django app on your local computer.
 -  **startapp**: Creates a new Django app in your project. We'll talk about what apps are in more depth soon.
 -  **shell**: Starts a Python interpreter with the Django settings pre-loaded. This is useful for interacting with your application without having to manually load in your Django settings.

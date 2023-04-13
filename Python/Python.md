@@ -2,4 +2,4 @@
 Back to [[Web Development]]
 ***
 - [[PIP]]
-- [[Django]]
+- [[Django Commands]]
