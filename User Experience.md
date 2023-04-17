@@ -1,5 +1,6 @@
 #ux
 Back to [[Web Development]]
 ***
-[[UX Lectures]]
+- [[UX Lectures]]
 - [[Measuring the User Experience 2nd Edition]]
+- 

@@ -1,4 +1,6 @@
 #ux 
+[[Web Design]]
+[[User Experience|UX]]
 # 1.1|  What is the User Experience?
 
 Three Defining Characteristics of User Experience:
