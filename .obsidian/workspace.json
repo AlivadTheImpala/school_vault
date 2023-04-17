@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "08983b7bd7e3e7f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT 121 - Javascript 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "35dce707a29165fd",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -115,8 +127,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -136,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UX Chapter 3.md",
+                "file": "IT 121 - Javascript 1.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UX Chapter 3.md",
+                "file": "IT 121 - Javascript 1.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UX Chapter 3.md"
+                "file": "IT 121 - Javascript 1.md"
               }
             }
           },
@@ -216,20 +227,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b2ee10732bf1f629",
+  "active": "08983b7bd7e3e7f0",
   "lastOpenFiles": [
-    "Measuring the User Experience 2nd Edition.md",
-    "UX Chapter 3.md",
-    "User Experience.md",
+    "School.md",
+    "Variables.md",
+    "Home.md",
     "UX Chapter 1.md",
+    "UX Chapter 3.md",
+    "Measuring the User Experience 2nd Edition.md",
+    "User Experience.md",
     "UX Lectures.md",
     "Web Design.md",
-    "Home.md",
     "Django Commands.md",
     "manage.py.md",
     "Python/Python.md",
     "Web Development.md",
-    "School.md",
     "Lecture2.md",
     "PIP.md",
     "Python stuff.md",
@@ -247,7 +259,6 @@
     "Biology 100 - Canvas.canvas",
     "Chapter 9 Notes.md",
     "Evolution and Diversity.md",
-    "Adaptation.md",
     "Screenshot 2023-03-04 at 16.50.25.png",
     "Screenshot 2023-03-04 at 15.06.49.png",
     "Screenshot 2023-02-27 at 21.43.43.png",
