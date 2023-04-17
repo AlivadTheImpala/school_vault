@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "5649f776ad0f137c",
+            "id": "0a83915ab7fe7345",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django Commands.md",
+                "file": "PyCharm.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django Commands.md",
+                "file": "PyCharm.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django Commands.md",
+                "file": "PyCharm.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django Commands.md"
+                "file": "PyCharm.md"
               }
             }
           },
@@ -191,9 +191,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5649f776ad0f137c",
+  "active": "0a83915ab7fe7345",
   "lastOpenFiles": [
+    "Screenshot 2023-04-17 at 16.55.08.png",
     "Python/Python.md",
+    "PyCharm.md",
+    "Django Commands.md",
     "Web Development.md",
     "Home.md",
     "UX Chapter 3.md",
@@ -206,7 +209,6 @@
     "User Experience.md",
     "UX Lectures.md",
     "Web Design.md",
-    "Django Commands.md",
     "manage.py.md",
     "Lecture2.md",
     "PIP.md",
@@ -219,9 +221,7 @@
     "Levels of Organization.md",
     "Chapter 21 Notes.md",
     "Screenshot 2023-03-19 at 19.52.07.png",
-    "natural selection.md",
     "Untitled 2.canvas",
-    "Chapter 11 Notes.md",
     "Biology 100 - Canvas.canvas",
     "Screenshot 2023-03-04 at 16.50.25.png",
     "Screenshot 2023-03-04 at 15.06.49.png",
