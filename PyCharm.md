@@ -1,3 +1,6 @@
+#python
+Back to [[Python]]
+***
 ## Debugger Stack
 
 ![[Screenshot 2023-04-17 at 16.55.08.png]]
