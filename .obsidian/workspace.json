@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0e65cacb79c6134e",
+        "id": "20bc041ca522e98c",
         "type": "tabs",
         "children": [
           {
-            "id": "b2ee10732bf1f629",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UX Chapter 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7e370e34ccdc911",
+            "id": "bef2a42daf684e10",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0a83915ab7fe7345",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PyCharm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -74,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ux",
+                "query": "Django Comm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -191,14 +167,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f7e370e34ccdc911",
+  "active": "bef2a42daf684e10",
   "lastOpenFiles": [
+    "Home.md",
     "Python/Python.md",
     "PyCharm.md",
     "Screenshot 2023-04-17 at 16.55.08.png",
     "Django Commands.md",
     "Web Development.md",
-    "Home.md",
     "UX Chapter 3.md",
     "UX Chapter 1.md",
     "IT 121 - Javascript 1.md",
