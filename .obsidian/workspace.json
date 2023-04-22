@@ -32,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Hueristics.md",
+                "file": "Django Commands.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Hueristics.md",
+                "file": "Django Commands.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Hueristics.md"
+                "file": "Django Commands.md"
               }
             }
           },
@@ -179,10 +178,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9fa2de5761eb9116",
+  "active": "bef2a42daf684e10",
   "lastOpenFiles": [
-    "Django Commands.md",
     "10 Hueristics.md",
+    "Django Commands.md",
     "Home.md",
     "Python/Python.md",
     "PyCharm.md",
