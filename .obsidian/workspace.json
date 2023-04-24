@@ -4,34 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "20bc041ca522e98c",
+        "id": "4bebfd9e20c47aff",
         "type": "tabs",
         "children": [
           {
-            "id": "bef2a42daf684e10",
+            "id": "c7956b18e3f2215d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django Commands.md",
+                "file": "Python/Python.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9fa2de5761eb9116",
+            "id": "243528527a6c550a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Hueristics.md",
+                "file": "URL Mapping.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django Commands.md",
+                "file": "URL Mapping.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django Commands.md",
+                "file": "URL Mapping.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django Commands.md"
+                "file": "URL Mapping.md"
               }
             }
           },
@@ -178,15 +179,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bef2a42daf684e10",
+  "active": "243528527a6c550a",
   "lastOpenFiles": [
+    "Python/Python.md",
+    "URL Mapping.md",
+    "Web Development.md",
+    "Home.md",
     "10 Hueristics.md",
     "Django Commands.md",
-    "Home.md",
-    "Python/Python.md",
     "PyCharm.md",
     "Screenshot 2023-04-17 at 16.55.08.png",
-    "Web Development.md",
     "UX Chapter 3.md",
     "UX Chapter 1.md",
     "IT 121 - Javascript 1.md",
@@ -207,7 +209,6 @@
     "Chapter 6 Notes.md",
     "Order.md",
     "Levels of Organization.md",
-    "Chapter 21 Notes.md",
     "Screenshot 2023-03-19 at 19.52.07.png",
     "Untitled 2.canvas",
     "Biology 100 - Canvas.canvas",
