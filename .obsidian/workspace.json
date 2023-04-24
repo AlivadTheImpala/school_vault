@@ -30,6 +30,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e48ad05066e7a326",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Views.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "407557826ca33f67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1,
@@ -181,8 +205,10 @@
   },
   "active": "243528527a6c550a",
   "lastOpenFiles": [
-    "Python/Python.md",
+    "Templates.md",
+    "Views.md",
     "URL Mapping.md",
+    "Python/Python.md",
     "Web Development.md",
     "Home.md",
     "10 Hueristics.md",
@@ -207,8 +233,6 @@
     "Javascript.md",
     "BIOL 100 - Survey of Biology.md",
     "Chapter 6 Notes.md",
-    "Order.md",
-    "Levels of Organization.md",
     "Screenshot 2023-03-19 at 19.52.07.png",
     "Untitled 2.canvas",
     "Biology 100 - Canvas.canvas",

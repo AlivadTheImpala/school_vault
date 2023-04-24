@@ -1,4 +1,4 @@
 ---
 tag: core-django-concept
-related: [[Views]]
 ---
+related: [[Views]], [[Templates]]
