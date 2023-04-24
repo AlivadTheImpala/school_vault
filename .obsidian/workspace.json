@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "URL Mapping.md",
+                "file": "Templates.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "URL Mapping.md",
+                "file": "Templates.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "URL Mapping.md"
+                "file": "Templates.md"
               }
             }
           },
@@ -203,12 +203,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "243528527a6c550a",
+  "active": "407557826ca33f67",
   "lastOpenFiles": [
-    "Templates.md",
     "Views.md",
     "URL Mapping.md",
     "Python/Python.md",
+    "Templates.md",
     "Web Development.md",
     "Home.md",
     "10 Hueristics.md",

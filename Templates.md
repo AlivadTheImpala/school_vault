@@ -1,4 +1,4 @@
 ---
-tag: core-django-concept
+tag: core-django-concept, python
 ---
-related: [[URL Mapping]] [[Views]]
+related: [[URL Mapping]], [[Views]]
