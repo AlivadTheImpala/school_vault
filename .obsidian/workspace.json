@@ -4,23 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bf43633d0c9967a8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "84794ee93b30ca71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+        "id": "618abc55da821866",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Python/Python.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "stacked": true
+        }
       }
     ],
     "direction": "vertical"
@@ -87,6 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Python/Python.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,6 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Python/Python.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +119,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Python/Python.md"
+              }
             }
           },
           {
@@ -163,18 +160,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "457e91d59870c3ce",
+  "active": "618abc55da821866",
   "lastOpenFiles": [
+    "PyCharm.md",
+    "Python/Python.md",
+    "Web Development.md",
     "Home.md",
     "Resume.md",
     "Views.md",
     "URL Mapping.md",
-    "Python/Python.md",
     "Templates.md",
-    "Web Development.md",
     "10 Hueristics.md",
     "Django Commands.md",
-    "PyCharm.md",
     "Screenshot 2023-04-17 at 16.55.08.png",
     "UX Chapter 3.md",
     "UX Chapter 1.md",
