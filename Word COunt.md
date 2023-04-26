@@ -1,7 +1,0 @@
-As an Air Force veteran, I have a proven ability to troubleshoot and solve complex problems in diverse environments. With my educational experience and background in veterinary and maintenance roles, I am now seeking a position in the IT sector to apply my analytical and critical thinking skills to resolve technical issues and improve operational efficiency.
-
-My ultimate goal is to provide exceptional user support, utilizing my computer systems and software knowledge to identify, troubleshoot, upgrade, and resolve technical problems promptly and effectively. I understand the importance of providing quick and efficient technical support to end-users in the IT sector.
-
-To achieve this goal, I am committed to expanding my knowledge and skills in the IT field by pursuing additional education and certifications, and gaining experience in a variety of technical areas. I recognize the demand for professionals who can maintain and optimize computer systems and software, and I am eager to be a valuable asset to any organization that relies on technology to achieve its business objectives.
-
-With my proactive and goal-oriented mindset, coupled with my ability to solve complex problems and adapt to new situations, I am confident in my ability to make a positive impact in the IT sector.
