@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "618abc55da821866",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Python/Python.md",
-            "mode": "source",
-            "source": false
+        "id": "c68c389da04b1e0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fb6fdd2d260238e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Python.md",
+                "file": "Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Python.md",
+                "file": "Home.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Python.md"
+                "file": "Home.md"
               }
             }
           },
@@ -160,7 +166,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "618abc55da821866",
+  "active": "7fb6fdd2d260238e",
   "lastOpenFiles": [
     "PyCharm.md",
     "Python/Python.md",
