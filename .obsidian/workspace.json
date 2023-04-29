@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Models.md",
+                "file": "Python/Python.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Models.md",
+                "file": "Python/Python.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Models.md"
+                "file": "Python/Python.md"
               }
             }
           },
@@ -191,10 +190,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ee227763cddaa406",
+  "active": "0f93ef50da72c89b",
   "lastOpenFiles": [
-    "Python/Python.md",
     "Models.md",
+    "Python/Python.md",
     "Django Commands.md",
     "Home.md",
     "PyCharm.md",
