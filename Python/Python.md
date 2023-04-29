@@ -7,4 +7,5 @@ Back to [[Web Development]]
 - [[URL Mapping]]
 - [[Views]]
 - [[Templates]]
+- [[Models]]
 - 
