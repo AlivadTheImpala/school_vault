@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "python",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,7 +166,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0f93ef50da72c89b",
+  "active": "457e91d59870c3ce",
   "lastOpenFiles": [
     "Python/Python.md",
     "Home.md",
