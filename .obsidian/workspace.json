@@ -11,8 +11,12 @@
             "id": "0f93ef50da72c89b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Django Commands.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "resume",
+                "query": "python",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Django Commands.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Django Commands.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Django Commands.md"
+              }
             }
           },
           {
@@ -160,9 +168,9 @@
   },
   "active": "0f93ef50da72c89b",
   "lastOpenFiles": [
+    "Python/Python.md",
     "Home.md",
     "PyCharm.md",
-    "Python/Python.md",
     "Web Development.md",
     "Resume.md",
     "Views.md",
