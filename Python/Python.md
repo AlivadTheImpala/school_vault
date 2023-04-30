@@ -26,7 +26,16 @@ Back to [[Web Development]]
 ```python
 >>>from reviews.models import Contributor
 >>>Contributor.objects.all()
-<QuerySet [<Contributor: Rowel>, <Contributor: Packt>, <Contributor: Packtp>, <Contributor: Stephen>, <Contributor: Peter>]>
+<QuerySet [<Contributor: Brandon>, <Contributor: Packt>, <Contributor: Packtp>, <Contributor: Stephen>, <Contributor: Peter>]>
 
-# you can list the objects in order to look up specific values 
+# place the QuerySet in a variable and you can use list indexing to look up a specific value by specifying the index position. 
+>>>contributors = Contributor.objects.all()
+>>>contributors[0]
+'Brandon'
+
+# you can also specify specific values for the indexed object youre looking for.
+>>>contributors[0].first_names
+'Brandon'
+>>>contributors[0].last_names
+'Davila'
 ```
