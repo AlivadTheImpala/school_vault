@@ -39,3 +39,5 @@ Back to [[Web Development]]
 >>>contributors[0].last_names
 'Davila'
 ```
+
+**filter():** 
