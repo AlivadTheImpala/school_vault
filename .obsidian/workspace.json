@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Python.md",
+                "file": "Django Commands.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Python.md",
+                "file": "Django Commands.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Python.md"
+                "file": "Django Commands.md"
               }
             }
           },
@@ -204,10 +205,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0f93ef50da72c89b",
+  "active": "db917028064c1698",
   "lastOpenFiles": [
-    "Django.md",
     "Python/Python.md",
+    "Django.md",
     "Models.md",
     "Django Commands.md",
     "Home.md",
