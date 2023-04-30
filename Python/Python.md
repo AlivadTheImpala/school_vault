@@ -9,4 +9,5 @@ Back to [[Web Development]]
 - [[Templates]]
 - [[Models]]
 - [[Django]]
-- 
+## Useful methods 
+get(): this method can be used to 
