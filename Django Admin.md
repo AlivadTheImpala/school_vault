@@ -18,7 +18,7 @@ admin.site.register(BookContributor)
 admin.site.register(Review)
 ```
 
-When taking a closer look at the forms generated in an admin app lets use the reviews app as an example. When creat
+When taking a closer look at the forms generated in an admin app lets use the reviews app as an example. When creating a model in django, we add certain attributes to our variables, like CharField, URLField, and EmailField. This results in Django creating the coresponding HTML attributes for the form created using this model.
 ```python
 class Publisher(models.Model):
 """A company that publishes books."""
@@ -29,4 +29,31 @@ class Publisher(models.Model):
     website = models.URLField(help_text="The Publisher's website.")
 
     email = models.EmailField(help_text="The Publisher's email address.")
+```
+
+The following is the corresponding HTML generated based on the Publisher Model above
+```html
+<input type="text" 
+	   name="name" 
+	   value="Packt Publishing"
+	   class="vTextField" 
+	   maxlength="50"
+	   required=""
+	   id="id_name">
+	   
+<input type="url" 
+	   name="website" 
+	   value="https://www.packtpub.com/"
+	   class="vURLField" 
+	   maxlength="200" 
+	   required=""
+	   id="id_website">            
+
+<input type="email" 
+	   name="email" 
+	   value="info@packtpub.com"
+	   class="vTextField" 
+	   maxlength="254" 
+	   required=""
+	   id="id_email">
 ```
