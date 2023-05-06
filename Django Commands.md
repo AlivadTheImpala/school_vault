@@ -13,3 +13,4 @@
 ***
 # activating a virtual environment
 - **source envname/bin/activate** : replace "envname" with the name of the folder of your virtual environment. "source" is telling the terminal to read and execute whatever file script you specify. Here the script is 'activate' which is found in the bin directory of the virtual environment.
+
