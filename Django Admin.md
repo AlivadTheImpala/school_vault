@@ -1,5 +1,5 @@
 #core-django-concept #python 
-
+the code in this note is in refere
 ___
 # Admin App
 the admin app allows us an easy to use [[CRUD]] system to modify and create information. with admin.site.register() you can create a forms basic schema with the models created for our database in models.py
@@ -18,6 +18,7 @@ admin.site.register(BookContributor)
 admin.site.register(Review)
 ```
 
+# Forms in admin app
 When taking a closer look at the forms generated in an admin app lets use the reviews app as an example. When creating a model in django, we add certain attributes to our variables, like CharField, URLField, and EmailField. This results in Django creating the coresponding HTML attributes for the form created using this model.
 ```python
 class Publisher(models.Model):
@@ -57,3 +58,6 @@ The following is the corresponding HTML generated based on the Publisher Model a
 	   required=""
 	   id="id_email">
 ```
+
+## Forms rendered in the admin app.
+![[Screenshot 2023-05-06 at 15.15.08.png]]
