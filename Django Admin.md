@@ -61,3 +61,5 @@ The following is the corresponding HTML generated based on the Publisher Model a
 
 ## Forms rendered in the admin app.
 ![[Screenshot 2023-05-06 at 15.15.08.png]]
+
+# Modifying the Admin Interface
