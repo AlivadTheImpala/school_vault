@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django.md",
+                "file": "Django Admin.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Python.md",
+                "file": "Django Admin.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Python.md",
+                "file": "Django Admin.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Python.md"
+                "file": "Django Admin.md"
               }
             }
           },
@@ -180,11 +181,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3f4b015f973239ca",
+  "active": "f156be34e78df0dd",
   "lastOpenFiles": [
     "Django.md",
-    "Django Admin.md",
     "Python/Python.md",
+    "Django Admin.md",
     "Django Commands.md",
     "Views.md",
     "URL Mapping.md",
