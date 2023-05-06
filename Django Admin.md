@@ -1,5 +1,5 @@
 #core-django-concept #python 
-the code in this note is in reference to the book Web Development with Django . Everything referenced here can be found in Chapter 4
+the code in this note is in reference to the book Web Development with Django by Packt Publishing. Everything referenced here can be found in Chapter 4
 ___
 # Admin App
 the admin app allows us an easy to use [[CRUD]] system to modify and create information. with admin.site.register() you can create a forms basic schema with the models created for our database in models.py
