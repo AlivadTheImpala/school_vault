@@ -63,3 +63,4 @@ The following is the corresponding HTML generated based on the Publisher Model a
 ![[Screenshot 2023-05-06 at 15.15.08.png]]
 
 # Modifying the Admin Interface
+![[adminsite_attributes.jpg]]
