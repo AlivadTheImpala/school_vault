@@ -64,3 +64,14 @@ The following is the corresponding HTML generated based on the Publisher Model a
 
 # Modifying the Admin Interface
 ![[adminsite_attributes.jpg]]
+
+## Viewing the Default Attributes
+in order to view the default values of these attributes, navigate to your project directory and start the shell (run the server first if its not already running)
+```python
+python3 manage.py shell
+>>>from django.contrib import admin
+>>> admin.site.site_title
+'Django site admin'
+>>> admin.site.site_header
+'Django administration'
+```
