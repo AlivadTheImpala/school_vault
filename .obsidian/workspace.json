@@ -4,11 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9c3337cd60abcfcc",
+        "id": "4413d1192e0043bd",
         "type": "tabs",
         "children": [
           {
-            "id": "3f4b015f973239ca",
+            "id": "e9cae181759f4425",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "6c1bce9c29932512",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +28,31 @@
             }
           },
           {
-            "id": "f156be34e78df0dd",
+            "id": "104a08581c07637c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django Admin.md",
+                "file": "Django.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "823a327608c14359",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Django Commands.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -77,6 +97,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "d34f732a51c609c2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -100,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django Admin.md",
+                "file": "Django Commands.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django Admin.md",
+                "file": "Django Commands.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django Admin.md"
+                "file": "Django Commands.md"
               }
             }
           },
@@ -181,18 +209,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f156be34e78df0dd",
+  "active": "823a327608c14359",
   "lastOpenFiles": [
-    "adminsite_attributes.jpg",
-    "Screenshot 2023-05-06 at 15.15.08.png",
     "Django.md",
     "Python/Python.md",
+    "Web Development.md",
+    "Home.md",
+    "adminsite_attributes.jpg",
+    "Screenshot 2023-05-06 at 15.15.08.png",
     "Django Admin.md",
     "Django Commands.md",
     "Views.md",
     "URL Mapping.md",
-    "Web Development.md",
-    "Home.md",
     "PIP.md",
     "Templates.md",
     "Models.md",
