@@ -7,4 +7,6 @@ Back to [[Python]]
 -  [[Views]]
 - [[Templates]]
 - [[Models]]
-- 
+
+# Creating a Project and an App
+- ``django-admin startproject nameOfProject`` 
