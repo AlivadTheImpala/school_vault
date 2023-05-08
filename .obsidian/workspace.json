@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django.md",
+                "file": "Django Commands.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django.md",
+                "file": "Django Commands.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django.md"
+                "file": "Django Commands.md"
               }
             }
           },
@@ -209,10 +209,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "104a08581c07637c",
+  "active": "823a327608c14359",
   "lastOpenFiles": [
-    "Django Commands.md",
     "Django.md",
+    "Django Commands.md",
     "Python/Python.md",
     "Web Development.md",
     "Home.md",

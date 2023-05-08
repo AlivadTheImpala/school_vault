@@ -19,4 +19,5 @@ source <directoryname>/bin/activate
 
 - ``django-admin startproject nameOfProject`` 
 - ``django-admin startapp nameOfApp`` 
-	- 
+	- ``python3 manage.py migrate ``
+	- create a superuser at this point `` python3 manage.py createsuperuser
