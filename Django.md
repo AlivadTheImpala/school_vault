@@ -19,3 +19,4 @@ source <directoryname>/bin/activate
 
 - ``django-admin startproject nameOfProject`` 
 - ``django-admin startapp nameOfApp`` 
+	- 
