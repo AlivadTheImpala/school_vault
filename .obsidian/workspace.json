@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "User Experience.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "User Experience.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "User Experience.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "User Experience.md"
               }
             }
           },
@@ -223,11 +223,15 @@
   },
   "active": "ebbabee31e7b9493",
   "lastOpenFiles": [
+    "Measuring the User Experience 2nd Edition.md",
+    "User Experience.md",
+    "UX Lectures.md",
+    "Web Design.md",
+    "Home.md",
     "Django Commands.md",
     "Django.md",
     "Python/Python.md",
     "Web Development.md",
-    "Home.md",
     "adminsite_attributes.jpg",
     "Screenshot 2023-05-06 at 15.15.08.png",
     "Django Admin.md",
@@ -236,8 +240,6 @@
     "PIP.md",
     "Templates.md",
     "Models.md",
-    "Web Design.md",
-    "User Experience.md",
     "PyCharm.md",
     "Resume.md",
     "10 Hueristics.md",
@@ -248,8 +250,6 @@
     "Logic.md",
     "School.md",
     "Variables.md",
-    "Measuring the User Experience 2nd Edition.md",
-    "UX Lectures.md",
     "manage.py.md",
     "Python",
     "Screenshot 2023-03-19 at 19.52.07.png",
