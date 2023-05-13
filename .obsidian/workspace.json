@@ -11,38 +11,6 @@
             "id": "e9cae181759f4425",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ebbabee31e7b9493",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "User Experience.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c1bce9c29932512",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Python.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "104a08581c07637c",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Django.md",
@@ -50,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "823a327608c14359",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Django Commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#python",
+                "query": "createsuper",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "888b3822c1b3eb0c",
@@ -140,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "User Experience.md",
+                "file": "Django.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -157,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "User Experience.md",
+                "file": "Django.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "User Experience.md"
+                "file": "Django.md"
               }
             }
           },
@@ -221,17 +175,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ebbabee31e7b9493",
+  "active": "e9cae181759f4425",
   "lastOpenFiles": [
+    "Web Development.md",
+    "Home.md",
     "Measuring the User Experience 2nd Edition.md",
     "User Experience.md",
     "UX Lectures.md",
     "Web Design.md",
-    "Home.md",
     "Django Commands.md",
     "Django.md",
     "Python/Python.md",
-    "Web Development.md",
     "adminsite_attributes.jpg",
     "Screenshot 2023-05-06 at 15.15.08.png",
     "Django Admin.md",
