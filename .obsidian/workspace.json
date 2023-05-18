@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4413d1192e0043bd",
+        "id": "0093ced63bd32f17",
         "type": "tabs",
         "children": [
           {
-            "id": "e9cae181759f4425",
+            "id": "63958454a97f58ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django.md",
+                "file": "Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django.md",
+                "file": "Home.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django.md"
+                "file": "Home.md"
               }
             }
           },
@@ -175,7 +175,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e9cae181759f4425",
+  "active": "63958454a97f58ca",
   "lastOpenFiles": [
     "Web Development.md",
     "Home.md",
