@@ -14,8 +14,11 @@
 14. Click Upload to upload your static web files
 15. Drag and drop your files then click upload at the bottom
 16. Now in your buckets dashboard click "Permissions"
-17. Scroll till you see Bucket Policy and edit
-18. 
+17. Edit the "Block public access"
+18. uncheck "block all public access"
+19. click save changes, enter "confirm" in the prompt, then click confirm.
+20. Scroll till you see Bucket Policy and edit
+21. paste this into the policy and replace "myitbucketyo" with whatever your bucket is called.
 ```json
 { "Version":"2012-10-17",
 "Statement":[{ "Sid":"PublicReadGetObject",
@@ -24,3 +27,4 @@
 } ]
 }
 ```
+22. 
