@@ -9,3 +9,4 @@
 9. Scroll down till you see Static Web Hosting and edit
 10. Enable "static web hosting"
 11. for index document enter "index.html"
+12. Save changes 
