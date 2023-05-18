@@ -14,4 +14,13 @@
 14. Click Upload to upload your static web files
 15. Drag and drop your files then click upload at the bottom
 16. Now in your buckets dashboard click "Permissions"
-17. Scroll till you see Bucket Policy
+17. Scroll till you see Bucket Policy and edit
+18. 
+```json
+{ "Version":"2012-10-17",
+"Statement":[{ "Sid":"PublicReadGetObject",
+"Effect":"Allow", "Principal": "*",
+"Action":["s3:GetObject"], "Resource":["arn:aws:s3:::myitbucketyo/*" ]
+} ]
+}
+```
