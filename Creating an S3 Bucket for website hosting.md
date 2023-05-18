@@ -10,3 +10,8 @@
 10. Enable "static web hosting"
 11. for index document enter "index.html"
 12. Save changes 
+13. In your buckets dashboard, go to the "objects tab"
+14. Click Upload to upload your static web files
+15. Drag and drop your files then click upload at the bottom
+16. Now in your buckets dashboard click "Permissions"
+17. Scroll till you see Bucket Policy
