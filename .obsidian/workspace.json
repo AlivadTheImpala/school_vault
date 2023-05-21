@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django Commands.md",
+                "file": "Chapter 11 Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5bc0ea061df3ee33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django Commands.md",
+                "file": "Templates.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django Commands.md",
+                "file": "Templates.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django Commands.md"
+                "file": "Templates.md"
               }
             }
           },
@@ -175,19 +188,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c00198086413143e",
+  "active": "5bc0ea061df3ee33",
   "lastOpenFiles": [
-    "Chapter 11 Notes.md",
-    "Home.md",
-    "Creating an S3 Bucket for website hosting.md",
+    "Django.md",
+    "Python/Python.md",
     "Web Development.md",
+    "Home.md",
+    "Chapter 11 Notes.md",
+    "Django Commands.md",
+    "Creating an S3 Bucket for website hosting.md",
     "Measuring the User Experience 2nd Edition.md",
     "User Experience.md",
     "UX Lectures.md",
     "Web Design.md",
-    "Django Commands.md",
-    "Django.md",
-    "Python/Python.md",
     "adminsite_attributes.jpg",
     "Screenshot 2023-05-06 at 15.15.08.png",
     "Django Admin.md",
