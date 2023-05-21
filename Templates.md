@@ -15,4 +15,16 @@ the load tag takes on on one or more packages/libraries to load into.
 first you must load the static template using the load template tag. This is because the static template tag is not a part of the default set of django templates that are automatically loaded.
 ```python
 {% load static %}
+
+# Then you can use the static tag to generate a URL for all your assets
+{% static landing/logo.png %}
+# renders to
+/static/landing/logo.png
+
+# above we have already namespaced our logo.png file. this would be sitting in:
+business_site/landing/static/landing/logo.png
 ```
+
+In a practical setting, we would use the static tag to render in image inside of a normal HTML 
+`<img>`
+
