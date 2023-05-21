@@ -40,3 +40,6 @@ Or if we wanted to generate the URL for a linked CSS file
 <link href="/static/path/to/file.css" rel="stylesheet">
 ```
 
+## the as suffix
+
+you can use the `as[attribute]` to assign the result to a variable, which you can use again elsewhere. This can be useful if you have an image that you want to use in multiple places. 
