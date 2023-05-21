@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c4dab05c36e3355b",
+        "id": "f779e407d65e27c8",
         "type": "tabs",
         "children": [
           {
-            "id": "c00198086413143e",
+            "id": "aafe5f3dca2a6c17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 11 Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5bc0ea061df3ee33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates.md",
+                "file": "Django.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "env",
+                "query": "virtual ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates.md",
+                "file": "Django.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates.md",
+                "file": "Django.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates.md"
+                "file": "Django.md"
               }
             }
           },
@@ -188,14 +175,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5bc0ea061df3ee33",
+  "active": "aafe5f3dca2a6c17",
   "lastOpenFiles": [
+    "Django Commands.md",
     "Django.md",
+    "Home.md",
     "Python/Python.md",
     "Web Development.md",
-    "Home.md",
     "Chapter 11 Notes.md",
-    "Django Commands.md",
     "Creating an S3 Bucket for website hosting.md",
     "Measuring the User Experience 2nd Edition.md",
     "User Experience.md",
