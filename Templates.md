@@ -43,3 +43,11 @@ Or if we wanted to generate the URL for a linked CSS file
 ## the as suffix
 
 you can use the `as[attribute]` to assign the result to a variable, which you can use again elsewhere. This can be useful if you have an image that you want to use in multiple places. 
+
+```html
+<img src="{% static 'logo.png' as logo_path %}">
+<!-- which would render out html like so:-->
+<img src="/static/logo.png">
+<!-- This is great because now we have a variable that we can use to generate that same html-->
+<img src="{{ logo_path }}">
+```
