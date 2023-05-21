@@ -26,5 +26,17 @@ business_site/landing/static/landing/logo.png
 ```
 
 In a practical setting, we would use the static tag to render in image inside of a normal HTML 
-`<img>`
+`<img>` tag
+```html
+<img src="{% static 'landing/logo.png' %}">
+<!-- which would render out html like so:-->
+<img src="/static/landing/logo.png">
+```
+
+Or if we wanted to generate the URL for a linked CSS file
+```html
+<link href="{% static 'path/to/file.css' %}" rel="stylesheet">
+<!-- which would render out html like so:-->
+<link href="/static/path/to/file.css" rel="stylesheet">
+```
 
