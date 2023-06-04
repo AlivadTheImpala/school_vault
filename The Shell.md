@@ -27,10 +27,14 @@ For example,
 ## Basic Git Workflow
 When working in your repository, eventually youll want to add your changes so that youre keeping track of your project. 
 
-| Command    | Effect |
-| ---------- | ------ |
-| git status |  use this whenever you want to see the status of your local branch compared to your remote.      |
-| git add    |        |
+### The Staging Area
+The git staging area is an area that holds all of your changes. They'll all wait here until you decided to commit them. Committing is the sum of all the changes, this is where you add a message that concisely describes the changes.
+
+| Command    | Effect                                                                                                                          |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| git status | use this whenever you want to see the status of your local branch compared to your remote. You'll also see any untracked files. |
+| git add    | use this when you want to add any files into the staging area.                                                                  |
+| git commit  -m "MESSAGE GOES HERE"|   use this when you have the collection of all your changes and are ready to                                                                                                                             |
 
 
 
