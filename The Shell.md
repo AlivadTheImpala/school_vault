@@ -8,7 +8,7 @@
 
 
 
- cd can only see subdirectoriess within the current director; it cant see anything above it. adding .. after cd 'cd ..' 
+ cd can only see subdirectoriess within the current director; it cant see anything above it. 
 
 
 ***

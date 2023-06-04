@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6eeebf5477a00635",
+        "id": "42ecbb1708c2012d",
         "type": "tabs",
         "children": [
           {
-            "id": "9f486c9d6ea978a7",
+            "id": "252d3d33230aecf3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "The Shell.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "The Shell.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "The Shell.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "The Shell.md"
               }
             }
           },
@@ -175,19 +174,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9f486c9d6ea978a7",
+  "active": "252d3d33230aecf3",
   "lastOpenFiles": [
+    "Web Development.md",
+    "Home.md",
+    "Web Design.md",
     "Django Commands.md",
     "Django.md",
-    "Home.md",
     "Python/Python.md",
-    "Web Development.md",
     "Chapter 11 Notes.md",
     "Creating an S3 Bucket for website hosting.md",
     "Measuring the User Experience 2nd Edition.md",
     "User Experience.md",
     "UX Lectures.md",
-    "Web Design.md",
     "adminsite_attributes.jpg",
     "Screenshot 2023-05-06 at 15.15.08.png",
     "Django Admin.md",
