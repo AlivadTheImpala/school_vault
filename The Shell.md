@@ -25,7 +25,17 @@ For example,
 - `git status` is read as `git | status | (no destination)`.
 
 ## Basic Git Workflow
-W
+When working in your repository, eventually youll want to add your changes so that youre keeping track of your project. 
+
+| Command    | Effect |
+| ---------- | ------ |
+| git status |  use this whenever you want to see the status of your local branch compared to your remote.      |
+| git add    |        |
+
+
+
+
+
 
 ***
 back to [[Index Page]]
