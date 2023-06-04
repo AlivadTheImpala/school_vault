@@ -4,11 +4,10 @@
 | cd      | this one will "change directory." If you only enter cd, you will be at your machines main directory                                                            |
 | pwd     | shows you what your current directory is.                                                                                                                      |
 | -F      | if you add -F after ls "ls -F" it will tell you the type of file you are looking at. / denotes a directory, @ denotes a link, and * denotes an executable file |
-|         |                                                                                                                                                                |
 
 
 
- cd can only see subdirectoriess within the current director; it cant see anything above it. 
+ cd can only see subdirectories within the current director; it cant see anything above it. 
 
 
 
@@ -30,11 +29,13 @@ When working in your repository, eventually youll want to add your changes so th
 ### The Staging Area
 The git staging area is an area that holds all of your changes. They'll all wait here until you decided to commit them. Committing is the sum of all the changes, this is where you add a message that concisely describes the changes.
 
-| Command    | Effect                                                                                                                          |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| git status | use this whenever you want to see the status of your local branch compared to your remote. You'll also see any untracked files. |
-| git add    | use this when you want to add any files into the staging area.                                                                  |
-| git commit  -m "MESSAGE GOES HERE"|   use this when you have the collection of all your changes and are ready to                                                                                                                             |
+| Command                            | Effect                                                                                                                                                       |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| git status                         | use this whenever you want to see the status of your local branch compared to your remote. You'll also see any untracked files.                              |
+| git add                            | use this when you want to add any files into the staging area.                                                                                               |
+| git commit  -m "MESSAGE GOES HERE" | use this when you have the collection of all your changes and are ready to commit them as a change. Once you do this you can send them to the remote branch. |
+| git push                           |                                                                                                                                                              |
+| git log                            | use this to see a log of of git commit activity                                                                                                                                                             |
 
 
 
