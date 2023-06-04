@@ -14,5 +14,18 @@
 
 # Git Basics
 
+## Git Syntax
+
+git is written in the following format: **program | action | destination**
+
+For example,
+
+- `git add .` is read as  `git | add | .` where the period represents everything in the current directory;
+- `git commit -m "message"` is read as `git | commit -m | "message"`; and
+- `git status` is read as `git | status | (no destination)`.
+
+## Basic Git Workflow
+W
+
 ***
 back to [[Index Page]]
