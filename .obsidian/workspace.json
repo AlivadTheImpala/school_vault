@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django.md",
+                "file": "API Endpoint.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django.md",
+                "file": "API Endpoint.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django.md",
+                "file": "API Endpoint.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django.md"
+                "file": "API Endpoint.md"
               }
             }
           },
@@ -174,13 +174,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aebbbf03b5b76b49",
+  "active": "3d6371eeeba075c9",
   "lastOpenFiles": [
+    "Django.md",
+    "API Endpoint.md",
+    "Django Admin.md",
     "Home.md",
     "Web Development.md",
     "Web Design.md",
     "Django Commands.md",
-    "Django.md",
     "Python/Python.md",
     "Chapter 11 Notes.md",
     "Creating an S3 Bucket for website hosting.md",
@@ -189,7 +191,6 @@
     "UX Lectures.md",
     "adminsite_attributes.jpg",
     "Screenshot 2023-05-06 at 15.15.08.png",
-    "Django Admin.md",
     "Views.md",
     "URL Mapping.md",
     "PIP.md",
@@ -204,7 +205,6 @@
     "IT 121 - Javascript 1.md",
     "Logic.md",
     "School.md",
-    "Variables.md",
     "Python",
     "Screenshot 2023-03-19 at 19.52.07.png",
     "Untitled 2.canvas",

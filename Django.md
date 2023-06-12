@@ -7,7 +7,7 @@ Back to [[Python]]
 -  [[Views]]
 - [[Templates]]
 - [[Models]]
-- [[]]
+- [[API Endpoint]]
 
 # Creating a Project and an App
 1st step is to create a virtual environment. In python 3.4+ this is a built in module called venv. in the command line, navigate to where you would like to install the virtual environment and enter the following to create the directory.
