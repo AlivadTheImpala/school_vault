@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP.md",
+                "file": "Web Development.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,11 +202,14 @@
   },
   "active": "b024c97bfe37f632",
   "lastOpenFiles": [
+    "Web Development.md",
+    "Home.md",
+    "Javascript.md",
+    "Javascript Datatypes.md",
+    "Variables.md",
     "PHP.md",
     "PHP Functions.md",
     "The Basics.md",
-    "Web Development.md",
-    "Home.md",
     "Django.md",
     "API Endpoint.md",
     "Django Admin.md",
@@ -227,10 +230,7 @@
     "Models.md",
     "PyCharm.md",
     "Resume.md",
-    "10 Hueristics.md",
     "Screenshot 2023-04-17 at 16.55.08.png",
-    "UX Chapter 3.md",
-    "UX Chapter 1.md",
     "Python",
     "Screenshot 2023-03-19 at 19.52.07.png",
     "Untitled 2.canvas",
