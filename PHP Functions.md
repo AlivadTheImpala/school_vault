@@ -5,7 +5,9 @@ function function_name([],[],...)
 
 }
 ```
-A function in PHP has a basic syntax. 
+A function in PHP has a basic syntax. first you call it by the "function" keyword followed by the name you choose. Remember the name reflects the purpose of the function. Then parentheses which hold one or more parameters typically, although some built-in php functions don't require a parameter.
+
+Curly braces will then hold the statements and a return value if 
 ## Reference arguments
 Lets say we have this function named fix_names
 ```php
