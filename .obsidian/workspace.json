@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "361a186ad0a9f526",
+        "id": "bb645c2c09b23ae9",
         "type": "tabs",
         "children": [
           {
-            "id": "3d6371eeeba075c9",
+            "id": "8531777d48ef191e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "API Endpoint.md",
+                "file": "Web Development.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7db01013033d2497",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ed289cee433d4b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Basics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "API Endpoint.md",
+                "file": "PHP.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "API Endpoint.md",
+                "file": "PHP.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API Endpoint.md"
+                "file": "PHP.md"
               }
             }
           },
@@ -175,13 +200,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3d6371eeeba075c9",
+  "active": "7db01013033d2497",
   "lastOpenFiles": [
+    "The Basics.md",
+    "PHP.md",
+    "Web Development.md",
+    "Home.md",
     "Django.md",
     "API Endpoint.md",
     "Django Admin.md",
-    "Home.md",
-    "Web Development.md",
     "Web Design.md",
     "Django Commands.md",
     "Python/Python.md",
@@ -204,8 +231,6 @@
     "UX Chapter 3.md",
     "UX Chapter 1.md",
     "IT 121 - Javascript 1.md",
-    "Logic.md",
-    "School.md",
     "Python",
     "Screenshot 2023-03-19 at 19.52.07.png",
     "Untitled 2.canvas",
