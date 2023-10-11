@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1da47ac2b2562af6",
+        "id": "9f24c15fbbc7d3c6",
         "type": "tabs",
         "children": [
           {
-            "id": "f0141b83df463c5c",
+            "id": "b2accf4be68f87a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Web Development.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Web Development.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Web Development.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Web Development.md"
               }
             }
           },
@@ -175,12 +175,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f0141b83df463c5c",
+  "active": "b2accf4be68f87a4",
   "lastOpenFiles": [
+    "CSS.md",
     "Web Development.md",
+    "HTML.md",
+    "Home.md",
     "PHP Functions.md",
     "The Basics.md",
-    "Home.md",
     "Javascript.md",
     "Javascript Datatypes.md",
     "Variables.md",
@@ -203,8 +205,6 @@
     "PIP.md",
     "Templates.md",
     "Models.md",
-    "PyCharm.md",
-    "Resume.md",
     "Screenshot 2023-04-17 at 16.55.08.png",
     "Python",
     "Screenshot 2023-03-19 at 19.52.07.png",
