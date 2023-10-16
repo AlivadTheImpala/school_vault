@@ -9,3 +9,6 @@
 5. [Use the imperative mood in the subject line](https://cbea.ms/git-commit/#imperative)
 6. [Wrap the body at 72 characters](https://cbea.ms/git-commit/#wrap-72)
 7. [Use the body to explain _what_ and _why_ vs. _how_](https://cbea.ms/git-commit/#why-not-how)
+
+***
+- 801 - [[Basic Git Commands]]
