@@ -3,8 +3,7 @@
 # django-admin commands
 - **startproject**: This will create a project directory. containing your manage.py file along with another directory containing the projects important files
 - **startapp**: Creates a new Django app in your project. We'll talk about what apps are in more depth soon.
-
-
+***
 # manage.py commands
 [manage.py commands doc](https://docs.djangoproject.com/en/4.2/ref/django-admin/)
 - **runserver**: Starts the Django development HTTP server, to serve your Django app on your local computer.

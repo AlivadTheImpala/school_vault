@@ -10,7 +10,7 @@ Back to [[Web Development]]
 >>>from reviews.models import Publisher
 >>> publisher = Publisher.objects.get(name='Pocket Books')
 >>> publisher
->>> <Publisher: Pocket Books> # output displayed in the shell
+Publisher: Pocket Books # output displayed in the shell
 
 # you can fetch any attribute of the object using . after class name
 >>>publisher.website

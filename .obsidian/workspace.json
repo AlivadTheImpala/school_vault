@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "9f24c15fbbc7d3c6",
+        "id": "7144c23f3721da83",
         "type": "tabs",
         "children": [
           {
-            "id": "b2accf4be68f87a4",
+            "id": "473f84887fa147c3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3c4d2c9b48b999e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development.md",
+                "file": "Git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development.md",
+                "file": "Git.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development.md",
+                "file": "Git.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development.md"
+                "file": "Git.md"
               }
             }
           },
@@ -175,24 +184,29 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b2accf4be68f87a4",
+  "active": "3c4d2c9b48b999e2",
   "lastOpenFiles": [
-    "CSS.md",
     "Web Development.md",
-    "HTML.md",
+    "Git.md",
+    "Javascript.md",
+    "String Methods.md",
+    "Random Numbers.md",
+    "The Shell.md",
+    "Index Page.md",
+    "Python/Python.md",
+    "Django.md",
+    "Django Commands.md",
+    "CSS.md",
     "Home.md",
+    "HTML.md",
     "PHP Functions.md",
     "The Basics.md",
-    "Javascript.md",
     "Javascript Datatypes.md",
     "Variables.md",
     "PHP.md",
-    "Django.md",
     "API Endpoint.md",
     "Django Admin.md",
     "Web Design.md",
-    "Django Commands.md",
-    "Python/Python.md",
     "Chapter 11 Notes.md",
     "Creating an S3 Bucket for website hosting.md",
     "Measuring the User Experience 2nd Edition.md",
@@ -200,11 +214,6 @@
     "UX Lectures.md",
     "adminsite_attributes.jpg",
     "Screenshot 2023-05-06 at 15.15.08.png",
-    "Views.md",
-    "URL Mapping.md",
-    "PIP.md",
-    "Templates.md",
-    "Models.md",
     "Screenshot 2023-04-17 at 16.55.08.png",
     "Python",
     "Screenshot 2023-03-19 at 19.52.07.png",
