@@ -27,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -184,10 +179,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3c4d2c9b48b999e2",
+  "active": "473f84887fa147c3",
   "lastOpenFiles": [
-    "Basic Git Commands.md",
     "Git.md",
+    "Basic Git Commands.md",
     "Web Development.md",
     "Javascript.md",
     "String Methods.md",
