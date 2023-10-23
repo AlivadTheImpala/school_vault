@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Basic Git Commands.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -155,7 +155,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",

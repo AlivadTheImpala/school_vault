@@ -7,6 +7,6 @@ $ git log
 ```
 
 ## git commit
-git commit, will commit your changes, meaning
+git commit, will commit your changes, meaning you are creating a snapshot of your changes at a point in time. 
 
 ![[Git Cheat Sheet.pdf]]
