@@ -7,7 +7,7 @@ $ git log
 ```
 
 ## git add
-git add will stage your changes. Think about you adding objects into a box. This box will be a module, once you "complete" the module, or have all its pieces, you can then commit this in order to send
+git add will stage your changes. Think about you adding objects into a box. This box will be a module, once you "complete" the module, or have all its pieces, you can then commit this in order to save the module.
 ## git commit
 git commit, will commit your changes, meaning you are creating a snapshot of your changes, that will be pushed to your remote repo
 
