@@ -8,3 +8,5 @@ $ git log
 
 ## git commit
 git commit, will commit your changes, meaning
+
+![[Git Cheat Sheet.pdf]]
