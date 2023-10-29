@@ -8,23 +8,20 @@ Selectors
 - Chaining Selectors
 Combinators
 - descendant combinator
-```css 
-/*The Universal selector*/
-*{
-color: red;
-}
-/*the universal selector targets ALL html elements. In this case, they will all be styled red.*/
+Basic Properties to start with
+- color
+- background-color
+- font-family
+- font-size
+- font-weight
+- text-align
 
-/*Type Selectors*/
-h1{
-font-size: 14px;
-}
+Image height and width
+properties
+- height
+- width
+if you wanted to keep an images aspect ratio. set the height to auto and adjust the width property. 
 
-p{
-color: blue;
-}
-/*above are specifically styling elements of the h1 and p type. We can style other elements by stating their type like above.*/ 
-
-/* Class selectors*/
-
+Linking an external CSS file to HTML
+```
 ```
