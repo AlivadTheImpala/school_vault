@@ -6,7 +6,8 @@ Selectors
 - Class Selectors
 - Grouping Selectors
 - Chaining Selectors
--  
+Combinators
+- descendant combinator
 ```css 
 /*The Universal selector*/
 *{
