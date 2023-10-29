@@ -1,11 +1,12 @@
 Basic Syntax
 
 Selectors
-Top selectors
 - Universal Selector
 - Type Selectors
 - Class Selectors
-- 
+- Grouping Selectors
+- Chaining Selectors
+-  
 ```css 
 /*The Universal selector*/
 *{
