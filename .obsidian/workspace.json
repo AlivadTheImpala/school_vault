@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "18fcb0d7067e7603",
+        "id": "828bbeaeb0fb3912",
         "type": "tabs",
         "children": [
           {
-            "id": "2b470f3252114a26",
+            "id": "0c94b99ed92fd945",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Web Development.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e67e57c536c8a2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wordpress.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Wordpress.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Wordpress.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Wordpress.md"
               }
             }
           },
@@ -175,9 +188,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2b470f3252114a26",
+  "active": "6e67e57c536c8a2e",
   "lastOpenFiles": [
     "Web Development.md",
+    "Wordpress.md",
     "Home.md",
     "Web Design.md",
     "Git Cheat Sheet.pdf",
