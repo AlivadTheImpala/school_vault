@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "828bbeaeb0fb3912",
+        "id": "bdc2520dcb1e0e48",
         "type": "tabs",
         "children": [
           {
-            "id": "0c94b99ed92fd945",
+            "id": "55d04ce6933eefa0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e67e57c536c8a2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wordpress.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wordpress.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -124,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wordpress.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Wordpress.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,7 +167,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6e67e57c536c8a2e",
+  "active": "55d04ce6933eefa0",
   "lastOpenFiles": [
     "Web Development.md",
     "Wordpress.md",
