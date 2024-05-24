@@ -4,6 +4,9 @@ We walked through basic functions and how they work. Wordpress has a lot of its 
 The Wordpress Username and password are: **alivadthedev**
 **bd163114**
 
+5/24:
+We went over the importance of [[get_header ]]and [[get_footer]]
+
 
 
 
