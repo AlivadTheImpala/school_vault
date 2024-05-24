@@ -12,9 +12,16 @@ We then created a new php file called header.php which includes youre average ht
 
 the header.php file contains the `<?php wp_head(); ?>` function inside the `<head>` tag, which allows WP to have control of injecting scripts or stylesheets, among other things.
 
-to add an action to the `wp_head()` function, we created the functions.php file. In it we created a function called uni_files() which enqueue's our stylesheet. 
+to add an action to the `wp_head()` function, we created the functions.php file. In it we created a function called `uni_files()` which [[enqueue]]'s our stylesheet. 
+
+function uni_files()
+{
+	wp_enqueue_style('uni_main_styles', get_stylesheet_uri());
+}
 
 To actually call that function we use `add_action('wp_enqueue_scripts', 'uni_files');`
+
+Finally, to add the admin bar to our WordPress pages header, we also added `wp_footer();`
 
 
 

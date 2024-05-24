@@ -1,0 +1,1 @@
+this just means that we are telling wordpress to register a file and load it so that it can be used when appropriate.
