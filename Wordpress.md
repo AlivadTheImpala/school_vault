@@ -21,7 +21,7 @@ function uni_files()
 
 To actually call that function we use `add_action('wp_enqueue_scripts', 'uni_files');`
 
-Finally, to add the admin bar to our WordPress pages header, we also added `wp_footer();`
+Finally, to add the admin bar to our WordPress pages header, we also added `wp_footer();` This function is similar to wp_head in that it allows scripts or code into a page, but the main difference between this and is the wp_head loads things before content is rendered in order to allow for proper functionality of the page. wp_footer will load things like javascript and allow for better performance because it will load in after functionality and content have been rendered.
 
 
 
