@@ -8,11 +8,13 @@ The Wordpress Username and password are: **alivadthedev**
 We went over the importance of [[get_header ]]and [[get_footer]]
 two very important [[Wordpress Functions]] 
 
-We then created a new php file called header.php which includes youre average html head info. The <body> tag starts here, but ends in the footer.php file that was also created.
+We then created a new php file called header.php which includes youre average html head info. The `<body>` tag starts here, but ends in the footer.php file that was also created.
 
-the header.php file contains the <?php wp_head(); ?> function which allows wp to have control of injecting scripts or stylesheets, among other things
+the header.php file contains the `<?php wp_head(); ?>` function inside the `<head>` tag, which allows WP to have control of injecting scripts or stylesheets, among other things.
 
-to add an action into the wp_h
+to add an action to the `wp_head()` function, we created the functions.php file. In it we created a function called uni_files() which enqueue's our stylesheet. 
+
+To actually call that function we use `add_action('wp_enqueue_scripts', 'uni_files');`
 
 
 
