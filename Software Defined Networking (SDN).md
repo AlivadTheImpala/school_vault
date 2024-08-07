@@ -1,0 +1,3 @@
+- Infrastructure Layer/Data Plane
+- Control Layer/Control Plane
+- Application Layer/Management Plane

@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "78495ecef1f5f94f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Defined Networking (SDN).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8caf7204cec71761",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section 2 - Networking.md",
+                "file": "Software Defined Networking (SDN).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section 2 - Networking.md",
+                "file": "Software Defined Networking (SDN).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section 2 - Networking.md"
+                "file": "Software Defined Networking (SDN).md"
               }
             }
           },
@@ -211,10 +223,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a3ef4a1986a8ac33",
+  "active": "78495ecef1f5f94f",
   "lastOpenFiles": [
-    "CompTIA A+.md",
     "Section 2 - Networking.md",
+    "Software Defined Networking (SDN).md",
+    "CompTIA A+.md",
     "Network Devices.md",
     "Home.md",
     "Protocols and Port Numbers.md",
@@ -239,7 +252,6 @@
     "The Shell.md",
     "Index Page.md",
     "Django.md",
-    "Django Commands.md",
     "adminsite_attributes.jpg",
     "Screenshot 2023-05-06 at 15.15.08.png",
     "Screenshot 2023-04-17 at 16.55.08.png",
