@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network Devices.md",
+                "file": "CompTIA A+.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network Devices.md",
+                "file": "CompTIA A+.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network Devices.md"
+                "file": "CompTIA A+.md"
               }
             }
           },
@@ -211,12 +210,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8caf7204cec71761",
+  "active": "164bddd30f80e921",
   "lastOpenFiles": [
     "Section 2.md",
+    "Network Devices.md",
     "CompTIA A+.md",
     "Home.md",
-    "Network Devices.md",
     "Protocols and Port Numbers.md",
     "Languages.md",
     "School.md",
