@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section 2.md",
+                "file": "Section 2 - Networking.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+.md",
+                "file": "Section 2 - Networking.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+.md",
+                "file": "Section 2 - Networking.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+.md"
+                "file": "Section 2 - Networking.md"
               }
             }
           },
@@ -210,11 +211,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "164bddd30f80e921",
+  "active": "a3ef4a1986a8ac33",
   "lastOpenFiles": [
-    "Section 2.md",
-    "Network Devices.md",
     "CompTIA A+.md",
+    "Section 2 - Networking.md",
+    "Network Devices.md",
     "Home.md",
     "Protocols and Port Numbers.md",
     "Languages.md",
