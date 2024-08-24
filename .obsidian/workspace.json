@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bc56a9206b009f33",
+        "id": "6f6e07112cfc4e39",
         "type": "tabs",
         "children": [
           {
-            "id": "164bddd30f80e921",
+            "id": "144b2ced74257992",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA A+.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3ef4a1986a8ac33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Section 2 - Networking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78495ecef1f5f94f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Defined Networking (SDN).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8caf7204cec71761",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network Devices.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "415289be27c31662",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Protocols and Port Numbers.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Defined Networking (SDN).md",
+                "file": "Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -160,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Defined Networking (SDN).md",
+                "file": "Home.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Defined Networking (SDN).md"
+                "file": "Home.md"
               }
             }
           },
@@ -223,10 +174,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "78495ecef1f5f94f",
+  "active": "144b2ced74257992",
   "lastOpenFiles": [
-    "Section 2 - Networking.md",
     "Software Defined Networking (SDN).md",
+    "Section 2 - Networking.md",
     "CompTIA A+.md",
     "Network Devices.md",
     "Home.md",
