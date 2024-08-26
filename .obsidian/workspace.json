@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA A+.md",
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "900f09d7eb03d6e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge Base.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "adc9916d31dc5b5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Return Home Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section 2 - Networking.md",
+                "file": "IT.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section 2 - Networking.md",
+                "file": "Templates/Return Home Template.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section 2 - Networking.md",
+                "file": "Templates/Return Home Template.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section 2 - Networking.md"
+                "file": "Templates/Return Home Template.md"
               }
             }
           },
@@ -186,12 +210,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "be5e6c2aaf39dd33",
+  "active": "adc9916d31dc5b5d",
   "lastOpenFiles": [
+    "IT.md",
+    "Templates/Return Home Template.md",
+    "Knowledge Base.md",
+    "Templates",
+    "Templates.md",
+    "Home.md",
     "CompTIA A+.md",
     "Section 2 - Networking.md",
-    "Home.md",
-    "IT.md",
     "Carbon Dating.md",
     "Web Development.md",
     "Software Defined Networking (SDN).md",
@@ -212,9 +240,6 @@
     "Git.md",
     "Basic Git Commands.md",
     "Javascript.md",
-    "String Methods.md",
-    "Random Numbers.md",
-    "The Shell.md",
     "adminsite_attributes.jpg",
     "Screenshot 2023-05-06 at 15.15.08.png",
     "Screenshot 2023-04-17 at 16.55.08.png",
