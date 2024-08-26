@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d52c6d842bc24a19",
+        "id": "11d9a41301f249e5",
         "type": "tabs",
         "children": [
           {
-            "id": "292cf56877d13365",
+            "id": "8819d9c501ecbac2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "11b98231c32173c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "IT.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "IT.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "IT.md"
               }
             }
           },
@@ -173,12 +186,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "292cf56877d13365",
+  "active": "11b98231c32173c7",
   "lastOpenFiles": [
     "Home.md",
+    "Carbon Dating.md",
+    "IT.md",
+    "Web Development.md",
+    "CompTIA A+.md",
     "Software Defined Networking (SDN).md",
     "Section 2 - Networking.md",
-    "CompTIA A+.md",
     "Network Devices.md",
     "Protocols and Port Numbers.md",
     "Languages.md",
@@ -188,7 +204,6 @@
     "Variables.md",
     "Web Design.md",
     "User Experience.md",
-    "Web Development.md",
     "Python/Python.md",
     "atomic number.md",
     "enqueue.md",
@@ -200,8 +215,6 @@
     "String Methods.md",
     "Random Numbers.md",
     "The Shell.md",
-    "Index Page.md",
-    "Django.md",
     "adminsite_attributes.jpg",
     "Screenshot 2023-05-06 at 15.15.08.png",
     "Screenshot 2023-04-17 at 16.55.08.png",
