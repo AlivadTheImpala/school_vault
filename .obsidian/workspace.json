@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "adc9916d31dc5b5d",
+            "id": "4062b525ee78599d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Return Home Template.md",
+                "file": "Jira.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Return Home Template.md",
+                "file": "Jira.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Return Home Template.md",
+                "file": "Jira.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Return Home Template.md"
+                "file": "Jira.md"
               }
             }
           },
@@ -210,11 +210,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "adc9916d31dc5b5d",
+  "active": "4062b525ee78599d",
   "lastOpenFiles": [
+    "Knowledge Base.md",
+    "Jira.md",
     "IT.md",
     "Templates/Return Home Template.md",
-    "Knowledge Base.md",
     "Templates",
     "Templates.md",
     "Home.md",
@@ -239,7 +240,6 @@
     "Git Cheat Sheet.pdf",
     "Git.md",
     "Basic Git Commands.md",
-    "Javascript.md",
     "adminsite_attributes.jpg",
     "Screenshot 2023-05-06 at 15.15.08.png",
     "Screenshot 2023-04-17 at 16.55.08.png",
