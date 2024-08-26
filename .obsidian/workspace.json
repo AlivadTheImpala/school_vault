@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "11ccb2337d04a60d",
+        "id": "d52c6d842bc24a19",
         "type": "tabs",
         "children": [
           {
-            "id": "e9902ec22e48c6ae",
+            "id": "292cf56877d13365",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "888b3822c1b3eb0c",
@@ -174,7 +173,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e9902ec22e48c6ae",
+  "active": "292cf56877d13365",
   "lastOpenFiles": [
     "Home.md",
     "Software Defined Networking (SDN).md",
