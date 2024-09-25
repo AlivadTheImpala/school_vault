@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript Datatypes.md",
+                "file": "Undefined.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript Datatypes.md",
+                "file": "Undefined.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript Datatypes.md",
+                "file": "Undefined.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript Datatypes.md"
+                "file": "Undefined.md"
               }
             }
           },
@@ -177,8 +177,9 @@
   },
   "active": "e56e65da0bc5899c",
   "lastOpenFiles": [
-    "Boolean.md",
     "Javascript Datatypes.md",
+    "Undefined.md",
+    "Boolean.md",
     "BigInt.md",
     "Number.md",
     "Javascript.md",
@@ -204,7 +205,6 @@
     "Network Devices.md",
     "Protocols and Port Numbers.md",
     "School.md",
-    "IT 262 - Web Authoring 2.md",
     "Git Cheat Sheet.pdf",
     "adminsite_attributes.jpg",
     "Screenshot 2023-05-06 at 15.15.08.png",
