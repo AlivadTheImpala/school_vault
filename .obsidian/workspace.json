@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4910a97b23d8ff90",
+        "id": "a723cf17fdc7f7fd",
         "type": "tabs",
         "children": [
           {
-            "id": "6db764b8f3919acf",
+            "id": "5ce9d424da76bbee",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "900f09d7eb03d6e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge Base.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4062b525ee78599d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jira.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be5e6c2aaf39dd33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jira.md",
+                "file": "Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jira.md",
+                "file": "Home.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jira.md"
+                "file": "Home.md"
               }
             }
           },
@@ -210,10 +173,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4062b525ee78599d",
+  "active": "5ce9d424da76bbee",
   "lastOpenFiles": [
-    "Knowledge Base.md",
     "Jira.md",
+    "Knowledge Base.md",
     "IT.md",
     "Templates/Return Home Template.md",
     "Templates",
