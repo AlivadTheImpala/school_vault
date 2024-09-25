@@ -1,6 +1,8 @@
 #javascript
 Back to [[Web Development]]
 ***
+## Topics
+
 - [[Variables]]
 - [[Javascript Datatypes]]
 - [[Operators]]
@@ -11,3 +13,5 @@ Back to [[Web Development]]
 - [[Objects and Arrays]]
 - [[Loops]]
 - [[Functions]]
+- 
+---
