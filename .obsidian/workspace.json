@@ -11,11 +11,10 @@
             "id": "e56e65da0bc5899c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Undefined.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -94,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Undefined.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Undefined.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Undefined.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,12 +150,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,10 +169,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e56e65da0bc5899c",
+  "active": "0119cf5225896cc0",
   "lastOpenFiles": [
-    "Javascript Datatypes.md",
+    "README.md",
     "Undefined.md",
+    "Javascript Datatypes.md",
     "Boolean.md",
     "BigInt.md",
     "Number.md",
@@ -204,7 +199,6 @@
     "Software Defined Networking (SDN).md",
     "Network Devices.md",
     "Protocols and Port Numbers.md",
-    "School.md",
     "Git Cheat Sheet.pdf",
     "adminsite_attributes.jpg",
     "Screenshot 2023-05-06 at 15.15.08.png",
