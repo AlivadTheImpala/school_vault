@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "afa13586661c38da",
+        "id": "62f012ceed1dc2ae",
         "type": "tabs",
         "children": [
           {
-            "id": "e56e65da0bc5899c",
+            "id": "e62966ada0de11bd",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Null.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -93,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Null.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -109,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Null.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Null.md"
+              }
             }
           },
           {
@@ -169,11 +174,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0119cf5225896cc0",
+  "active": "e62966ada0de11bd",
   "lastOpenFiles": [
-    "README.md",
-    "Undefined.md",
     "Javascript Datatypes.md",
+    "Undefined.md",
+    "README.md",
     "Boolean.md",
     "BigInt.md",
     "Number.md",
