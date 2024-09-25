@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "45ad811b878a3966",
+        "id": "afa13586661c38da",
         "type": "tabs",
         "children": [
           {
-            "id": "96fb0d5bf21d5f97",
+            "id": "e56e65da0bc5899c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript Datatypes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56c43f4199788200",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "String.md",
+                "file": "BigInt.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "String.md",
+                "file": "BigInt.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "String.md",
+                "file": "BigInt.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "String.md"
+                "file": "BigInt.md"
               }
             }
           },
@@ -188,20 +175,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "56c43f4199788200",
+  "active": "e56e65da0bc5899c",
   "lastOpenFiles": [
     "Javascript Datatypes.md",
+    "Number.md",
     "Javascript.md",
-    "Okazaki fragments.md",
-    "Screenshot 2023-02-18 at 13.35.22 1.png",
-    "Week 1 Day 1 Quick Intro.md",
-    "X-Ray crystallography.md",
-    "Templates/Return Home Template.md",
     "Variables.md",
     "Languages.md",
     "Web Development.md",
     "IT.md",
     "Home.md",
+    "String.md",
+    "Okazaki fragments.md",
+    "Screenshot 2023-02-18 at 13.35.22 1.png",
+    "Week 1 Day 1 Quick Intro.md",
+    "X-Ray crystallography.md",
+    "Templates/Return Home Template.md",
     "Jira.md",
     "Knowledge Base.md",
     "Templates",
@@ -216,7 +205,6 @@
     "IT 262 - Web Authoring 2.md",
     "IT 121 - Javascript 1.md",
     "Web Design.md",
-    "User Experience.md",
     "Git Cheat Sheet.pdf",
     "adminsite_attributes.jpg",
     "Screenshot 2023-05-06 at 15.15.08.png",
