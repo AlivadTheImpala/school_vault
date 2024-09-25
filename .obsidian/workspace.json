@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript.md",
+                "file": "Javascript Datatypes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56c43f4199788200",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "String.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "888b3822c1b3eb0c",
@@ -93,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript.md",
+                "file": "String.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript.md",
+                "file": "String.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript.md"
+                "file": "String.md"
               }
             }
           },
@@ -174,15 +188,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "96fb0d5bf21d5f97",
+  "active": "56c43f4199788200",
   "lastOpenFiles": [
+    "Javascript Datatypes.md",
+    "Javascript.md",
     "Okazaki fragments.md",
     "Screenshot 2023-02-18 at 13.35.22 1.png",
     "Week 1 Day 1 Quick Intro.md",
     "X-Ray crystallography.md",
     "Templates/Return Home Template.md",
-    "Javascript.md",
-    "Javascript Datatypes.md",
     "Variables.md",
     "Languages.md",
     "Web Development.md",

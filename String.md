@@ -3,7 +3,7 @@
 A sequence of characters, and can be declared in: 
 - Double quotes ""
 - Single Quotes ''
-- Backticks \`\` special template strings, called template literals, in which you can use variables directly.
+- Backticks: \`\` special template strings, called template literals, in which you can use variables directly.
 
 ```javascript
 let singleString = 'Hi there!'; 
