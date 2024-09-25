@@ -1,9 +1,7 @@
-## Javascript 
-
-A sequence of characters, and can be declared in: 
+A string is a sequence of characters, and can be declared in: 
 - Double quotes ""
 - Single Quotes ''
-- Backticks: \`\` special template strings, called template literals, in which you can use variables directly.
+- Backticks: \`\` special template strings, called [[#Template Literals]], in which you can use variables directly.
 
 ```javascript
 let singleString = 'Hi there!'; 
@@ -12,6 +10,7 @@ let doubleString = "How are you?";
 //Either option works, but stay consistent!
 //you also cant start with one type of quote and end with a different one otherwise an error will kick.
 ```
+
 
 ## Template Literals
 When using backticks, the advantage here is that you can then call a variable inside of the string. This makes you code a bit more readable than concatinating everything with + symbols.
