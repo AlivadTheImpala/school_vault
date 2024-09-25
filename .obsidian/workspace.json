@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Null.md",
+                "file": "Javascript.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Null.md",
+                "file": "Javascript.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Null.md",
+                "file": "Javascript.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Null.md"
+                "file": "Javascript.md"
               }
             }
           },
@@ -176,13 +176,16 @@
   },
   "active": "e62966ada0de11bd",
   "lastOpenFiles": [
+    "Logic.md",
+    "Javascript.md",
+    "Operators.md",
     "Javascript Datatypes.md",
+    "Null.md",
     "Undefined.md",
     "README.md",
     "Boolean.md",
     "BigInt.md",
     "Number.md",
-    "Javascript.md",
     "Variables.md",
     "Languages.md",
     "Web Development.md",
@@ -201,9 +204,6 @@
     "CompTIA A+.md",
     "Section 2 - Networking.md",
     "Carbon Dating.md",
-    "Software Defined Networking (SDN).md",
-    "Network Devices.md",
-    "Protocols and Port Numbers.md",
     "Git Cheat Sheet.pdf",
     "adminsite_attributes.jpg",
     "Screenshot 2023-05-06 at 15.15.08.png",
