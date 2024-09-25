@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BigInt.md",
+                "file": "Javascript Datatypes.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BigInt.md",
+                "file": "Javascript Datatypes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BigInt.md",
+                "file": "Javascript Datatypes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BigInt.md"
+                "file": "Javascript Datatypes.md"
               }
             }
           },
@@ -177,7 +177,9 @@
   },
   "active": "e56e65da0bc5899c",
   "lastOpenFiles": [
+    "Boolean.md",
     "Javascript Datatypes.md",
+    "BigInt.md",
     "Number.md",
     "Javascript.md",
     "Variables.md",
@@ -203,8 +205,6 @@
     "Protocols and Port Numbers.md",
     "School.md",
     "IT 262 - Web Authoring 2.md",
-    "IT 121 - Javascript 1.md",
-    "Web Design.md",
     "Git Cheat Sheet.pdf",
     "adminsite_attributes.jpg",
     "Screenshot 2023-05-06 at 15.15.08.png",
