@@ -5,8 +5,8 @@ Logic allows our code to be more than static blocks. Depending on the outcomes o
  **Types of Logic statements:**
 - [[#if and if else statements]]
 - [[#else if statements]]
-- conditional ternary operators
-- switch statements
+- [[#Conditional Ternary Operators]]
+- [[#Switch Statements]]
 ***
 
 ## if and if else statements
@@ -46,8 +46,8 @@ Inside the if statement above, the equal sign reassigns the hobby variable with 
 ## else if statements
 
 an else if statement is just an if statement 
-- "if certain conditions exist execute code" 
-	- else if "something different from the first condition exists, execute this code" 
+- "if certain conditions exist, execute code" 
+	- else if "something different from the first condition exists, execute this code." 
 		- else if "another condition, separate from the first two exists, execute this other code"
 			- else "if none of the previous conditions exist or apply, then execute this final code."
 
@@ -64,7 +64,7 @@ if (age < 3) {
     cost = 0;
     message = "Access is free under three.";
     
-  // if the ages is between 3 and less then 12, ticket is $5, show message.  
+  // if the age is between 3 and less then 12, ticket is $5, show message.  
 } else if (age >= 3 && age < 12) {
     cost = 5;
     message ="With the child discount, the fee is 5 dollars";
@@ -94,7 +94,7 @@ console.log("Your Total cost "+cost);
 } else if(age < 65) {
   console.log("A regular ticket costs 10 dollars.");
 } else if(age >= 65) {
-  console.log("A ticket is 7 dollars.");
+  console.log("A senior ticket is 7 dollars.");
 }
 >
 
