@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "197cf82b1f4ce503",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript.md",
+                "file": "Logic.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript.md",
+                "file": "Logic.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript.md"
+                "file": "Logic.md"
               }
             }
           },
@@ -175,13 +188,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f767ccb0d32b2446",
+  "active": "197cf82b1f4ce503",
   "lastOpenFiles": [
+    "Javascript.md",
     "Languages.md",
     "Web Development.md",
     "IT.md",
     "Home.md",
-    "Javascript.md",
     "Logic.md",
     "Operators.md",
     "Javascript Datatypes.md",

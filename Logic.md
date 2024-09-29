@@ -3,8 +3,8 @@
 Logic allows our code to be more than static blocks. Depending on the outcomes of certain expressions, we can create paths for our code to follow. 
 
  **Types of Logic statements:**
-- if and else statements
-- else if 
+- [[#if and if else statements]]
+- [[#else if statements]]
 - conditional ternary operators
 - switch statements
 ***
