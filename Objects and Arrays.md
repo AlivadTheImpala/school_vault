@@ -1,7 +1,7 @@
 #javascript 
 
 # Arrays and their properties
-Arrays are basically lists. They can also hold different data types not just one. You can hold a whole variety of information in them that you may want to store in single variable.
+Arrays are basically lists. They can also hold different data types not just one. You can hold a whole variety of information in them that you may want to store in a single variable.
 ```javascript
 let colors = ["black", "orange", "pink"];//this is an array of individual strings as noted by the quotation marks around each string.
 ```
@@ -26,7 +26,7 @@ arr = ["nope, now you are overwriting the array"];
 ```
 
 ## Accessing Items in an Array
-When you create an array, javascript will automatically assign an index value to the items, starting with 0 for the first item. to access an index you use square brackets [] with the index number inside [0]
+When you create an array, javascript will automatically assign an index value to the items, starting with 0 for the first item. To access an index you use square brackets [] with the index number inside [0]
 ```javascript
 cars = ["Toyota", "Renault", "Volkswagen"];
 console.log(cars[0]);//output: Toyota
