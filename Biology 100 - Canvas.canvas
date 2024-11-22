@@ -1,10 +1,10 @@
 {
 	"nodes":[
 		{"id":"9ce40b3da0ba7130","x":-500,"y":-1641,"width":400,"height":400,"type":"file","file":"BIOL 100 - Survey of Biology.md"},
-		{"id":"39729ae0d6ef0cf4","x":-1088,"y":-1241,"width":400,"height":400,"type":"file","file":"Levels of Organization.md"},
-		{"id":"cbc4faed9c855800","x":-242,"y":-672,"width":530,"height":627,"type":"file","file":"Chapter 2 Notes.md"},
-		{"id":"2be80c815fae7904","x":-888,"y":-672,"width":494,"height":627,"type":"file","file":"Chapter 1 Notes.md"},
-		{"id":"91e08c18a096d679","x":400,"y":-672,"width":490,"height":627,"type":"file","file":"Chapter 3 Notes.md"}
+		{"id":"39729ae0d6ef0cf4","x":-1088,"y":-1241,"width":400,"height":400,"type":"file","file":"Biology/Levels of Organization.md"},
+		{"id":"cbc4faed9c855800","x":-242,"y":-672,"width":530,"height":627,"type":"file","file":"Biology/Chapter 2 Notes.md"},
+		{"id":"2be80c815fae7904","x":-888,"y":-672,"width":494,"height":627,"type":"file","file":"Biology/Chapter 1 Notes.md"},
+		{"id":"91e08c18a096d679","x":400,"y":-672,"width":490,"height":627,"type":"file","file":"Biology/Chapter 3 Notes.md"}
 	],
 	"edges":[
 		{"id":"09daa0db272690b4","fromNode":"2be80c815fae7904","fromSide":"right","toNode":"cbc4faed9c855800","toSide":"left"},

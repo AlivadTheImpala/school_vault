@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Addition.md",
+                "file": "Biology/atomic number.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Addition"
+              "title": "atomic number"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:javascript",
+                "query": "tag:#bio100  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -189,36 +188,38 @@
   },
   "active": "245621a645fe81d5",
   "lastOpenFiles": [
+    "Biology/Adaptation.md",
+    "Biology/Week 3 Class Notes.md",
+    "Biology/Week 2 Mon Class.md",
+    "Biology/Week 1 Day 1 Quick Intro.md",
+    "Biology/Sensitivity or response to stimuli.md",
+    "Biology/Quiz 2 Notes.md",
+    "Biology/Order.md",
+    "Biology/Mar 14 2023.md",
+    "Biology/Levels of Organization.md",
+    "Biology/Chapter 12 Notes - Diversity of Life.md",
+    "Biology/Chapter 11 Notes.md",
+    "Biology/Chapter 9 Notes.md",
+    "Biology/Chapter 6 Notes.md",
+    "Biology/Chapter 3 Notes.md",
+    "Biology/Chapter 2 Notes.md",
+    "Biology/Chapter 1 Notes.md",
+    "Biology/2-7 Class Notes.md",
+    "Biology",
+    "10 Hueristics.md",
+    "adminsite_attributes.jpg",
+    "Javascript/Variables.md",
+    "Javascript/String Methods.md",
+    "Javascript/Operators.md",
+    "Javascript/Objects and Arrays.md",
+    "Javascript/Loops.md",
+    "Javascript/Logic.md",
+    "Javascript/Javascript Datatypes.md",
+    "Javascript/Javascript.md",
     "Javascript",
-    "Variables.md",
-    "Javascript/Addition.md",
-    "Exponentiation.md",
-    "Templates/Return Home Template.md",
-    "Python/Views.md",
-    "Python/URL Mapping.md",
-    "Python/Templates.md",
-    "Python/Python.md",
-    "Python/PyCharm.md",
-    "Python/PIP.md",
-    "Python/Models.md",
-    "Python/Django Commands.md",
-    "Python/Django Admin.md",
-    "Python/Django.md",
     "Git Cheat Sheet.pdf",
-    "The Basics.md",
-    "atomic number.md",
-    "API Endpoint.md",
-    "Home.md",
-    "Objects and Arrays.md",
-    "IT 121 - Javascript 1.md",
-    "Operators.md",
-    "School.md",
-    "IT.md",
-    "Logic.md",
-    "Javascript.md",
     "Screenshot 2023-02-18 at 13.35.22 1.png",
     "Templates",
-    "adminsite_attributes.jpg",
     "Screenshot 2023-05-06 at 15.15.08.png",
     "Screenshot 2023-04-17 at 16.55.08.png",
     "Python",
