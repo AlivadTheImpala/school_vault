@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Addition.md",
+                "file": "Javascript/Addition.md",
                 "mode": "source",
                 "source": false
               },
@@ -187,10 +187,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "457e91d59870c3ce",
+  "active": "245621a645fe81d5",
   "lastOpenFiles": [
+    "Javascript",
     "Variables.md",
-    "Addition.md",
+    "Javascript/Addition.md",
     "Exponentiation.md",
     "Templates/Return Home Template.md",
     "Python/Views.md",
@@ -215,7 +216,6 @@
     "IT.md",
     "Logic.md",
     "Javascript.md",
-    "Languages.md",
     "Screenshot 2023-02-18 at 13.35.22 1.png",
     "Templates",
     "adminsite_attributes.jpg",
