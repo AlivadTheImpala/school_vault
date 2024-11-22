@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "48395b8c3797fd37",
+        "id": "4d98ef3773b8bc1b",
         "type": "tabs",
         "children": [
           {
-            "id": "245621a645fe81d5",
+            "id": "494102ad9ef424e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/atomic number.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "atomic number"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Objects and Arrays.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Objects and Arrays"
+              "title": "Backlinks"
             }
           },
           {
@@ -165,13 +160,11 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,36 +179,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "245621a645fe81d5",
+  "active": "494102ad9ef424e4",
   "lastOpenFiles": [
-    "Biology/Adaptation.md",
-    "Biology/Week 3 Class Notes.md",
-    "Biology/Week 2 Mon Class.md",
-    "Biology/Week 1 Day 1 Quick Intro.md",
-    "Biology/Sensitivity or response to stimuli.md",
-    "Biology/Quiz 2 Notes.md",
-    "Biology/Order.md",
-    "Biology/Mar 14 2023.md",
-    "Biology/Levels of Organization.md",
-    "Biology/Chapter 12 Notes - Diversity of Life.md",
-    "Biology/Chapter 11 Notes.md",
-    "Biology/Chapter 9 Notes.md",
-    "Biology/Chapter 6 Notes.md",
-    "Biology/Chapter 3 Notes.md",
-    "Biology/Chapter 2 Notes.md",
-    "Biology/Chapter 1 Notes.md",
-    "Biology/2-7 Class Notes.md",
-    "Biology",
-    "10 Hueristics.md",
+    "Untitled 3.canvas",
+    "Basic Git Commands.md",
+    "BigInt.md",
+    "API Endpoint.md",
     "adminsite_attributes.jpg",
-    "Javascript/Variables.md",
-    "Javascript/String Methods.md",
-    "Javascript/Operators.md",
-    "Javascript/Objects and Arrays.md",
-    "Javascript/Loops.md",
-    "Javascript/Logic.md",
-    "Javascript/Javascript Datatypes.md",
-    "Javascript/Javascript.md",
+    "10 Hueristics.md",
+    "Biology/Homeostasis.md",
+    "Hydrogen and Ionic Bonds.md",
+    "Home.md",
+    "Biology/Helicase.md",
+    "Biology/Growth and Development.md",
+    "Biology/gamete.md",
+    "Biology/Fitness.md",
+    "Biology/exocytosis.md",
+    "Biology/Evolution and Diversity.md",
+    "Biology/Eukaryotes.md",
+    "enqueue.md",
+    "Biology/Energy Processing.md",
+    "Biology/Electrons.md",
+    "Biology/electrical gradient.md",
+    "Biology/DNA Polymerase.md",
+    "Biology/DNA Ligase.md",
+    "CSS.md",
+    "DNA.md",
+    "Diffusion.md",
+    "Cytoplasm.md",
+    "Creating an S3 Bucket for website hosting.md",
+    "Biology/Biology 100 - Canvas.canvas",
+    "Biology",
     "Javascript",
     "Git Cheat Sheet.pdf",
     "Screenshot 2023-02-18 at 13.35.22 1.png",
@@ -225,7 +219,6 @@
     "Python",
     "Screenshot 2023-03-19 at 19.52.07.png",
     "Untitled 2.canvas",
-    "Biology 100 - Canvas.canvas",
     "Screenshot 2023-03-04 at 16.50.25.png",
     "Screenshot 2023-03-04 at 15.06.49.png",
     "Screenshot 2023-02-27 at 21.43.43.png",

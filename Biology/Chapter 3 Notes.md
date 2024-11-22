@@ -54,14 +54,14 @@ Polar substances have a problem passing through the lipid layer, this is where t
 ## Diffusion
 Diffusion is a method of [[Passive transport]]. A single substance wants to move from an area of high concentration of that substance to an area of lower concentration. This basically means that the substance wants to spread evenly across a physical space. In the context of the macroworld, if you were to fart in a room, the initial high concentration is the origin of the fart. Those odor particles will want to spread out evenly across the given space of the room until there is an even distribution between them.
 
-Each substance in a given space will have its own [[concentration gradient]]
+Each substance in a given space will have its own [[Concentration gradient]]
 ![[Screenshot 2023-01-29 at 16.50.10.png]]
 
 ## Facilitated Transport
 Remember that some substances have difficulty passing through the lipid bilayer of the cell membrane. In this case, the integrated proteins act as a transport or tunnel that they can pass through. These proteins are known as transport proteins.
 
 ## Osmosis
-Osmosis is the diffusion of water through a semipermeable membrane according to the [[concentration gradient]] of water across the membrane. Osmosis is specific to water, unlike diffusion, which deals with other substances. 
+Osmosis is the diffusion of water through a semipermeable membrane according to the [[Concentration gradient]] of water across the membrane. Osmosis is specific to water, unlike diffusion, which deals with other substances. 
 ![[Screenshot 2023-01-29 at 17.18.45.png]]
 
 ## Tonicity
@@ -92,7 +92,7 @@ Plants, fungi, bacteria, and some protists have cell walls that surround the pla
 ## Electromechanical Gradient
 [[Concentration gradient]] 
 
-Like [[concentration gradient]], cells also carry an electrical charge that is different than the extracellular fluid that surrounds a cell. The interior of cells is made up of many proteins, which are typically negatively charged. Because Ions move into and out of cells, there is something called the [[electrical gradient]]. 
+Like [[Concentration gradient]], cells also carry an electrical charge that is different than the extracellular fluid that surrounds a cell. The interior of cells is made up of many proteins, which are typically negatively charged. Because Ions move into and out of cells, there is something called the [[electrical gradient]]. 
 
 **Potassium** (K+) and sodium (Na+) both exist inside of a cell, but there is a much higher concentration of potassium than there is sodium. Because of the low concentration of Sodium present in a cell (low concentration gradient) and Sodium's positive charge (electrical gradient), the ion is driven inwards toward the negatively charged cell (opposite attraction). 
 

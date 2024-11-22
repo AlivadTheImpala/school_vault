@@ -1,7 +1,7 @@
-Bacteria. Antibioitc substances. 
+Bacteria. Antibiotic substances. 
 
 Terms to know
-Evolutuion 
+Evolution 
 Population
 Natural Selection
 [[Fitness]]
