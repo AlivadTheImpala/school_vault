@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3762970a025a5a52",
+        "id": "48395b8c3797fd37",
         "type": "tabs",
         "children": [
           {
-            "id": "4ae20ee57331c5eb",
+            "id": "245621a645fe81d5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "Git Cheat Sheet.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Git Cheat Sheet"
             }
           }
         ]
@@ -48,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#programming",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,16 +59,6 @@
               },
               "icon": "lucide-search",
               "title": "Search"
-            }
-          },
-          {
-            "id": "88ef50dbe640e987",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
             }
           },
           {
@@ -79,7 +71,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -192,14 +185,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4ae20ee57331c5eb",
+  "active": "245621a645fe81d5",
   "lastOpenFiles": [
+    "The Basics.md",
+    "Addition.md",
+    "atomic number.md",
+    "API Endpoint.md",
+    "Home.md",
     "Objects and Arrays.md",
     "Python/Python.md",
     "IT 121 - Javascript 1.md",
     "Operators.md",
     "School.md",
-    "Home.md",
     "IT.md",
     "Logic.md",
     "Javascript.md",
@@ -217,10 +214,6 @@
     "Okazaki fragments.md",
     "Screenshot 2023-02-18 at 13.35.22 1.png",
     "Week 1 Day 1 Quick Intro.md",
-    "X-Ray crystallography.md",
-    "Templates/Return Home Template.md",
-    "Jira.md",
-    "Knowledge Base.md",
     "Templates",
     "Git Cheat Sheet.pdf",
     "adminsite_attributes.jpg",
