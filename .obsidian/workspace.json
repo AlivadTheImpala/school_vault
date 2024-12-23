@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4d98ef3773b8bc1b",
+        "id": "c9b4913db7e26bb3",
         "type": "tabs",
         "children": [
           {
-            "id": "494102ad9ef424e4",
+            "id": "492e8f094fa34a65",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -180,7 +180,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aebbbf03b5b76b49",
+  "active": "492e8f094fa34a65",
   "lastOpenFiles": [
     "Biology/Evolution and Diversity.md",
     "The Basics.md",
