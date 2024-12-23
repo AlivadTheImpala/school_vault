@@ -160,12 +160,12 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 218.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,7 +180,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "492e8f094fa34a65",
+  "active": "0119cf5225896cc0",
   "lastOpenFiles": [
     "Biology/Evolution and Diversity.md",
     "The Basics.md",
