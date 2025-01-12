@@ -2,4 +2,6 @@ RAM: ram is a volatile memory, meaning that the memory that is stored there is o
 
 ROM: similar to ROM in that its faster than a harddrive, but instead of being volatile it is non-volatile so even a power shutoff wont clear its memory. It'll typically hold the BIOS which is the first software that runs when a system boots and helps start the other computer processes. 
 
-Kernel Mode: kernel mode is the closest to the core components to a computer. It allows full access to system resources and hardware so higher privilege levels are required. 
+Kernel Mode: kernel mode is the closest to the core components to a computer. It allows full access to system resources and hardware so higher privilege levels are required. Applications running in kernel mode are all tied to a single address space.
+
+User Mode: when you launch a program in user mode it has its own virtual address space, each program is private and therefore other programs cant modify another's data. 
