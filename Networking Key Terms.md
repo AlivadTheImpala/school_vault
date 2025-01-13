@@ -14,4 +14,6 @@ FAT: File Allocation Table, this was a file system standard developed originally
 
 FAT32: FAT32 is an updated 32-bit version to the FAT system.
 
-NTFS: 
+NTFS: New Technology File System, it was developed by Microsoft in the 90's. It replaced FAT as the default file system because FAT had scalability and security issues that NTFS addressed.
+
+
