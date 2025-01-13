@@ -12,4 +12,6 @@ Device Driver: this is a program that provides a software interface to hardware 
 
 FAT: File Allocation Table, this was a file system standard developed originally for floppy disks and then later adapted to HDD's. It was used as the default standard on windows prior to windows xp.
 
-FAT32: 
+FAT32: FAT32 is an updated 32-bit version to the FAT system.
+
+NTFS: 
