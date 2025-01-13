@@ -9,3 +9,5 @@ User Mode: when you launch a program in user mode it has its own virtual address
 I/O Manager: running in kernal mode the I/O manager acts as a bridge between user mode programs and the hardware that governs input and output interactions. 
 
 Device Driver: this is a program that provides a software interface to hardware connected to a computer. This allows the program to drive the hardware, take commands and send them back to the program. 
+
+FAT: File Allocation Table, this was a file system standard developed originally for floppy disks and then later adapted to HDD's. It was used as the default standard on windows 
