@@ -18,11 +18,13 @@ const app = express();
 app.get("/", (req, res) => {
 	res.type("text/plain");
 	res.send("Meadowlark Travel");
+	});
 
+//this is a route to the about page. 
 app.get("/about", (req, res) => {
 	res.type("text/plain");
 	res.send("About Meadowlark Travel");
-
-});
-});
+	});
 ```
+
+app is an instance of the express class, by using it we have access to express tools. get() could be any of the valid HTTP request methods like post or delete for example. 
