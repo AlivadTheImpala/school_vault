@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School.md",
+                "file": "Javascript/Javascript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "School"
+              "title": "Javascript"
             }
           }
         ]
@@ -187,10 +187,19 @@
   },
   "active": "cd2eae01f86462d4",
   "lastOpenFiles": [
-    "Home.md",
-    "Networking Key Terms.md",
-    "IT.md",
+    "Javascript/Functions.md",
+    "Javascript/Javascript.md",
+    "Javascript/Operators.md",
+    "Javascript/Variables.md",
+    "Languages.md",
     "Web Development.md",
+    "Wordpress.md",
+    "Git.md",
+    "The Shell.md",
+    "IT.md",
+    "Home.md",
+    "School.md",
+    "Networking Key Terms.md",
     "Biology/Evolution and Diversity.md",
     "The Basics.md",
     "Untitled 3.canvas",
@@ -206,15 +215,6 @@
     "Biology/gamete.md",
     "Biology/Fitness.md",
     "Biology/exocytosis.md",
-    "Biology/Eukaryotes.md",
-    "enqueue.md",
-    "Biology/Energy Processing.md",
-    "Biology/Electrons.md",
-    "Biology/electrical gradient.md",
-    "Biology/DNA Polymerase.md",
-    "Biology/DNA Ligase.md",
-    "CSS.md",
-    "DNA.md",
     "Biology/Biology 100 - Canvas.canvas",
     "Biology",
     "Javascript",

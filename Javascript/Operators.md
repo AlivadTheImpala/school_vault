@@ -1,5 +1,5 @@
 #javascript 
-Operators come in handy whenevr you want to work with variables, modify them, perform calculations, and compare them.
+Operators preform actions.
 ***
 ## Arithmetic Operators
 - [[Addition]]
