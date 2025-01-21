@@ -9,11 +9,15 @@ For this project I am using EJS as my templating engine.
 
 res.render("template", {data being provided to the page})
 ```javascript
+import express from "express";
+import { getAll } from "./data.js";
+import { getItem } from "./data.js";
 //render home page
 
 app.get("/", (req, res) => {
-	let albums = getAll();
-	res.render("index", { albums });
+res.render("index", {albums: getAll()} );
 
 });
 ```
+essentially what is happening:
+we send a get request using "/" which is basically an empty url query aka the home or index page. "/" is also referred to as a virtual url. When our browser recieves a request containing "/" it renders "index"
