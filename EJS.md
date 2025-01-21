@@ -41,4 +41,6 @@ Now the index.ejs template has access to the albums array through the getAll() m
 
 </ul>
 ```
-// 
+now that index has access to the albums array, we use some javascript in the template to run a forEach loop that will create a List Item for each album in the array. I want to be able to click on the album so an a tag is created. href will lead to the album by accessing the id of the album.
+
+so when 
