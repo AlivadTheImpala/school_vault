@@ -9,6 +9,7 @@ For this project I am using EJS as my templating engine.
 
 res.render("template", {data being provided to the page})
 ```javascript
+//server.js
 import express from "express";
 import { getAll } from "./data.js";
 import { getItem } from "./data.js";
@@ -27,8 +28,9 @@ When our browser recieves a request containing "/" it renders "index" which is a
 Basically because of the getAll() method, we are providing the data that getAll() retrieves. Now the index.ejs template has access to the albums array through the getAll() method. 
 
 ```javascript
+//index.ejs
 <ul>
-	<% albums.forEach(function(album) { %>
+	<% albums.forEach((album) => { %>
 	<li class="ui segment">
 		<a href="/details/<%= album.id%>"><%= album.albumTitle %> by <%= album.artist %></a>
 	</li>
