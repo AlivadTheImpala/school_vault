@@ -14,5 +14,9 @@ Back to [[Web Development]]
 - [[Loops]]
 - [[Functions]]
 
-``
+# My Brain Dumps
+```dataview 
+LIST 
+FROM #javascript AND #braindump 
+```
 ---
