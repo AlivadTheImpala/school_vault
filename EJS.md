@@ -60,4 +60,12 @@ app.get("/details/:id", (req, res) => {
 ```
 This second route has a virtual address for details and placeholder for the id. 
 
-using req.params lets us take parameters from the URL 
+using req.params lets us take parameters from the URL string, because the forEach loop from index appends the album ID, the ID will be whichever album was clicked, but the entire URL will be a string. so req.params.id is wrapped in the parseInt method to convert this parameter into a number.
+
+Now that I have the id saved in albumID I can use that as the argument for the getItem(id) method.
+```javascript
+const getItem = (id) => {
+  return albums.find(album => album.id === id);
+ 
+};
+```
