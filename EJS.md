@@ -8,7 +8,6 @@ The closest thing I have that relates to this is using includes files with php. 
 For this project I am using EJS as my templating engine. 
 
 res.render("template", {data being provided to the page})
-
 ```javascript
 //render home page
 
