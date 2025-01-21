@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EJS.md",
+                "file": "Javascript/EJS.md",
                 "mode": "source",
                 "source": false
               },
@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 214.50260543823242
   },
   "right": {
     "id": "888b3822c1b3eb0c",
@@ -218,9 +218,10 @@
   "active": "853c36d30ffa1262",
   "lastOpenFiles": [
     "Javascript/Javascript.md",
+    "Javascript/Javascript Datatypes.md",
+    "Javascript/EJS.md",
     "Test.md",
     "School.md",
-    "EJS.md",
     "Home.md",
     "IT.md",
     "Networking.md",
@@ -245,7 +246,6 @@
     "10 Hueristics.md",
     "Biology/Homeostasis.md",
     "Hydrogen and Ionic Bonds.md",
-    "Biology/Helicase.md",
     "Biology/Biology 100 - Canvas.canvas",
     "Biology",
     "Javascript",
