@@ -16,7 +16,6 @@ Back to [[Web Development]]
 
 # My Brain Dumps
 ```dataview 
-LIST 
-FROM #javascript AND #braindump 
+list from #javascript and #braindump 
 ```
 ---
