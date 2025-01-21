@@ -25,7 +25,9 @@ we send a get request using "/" which is basically an empty url query aka the ho
 
 When our browser recieves a request containing "/" it renders "index" which is an ejs template stored in the views folder.  The second parameter that we give render is the getAll() method that is imported from my data.js module. 
 
-Basically because of the getAll() method, we are providing the data that getAll() retrieves. Now the index.ejs template has access to the albums array through the getAll() method. 
+Basically because of the getAll() method, we are providing the data that getAll() retrieves to index.ejs. 
+
+Now the index.ejs template has access to the albums array through the getAll() method. 
 
 ```javascript
 //index.ejs
@@ -39,3 +41,4 @@ Basically because of the getAll() method, we are providing the data that getAll(
 
 </ul>
 ```
+// 
