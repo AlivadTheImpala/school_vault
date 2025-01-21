@@ -21,11 +21,11 @@ res.render("index", {albums: getAll()} );
 });
 ```
 essentially what is happening:
-we send a get request using "/" which is basically an empty url query aka the home or index page. "/" is also referred to as a virtual url. 
+I send a get request using "/" which is basically an empty url query aka the home or index page. "/" is also referred to as a virtual url. 
 
-When our browser recieves a request containing "/" it renders "index" which is an ejs template stored in the views folder.  The second parameter that we give render is the getAll() method that is imported from my data.js module. 
+When our browser recieves a request containing "/" it renders "index" which is an ejs template stored in the views folder.  The second parameter that I give render is the getAll() method that is imported from my data.js module. 
 
-Basically because of the getAll() method, we are providing the data that getAll() retrieves to index.ejs. 
+Basically because of the getAll() method, I am providing the data that getAll() retrieves to index.ejs. 
 
 Now the index.ejs template has access to the albums array through the getAll() method. 
 
@@ -41,8 +41,23 @@ Now the index.ejs template has access to the albums array through the getAll() m
 
 </ul>
 ```
-now that index has access to the albums array, we use some javascript in the template to run a forEach loop that will create a List Item for each album in the array. I want to be able to click on the album to see details so an a tag is created. 
+now that index has access to the albums array, I use some javascript in the template to run a forEach loop that will create a List Item for each album in the array. I want to be able to click on the album to see details so an a tag is created. 
 
 href will lead to the album by accessing the id of the album.
 
-so when 
+```javascript
+//render details page
+app.get("/details/:id", (req, res) => {
+  const albumId = parseInt(req.params.id); // Convert ID from URL to a number
+  const album = getItem(albumId); // Fetch album using getItem function
+
+  if (album) {
+    res.render("details", { album }); // Pass album to details.ejs
+  } else {
+    res.status(404).send("Album not found"); // Handle case where album is not found
+  }
+});
+```
+This second route has a virtual address for details and placeholder for the id. 
+
+using req.params lets us take parameters from the URL 
