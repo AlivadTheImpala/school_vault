@@ -69,3 +69,5 @@ const getItem = (id) => {
  
 };
 ```
+
+an If condition is used to check that if album is valid, the album data will be passed into the details.ejs template where I can now display whatever details I want, present in the data module.
