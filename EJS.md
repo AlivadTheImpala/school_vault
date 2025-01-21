@@ -20,4 +20,20 @@ res.render("index", {albums: getAll()} );
 });
 ```
 essentially what is happening:
-we send a get request using "/" which is basically an empty url query aka the home or index page. "/" is also referred to as a virtual url. When our browser recieves a request containing "/" it renders "index"
+we send a get request using "/" which is basically an empty url query aka the home or index page. "/" is also referred to as a virtual url. 
+
+When our browser recieves a request containing "/" it renders "index" which is an ejs template stored in the views folder.  The second parameter that we give render is the getAll() method that is imported from my data.js module. 
+
+Basically because of the getAll() method, we are providing the data that getAll() retrieves. Now the index.ejs template has access to the albums array through the getAll() method. 
+
+```javascript
+<ul>
+	<% albums.forEach(function(album) { %>
+	<li class="ui segment">
+		<a href="/details/<%= album.id%>"><%= album.albumTitle %> by <%= album.artist %></a>
+	</li>
+
+<% }); %>
+
+</ul>
+```
