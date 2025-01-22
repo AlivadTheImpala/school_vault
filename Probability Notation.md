@@ -1,6 +1,5 @@
 #statistics 
-**
-
+[Original Doc](https://docs.google.com/document/d/1suDhxVcKeAJryzv9tumBZDBXw8OaWpvyKWOxUEbUnIY/edit?usp=sharing)
 Probability Notation 
 
   
@@ -30,27 +29,25 @@ We can also talk about the probability that an event will NOT happen. If A is an
 
   
 
-|   |   |
-|---|---|
-|Notation|Meaning|
-|PAC|The probability that event A will NOT happen.|
-|PA'|Sometimes this notation is used for the probability that A will not happen.|
+|          |                                                                             |
+| -------- | --------------------------------------------------------------------------- |
+| Notation | Meaning                                                                     |
+| P(A^C)   | The probability that event A will NOT happen.                               |
+| P(A')    | Sometimes this notation is used for the probability that A will not happen. |
 
   
 
-Note that there is a simple relationship between P(A) and PAC. Since the event  A either happens or it does not happen, then 
+Note that there is a simple relationship between P(A) and P(A^C). Since the event  A either happens or it does not happen, then 
 
-P(A) + PAC=1
+P(A) + P(A^C)=1
 
   
 
 We can rewrite this so that finding the probability that A does not happen is easy if we know the probability A will happen. 
 
-PAC=1-P(A)
+P(A^C)=1-P(A)
 
 ---
-
-  
 
 If have more than one event to consider we have additional notation that we use.
 
@@ -60,7 +57,7 @@ If we want to know the probability that BOTH events A AND B happen, then we use 
 
   
 
-If we want to know the probability that EITHER event A OR B happens, then we use the ∪ union symbol.  So the probability that either A or B happens is written as  P(AB)
+If we want to know the probability that EITHER event A OR B happens, then we use the ∪ union symbol.  So the probability that either A or B happens is written as  P(A ∪ B)
 
   
 
@@ -82,17 +79,17 @@ Putting this all together, we have the following…
 
   
 
-|   |   |
-|---|---|
-|Notation|Meaning|
-|P(A)|The probability that the event A will happen.|
-|P(B)|The probability that the event B will happen.|
-|P(win lottery)|The probability that a person who has a lottery ticket will win that lottery.|
-|PAC|The probability that the event A will NOT happen.|
-|P(AB)|The probability that both events A AND B happen|
-|P(AB)|The probability that either A OR B happens|
-|P(A\|B)|The probability that event A happens given that we know event B happens|
-|P(B\|A)|The probability that event B happens given that we know event A happens|
+|                |                                                                               |
+| -------------- | ----------------------------------------------------------------------------- |
+| Notation       | Meaning                                                                       |
+| P(A)           | The probability that the event A will happen.                                 |
+| P(B)           | The probability that the event B will happen.                                 |
+| P(win lottery) | The probability that a person who has a lottery ticket will win that lottery. |
+| P(A^C)         | The probability that the event A will NOT happen.                             |
+| P(A∩B)         | The probability that both events A AND B happen                               |
+| P(A∪B)         | The probability that either A OR B happens                                    |
+| P(A\|B)        | The probability that event A happens given that we know event B happens       |
+| P(B\|A)        | The probability that event B happens given that we know event A happens       |
 
 
 
