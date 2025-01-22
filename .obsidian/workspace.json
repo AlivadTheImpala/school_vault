@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#javascript",
+                "query": "tag:#statistics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214.50260543823242
+    "width": 214.50260543823242,
+    "collapsed": true
   },
   "right": {
     "id": "888b3822c1b3eb0c",
@@ -244,7 +245,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "457e91d59870c3ce",
+  "active": "d3d5244de9e619f8",
   "lastOpenFiles": [
     "Intro To Probability.md",
     "Statistics/Statistics.md",
