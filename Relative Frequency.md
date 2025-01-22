@@ -4,3 +4,9 @@ Relative frequency is derived from the Empirical probability. To estimate the pr
 >[!Note] 
 >Thus the relative frequency for A to occur is (# of times A occurred)/(total repetitions)
 
+>[!Note] Principle: Law of Large Numbers
+>
+>The actual (or true) probability of an event (A) is estimated by the relative frequency with which the event occurs in a long series of trials.  
+>
+>The Law of Large Numbers states that as the number of trials increases, the relative frequency becomes the actual probability.
+
