@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -229,10 +229,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ac5f16a0c16b624",
+  "active": "d3d5244de9e619f8",
   "lastOpenFiles": [
-    "Intro To Probability.md",
     "Probability Notation.md",
+    "Intro To Probability.md",
     "Statistics/Statistics.md",
     "Javascript/EJS.md",
     "Statistics",
