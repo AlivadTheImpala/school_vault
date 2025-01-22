@@ -1,3 +1,4 @@
+#javascript 
 Variables that have not been assigned a value will be of the undefined datatype. 
 ```javascript
 let unassigned; 

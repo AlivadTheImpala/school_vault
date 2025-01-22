@@ -4,7 +4,7 @@
 		{"type":"text","text":"# 2. \nThis ties into [[natural selection]], which states that certain characteristics in an organism allow it to survive in its environment leading to those genes being better represented in future generations.","id":"f49bb4c5b50414a8","x":-424,"y":-240,"width":250,"height":351},
 		{"type":"text","text":"# 3. \nIn order for [[natural selection]] to occur, there needs to be genetic variation within a population which can occur through sexual reproduction or by mutation. Mutations are checked for at 3 points during interphase and mitosis. These are the G1 checkpoint the G2 checkpoints during interphase and the M checkpoint during mitosis","id":"8d065ba9b5e8f505","x":-60,"y":-264,"width":326,"height":400},
 		{"type":"file","file":"Screenshot 2023-03-04 at 15.06.49.png","id":"e2fd64d5e028f75f","x":-670,"y":-540,"width":742,"height":228},
-		{"id":"f220bf16631094a9","x":-227,"y":200,"width":660,"height":424,"type":"file","file":"Screenshot 2023-03-19 at 19.52.07.png"}
+		{"id":"f220bf16631094a9","type":"file","file":"Screenshot 2023-03-19 at 19.52.07.png","x":-227,"y":200,"width":660,"height":424}
 	],
 	"edges":[
 		{"id":"dec83648164b3cbe","fromNode":"12812fcbe0c5fec9","fromSide":"right","toNode":"f49bb4c5b50414a8","toSide":"left"},
