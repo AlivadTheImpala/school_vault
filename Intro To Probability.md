@@ -15,9 +15,9 @@ Classical is typically used for games of chance and is referred to as classical 
 
 > [!example]
 > Each traditional (cube-shaped) die has six sides, marked in dots with the numbers 1 through 6. On a "fair" die, these numbers are equally likely to end up face-up when the die is rolled. Thus, P(1) = P(2) = P(3) = P(4) = P(5) = P(6) = 1/6 or about 0.167.
+> - Here, again, is a practical use of classical probability. Suppose six people go out to dinner. You want to randomly decide who will pick up the check and pay for everyone. Again, the P(each person) = 1/6.
 
-Here, again, is a practical use of classical probability. Suppose six people go out to dinner. You want to randomly decide who will pick up the check and pay for everyone. Again, the P(each person) = 1/6.
-
+When we run a simulation or when we use a random sample and record the results, we are using **empirical** probability.
 
 ---
 Resources:
