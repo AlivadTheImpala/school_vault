@@ -10,3 +10,4 @@ Relative frequency is derived from the Empirical probability. To estimate the pr
 >
 >The Law of Large Numbers states that as the number of trials increases, the relative frequency becomes the actual probability.
 
+To come full circle, the relative frequency of something occuring is also the probability. In other words when seeking the probability, we are asking what the relative frequency is of that even to occur. The larger the sample size the closer to the true frequency 
