@@ -56,7 +56,7 @@ If have more than one event to consider we have additional notation that we use.
 
   
 
-If we want to know the probability that BOTH events A AND B happen, then we use the ∩ intersection symbol.  So the probability that both A and B happen is written as P(AB)  
+If we want to know the probability that BOTH events A AND B happen, then we use the ∩ intersection symbol.  So the probability that both A and B happen is written as P(A ∩ B)  
 
   
 
