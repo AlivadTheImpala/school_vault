@@ -6,6 +6,7 @@ Probability of Events:
 - when we want to figure out the probability of an event, we are asking what the likelihood of the even is to occur. P(A) can be read as "the probability that even A will occur."
 - The probability that an event, A ,  will occur is between 0 and 1. 
 	- 0≤P(A) ≤ 1.
+	-  The closer the probability is to 0, the less likely the event is to occur. The closer the probability is to 1, the more likely the event is to occur.
 
 Types of Probability 
 - Classical (Theoretical)
@@ -21,3 +22,4 @@ Here, again, is a practical use of classical probability. Suppose six people go 
 ---
 Resources:
 [[Probability Notation]]
+[[Relative Frequency]]
