@@ -91,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214.50260543823242
+    "width": 200
   },
   "right": {
     "id": "888b3822c1b3eb0c",
@@ -200,7 +200,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aebbbf03b5b76b49",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Javascript/Javascript.md",
     "Templates/Return Home Template.md",
