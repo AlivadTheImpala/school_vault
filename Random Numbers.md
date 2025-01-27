@@ -1,3 +1,4 @@
+#braindump #javascript 
 Math.random(); will give you a random number between 0 and 1. To get a number between 0 and 100 you can multiply the function by 100
 
 ```javascript
