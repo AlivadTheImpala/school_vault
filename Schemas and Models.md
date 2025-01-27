@@ -1,10 +1,11 @@
 #javascript #braindump #mongoDB #mongoose
 
-## Vomit section
+# Vomit section
 URLs Needed:
 / - The Home page this will contain all the albums
 /details/id - the detail page of a given album using the \_id of the album.  
 
+### path parameters
 path parameters are noted by a colon and the parameter that you are seeking :\<parameter>  
 ```javascript
 /details/:id 
