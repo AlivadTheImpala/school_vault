@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "method",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -215,7 +216,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d2c02b60603f2166",
+  "active": "457e91d59870c3ce",
   "lastOpenFiles": [
     "The Callstack.md",
     "RESTful API's.md",
