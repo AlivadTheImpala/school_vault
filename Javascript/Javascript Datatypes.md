@@ -20,7 +20,7 @@ instanceof operator - Returns a Boolean if a value matches the datatype
 
 > [!note]
 > Falsey Values are values that equate to something being false, empty, zero, or undefined 
-> The number zero 0 and an empty string ''; usually refer to something being false or undefined.
+> The number zero 0 and an empty string ; usually refer to something being false or undefined.
 
 
 
