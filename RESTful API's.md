@@ -69,4 +69,6 @@ async function UpdateData() {
 UpdateData(); // call the function
 ```
 
-When you make requests, youre typically expecting to receive some kind of data back 
+When you make requests, youre typically expecting to receive some kind of data back. If you look at the examples of making requests above, you'll notice that data is located in the body of the request. The response variable uses the request.json() method to parse the requests body and return the data into an object we can use for our app. 
+
+Before you go an start working with the data though, you want to make sure that the request was succesful. This is where [[HTTP Status Codes]] come in
