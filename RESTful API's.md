@@ -69,9 +69,9 @@ async function UpdateData() {
 UpdateData(); // call the function
 ```
 
-When you make requests, youre typically expecting to receive some kind of data back. If you look at the examples of making requests above, you'll notice that data is located in the body of the request. The response variable uses the request.json() method to parse the requests body and return the data into an object we can use for our app. 
+When you make requests, you're typically expecting to receive some kind of data back. If you look at the examples of making requests above, you'll notice that data is located in the body of the request. The response variable uses the request.json() method to parse the requests body and return the data into an object we can use for our app. 
 
-Before you go an start working with the data though, you want to make sure that the request was successful. This is where [[HTTP Status Codes]] come in.
+Before you go and start working with the data though, you want to make sure that the request was successful. This is where [[HTTP Status Codes]] come in.
 
 ```javascript
 async function GetData() {
@@ -82,6 +82,20 @@ async function GetData() {
   if (request.status == 200) {
     // Request was successful
     console.log(request.status);
+  }
+}
+
+GetData(); // call the function
+
+//or using response.ok, a built in property that does the same thing
+async function GetData() {
+  let endpoint = 'https://jsonplaceholder.typicode.com/users';
+  const request = await fetch(endpoint, { method: 'GET' });
+  const response = await request.json();
+
+  if (response.ok) {
+    // Request was successful
+    console.log(response.status);
   }
 }
 
