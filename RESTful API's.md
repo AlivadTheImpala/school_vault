@@ -11,8 +11,9 @@ Essentially REST APIs are API's with a particular set of protocols and rules. Th
 This group of methods is also known as CRUD (Create, Read, Update, Delete).
 
 # Making HTTP Requests 
-
-GET Request
+To make a request to a REST API, you utilize an endpoint, which a URL that directs your request. Note that you specify the HTTP method in the request by adding it to the fetch API method. GET is the implied value, so if you were to omit the HTTP method entirely, GET would be used by default.
+****
+GET request
 ```javascript
 async function GetData() {
   let endpoint = 'https://jsonplaceholder.typicode.com/users';
@@ -67,3 +68,5 @@ async function UpdateData() {
 
 UpdateData(); // call the function
 ```
+
+When you make requests, youre typically expecting to receive some kind of data back 
