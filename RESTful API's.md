@@ -10,4 +10,17 @@ Essentially REST APIs are API's with a particular set of protocols and rules. Th
 
 This group of methods is also known as CRUD (Create, Read, Update, Delete).
 
+```javascript
+
+//GET request
+async function GetData() {
+  let endpoint = 'https://jsonplaceholder.typicode.com/users';
+  const request = await fetch(endpoint, { method: 'GET' });
+  const response = await request.json();
+  console.log(response);
+}
+GetData(); // call the function
+//POST request
+```
+
 
