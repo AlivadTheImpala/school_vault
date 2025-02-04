@@ -1,7 +1,7 @@
 #javascript
 Back to [[Web Development]]
 ***
-## Topics
+## Fundamentals
 
 - [[Variables]]
 - [[Javascript Datatypes]]
