@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Code Analysis Template"
             }
+          },
+          {
+            "id": "9084217136636516",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Questions that Came Up.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Questions that Came Up"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,10 +216,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c158eb6ba222ad5",
+  "active": "9084217136636516",
   "lastOpenFiles": [
-    "Javascript/Javascript.md",
+    "Questions that Came Up.md",
     "Code Analysis Template.md",
+    "Javascript/Javascript.md",
     "RESTful API's.md",
     "Home.md",
     "The Callstack.md",
@@ -230,7 +245,6 @@
     "Javascript/EJS.md",
     "Relative Frequency.md",
     "Statistics",
-    "X-Ray crystallography.md",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
     "JS Datatypes.canvas",
