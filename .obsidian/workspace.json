@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Javascript/EJS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "EJS"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -190,18 +189,18 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Req.Body Results and what they mean.md",
     "Javascript/Javascript.md",
+    "The Callstack.md",
+    "Home.md",
+    "Req.Body Results and what they mean.md",
     "Single Page Applications.md",
     "then() and catch() in relation to routes.md",
     "Pasted image 20250206194112.png",
     "Express.md",
     "Templates/JS Braindump Template.md",
-    "Home.md",
     "Questions that Came Up.md",
     "Code Analysis Template.md",
     "RESTful API's.md",
-    "The Callstack.md",
     "Javascript/Logic.md",
     "Conditional Logic.md",
     "Javascript/Javascript Datatypes.md",
