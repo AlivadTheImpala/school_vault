@@ -35,7 +35,8 @@
               "title": "React Components"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,10 +202,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f0388a8cf300b968",
   "lastOpenFiles": [
-    "React Components.md",
     "Javascript/Javascript.md",
+    "React Components.md",
     "Home.md",
     "Javascript/EJS.md",
     "The Callstack.md",

@@ -28,9 +28,9 @@ export default function MyApp() {
   );
 }
 ```
-Here, MyButton is simply a button. The component can be used inside of another component. JSX looks like html so to used the MyButton component you wrap it in < /> tags. 
+Here, MyButton is simply a button. The component can be used inside of another component. JSX looks like html so to use the MyButton component you wrap it in < /> tags. 
 # JSX 
-React uses JSX which looks a lot like plain html, but it isnt html. The React documentation explain the anatomy of a component made with JSX well. 
+React uses JSX which looks a lot like plain html, but it isn't html. The React documentation explains the anatomy of a component made with JSX well. 
 
 >[!Note]
 >JSX is stricter than HTML. You have to close tags like `<br />`. Your component also can’t return multiple JSX tags. You have to wrap them into a shared parent, like a `<div>...</div>` or an empty `<>...</>` wrapper:
@@ -45,6 +45,7 @@ function AboutPage() {
 }
 ```
 Essentially a main div/empty element holds the component together. Inside are the parts that the component is made of. 
+
 
 ```JSX
 const products = [
