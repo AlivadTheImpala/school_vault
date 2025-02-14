@@ -8,8 +8,27 @@ created: 2025-02-13T22:29:00
 # Components
 React is made up of components. A component is a self contained item. I like to think of it like a modular piece of equipment. Imagine your working on a custom car build one component can be the chasis itself, or if you're further along in the build, a switch that controls the lights. 
 
-A component is declared like you would a normal function
+A component is declared like you would a normal function, but the name is capitalized. 
+```JSX
+//notice the capitalized name. 
+function MyButton() {
+  return (
+    <button>
+      I'm a button
+    </button>
+  );
+}
 
+export default function MyApp() {
+  return (
+    <div>
+      <h1>Welcome to my app</h1>
+      <MyButton />  
+    </div>
+  );
+}
+```
+Here, MyButton is simply a button. The component can be used inside of another component. JSX looks like html so to used the MyButton component you wrap it in < /> tags. 
 # JSX 
 React uses JSX which looks a lot like plain html, but it isnt html. The React documentation explain the anatomy of a component made with JSX well. 
 
