@@ -23,3 +23,4 @@ function AboutPage() {
   );
 }
 ```
+Essentially a main div/empty element holds the component together. Inside are the parts that the component is made of. 
