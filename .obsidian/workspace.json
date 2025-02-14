@@ -35,8 +35,7 @@
               "title": "React Components"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,11 +201,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0388a8cf300b968",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "React Components.md",
     "Javascript/Javascript.md",
     "Home.md",
-    "React Components.md",
     "Javascript/EJS.md",
     "The Callstack.md",
     "Req.Body Results and what they mean.md",
