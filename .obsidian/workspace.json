@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Javascript/Javascript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Javascript"
             }
           },
           {
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "888b3822c1b3eb0c",
@@ -205,10 +204,10 @@
   },
   "active": "f0388a8cf300b968",
   "lastOpenFiles": [
-    "React Components.md",
-    "Home.md",
-    "Javascript/EJS.md",
     "Javascript/Javascript.md",
+    "Home.md",
+    "React Components.md",
+    "Javascript/EJS.md",
     "The Callstack.md",
     "Req.Body Results and what they mean.md",
     "Single Page Applications.md",
