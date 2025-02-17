@@ -34,9 +34,26 @@
               "icon": "lucide-file",
               "title": "React Components"
             }
+          },
+          {
+            "id": "02981ab20e060327",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.50260543823242
+    "width": 201.50260543823242,
+    "collapsed": true
   },
   "right": {
     "id": "888b3822c1b3eb0c",
@@ -202,10 +220,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0388a8cf300b968",
+  "active": "02981ab20e060327",
   "lastOpenFiles": [
-    "Javascript/Javascript.md",
+    "Untitled.canvas",
     "React Components.md",
+    "Javascript/Javascript.md",
     "Home.md",
     "Javascript/EJS.md",
     "The Callstack.md",
@@ -230,7 +249,6 @@
     "Javascript/Loops.md",
     "Javascript/Functions.md",
     "Templates/Return Home Template.md",
-    "Classes.md",
     "Statistics",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
