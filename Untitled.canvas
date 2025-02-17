@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"f64a561e0f693440","x":-220,"y":-160,"width":340,"height":400,"color":"1","type":"text","text":"Albums Container"},
-		{"id":"b5e0a02640ac5633","x":-175,"y":-80,"width":250,"height":280,"type":"text","text":"Album List"}
-	],
-	"edges":[
-		{"id":"38e4104f5e46ef7c","fromNode":"b5e0a02640ac5633","fromSide":"left","toNode":"f64a561e0f693440","toSide":"left"}
-	]
-}

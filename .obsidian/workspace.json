@@ -41,15 +41,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Converting to React UI.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": 111.42177315652447,
+                  "y": 111.59999556541517,
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "title": "Converting to React UI"
             }
           }
         ],
@@ -110,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.50260543823242,
-    "collapsed": true
+    "width": 201.50260543823242
   },
   "right": {
     "id": "888b3822c1b3eb0c",
@@ -220,9 +219,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "02981ab20e060327",
+  "active": "aebbbf03b5b76b49",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Converting to React UI.canvas",
     "React Components.md",
     "Javascript/Javascript.md",
     "Home.md",

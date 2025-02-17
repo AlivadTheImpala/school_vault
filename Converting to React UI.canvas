@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f64a561e0f693440","x":-220,"y":-160,"width":340,"height":500,"color":"1","type":"text","text":"Albums Container: contains the whole app\n"},
+		{"id":"b5e0a02640ac5633","x":-200,"y":-80,"width":300,"height":400,"type":"text","text":"Album List: Contains list of all albums"},
+		{"id":"7f87a04b526238bf","x":-175,"y":0,"width":250,"height":60,"color":"5","type":"text","text":"Album Row: displays album info"},
+		{"id":"43a408687f861dda","type":"text","text":"Album Row: displays album info","x":-175,"y":80,"width":250,"height":60,"color":"5"},
+		{"id":"d48e517cede7ea32","type":"text","text":"Album Row: displays album info","x":-175,"y":160,"width":250,"height":60,"color":"5"},
+		{"id":"8651eb99f7590630","type":"text","text":"Album Row: displays album info","x":-175,"y":240,"width":250,"height":60,"color":"5"}
+	],
+	"edges":[]
+}
