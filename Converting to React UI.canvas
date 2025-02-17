@@ -5,7 +5,8 @@
 		{"id":"7f87a04b526238bf","x":-175,"y":0,"width":250,"height":60,"color":"5","type":"text","text":"Album Row: displays album info"},
 		{"id":"43a408687f861dda","type":"text","text":"Album Row: displays album info","x":-175,"y":80,"width":250,"height":60,"color":"5"},
 		{"id":"d48e517cede7ea32","type":"text","text":"Album Row: displays album info","x":-175,"y":160,"width":250,"height":60,"color":"5"},
-		{"id":"8651eb99f7590630","type":"text","text":"Album Row: displays album info","x":-175,"y":240,"width":250,"height":60,"color":"5"}
+		{"id":"8651eb99f7590630","type":"text","text":"Album Row: displays album info","x":-175,"y":240,"width":250,"height":60,"color":"5"},
+		{"id":"d5f2777000389162","x":160,"y":-160,"width":250,"height":280,"type":"text","text":"## Hierarchy\n\n- Albums Container\n\t- Album List\n\t\t- Album Row"}
 	],
 	"edges":[]
 }
