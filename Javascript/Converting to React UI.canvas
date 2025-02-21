@@ -2,11 +2,13 @@
 	"nodes":[
 		{"id":"f64a561e0f693440","type":"text","text":"Albums Container: container to display albums\n","x":-220,"y":-160,"width":340,"height":500,"color":"1"},
 		{"id":"b5e0a02640ac5633","type":"text","text":"Album List: Contains list of all albums","x":-200,"y":-80,"width":300,"height":400},
-		{"id":"7f87a04b526238bf","type":"text","text":"Album Row: displays album info","x":-175,"y":0,"width":250,"height":60,"color":"5"},
 		{"id":"43a408687f861dda","type":"text","text":"Album Row: displays album info","x":-175,"y":80,"width":250,"height":60,"color":"5"},
 		{"id":"d48e517cede7ea32","type":"text","text":"Album Row: displays album info","x":-175,"y":160,"width":250,"height":60,"color":"5"},
 		{"id":"8651eb99f7590630","type":"text","text":"Album Row: displays album info","x":-175,"y":240,"width":250,"height":60,"color":"5"},
-		{"id":"d5f2777000389162","type":"text","text":"## Hierarchy\n\n- Albums Container\n\t- Album List\n\t\t- Album Row","x":160,"y":-160,"width":250,"height":280}
+		{"id":"d5f2777000389162","type":"text","text":"## Hierarchy\n\n- Albums Container\n\t- Album List\n\t\t- Album Row","x":160,"y":-160,"width":250,"height":280},
+		{"id":"77e6faf56dfc9ff3","type":"text","text":"Details Container: contains entire details about single albums\n","x":440,"y":-160,"width":340,"height":500,"color":"1"},
+		{"id":"7733ceca69d53aa5","type":"text","text":"Album Details: Release Date and Genre","x":460,"y":140,"width":300,"height":140},
+		{"id":"b930f3c16c28ac57","type":"text","text":"Metadata: Album and artist name","x":460,"y":-40,"width":300,"height":130}
 	],
 	"edges":[]
 }
