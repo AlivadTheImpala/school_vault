@@ -13,7 +13,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Converting to React UI.canvas",
+                "file": "Javascript/Converting to React UI.canvas",
                 "viewState": {
                   "x": 95,
                   "y": 90,
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.50260543823242
+    "width": 285.5026054382324
   },
   "right": {
     "id": "888b3822c1b3eb0c",
@@ -190,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "aebbbf03b5b76b49",
   "lastOpenFiles": [
     "then() and catch() in relation to routes.md",
     "Unary operators.md",
@@ -198,7 +198,7 @@
     "Untitled 2.canvas",
     "Javascript/Javascript.md",
     "Home.md",
-    "Converting to React UI.canvas",
+    "Javascript/Converting to React UI.canvas",
     "React Components.md",
     "Javascript/EJS.md",
     "The Callstack.md",
