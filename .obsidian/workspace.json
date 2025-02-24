@@ -15,9 +15,9 @@
               "state": {
                 "file": "Javascript/Converting to React UI.canvas",
                 "viewState": {
-                  "x": 513.4999833703052,
-                  "y": 179.1249964584905,
-                  "zoom": 0
+                  "x": 661.2459626854703,
+                  "y": 125.43689440282061,
+                  "zoom": -0.6080215165017581
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -192,13 +192,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Javascript/Javascript.md",
+    "Javascript/Javascript Datatypes.md",
+    "Home.md",
+    "Javascript/Converting to React UI.canvas",
     "then() and catch() in relation to routes.md",
     "Unary operators.md",
     "Undefined.md",
     "Untitled 2.canvas",
-    "Javascript/Javascript.md",
-    "Home.md",
-    "Javascript/Converting to React UI.canvas",
     "React Components.md",
     "Javascript/EJS.md",
     "The Callstack.md",
@@ -212,7 +213,6 @@
     "RESTful API's.md",
     "Javascript/Logic.md",
     "Conditional Logic.md",
-    "Javascript/Javascript Datatypes.md",
     "Javascript/School.md",
     "Javascript/Exponentiation.md",
     "Schemas and Models.md",
@@ -220,7 +220,6 @@
     "Javascript/String Methods.md",
     "Javascript/Objects and Arrays.md",
     "Javascript/Loops.md",
-    "Javascript/Functions.md",
     "Statistics",
     "Untitled 3.canvas",
     "JS Datatypes.canvas",
