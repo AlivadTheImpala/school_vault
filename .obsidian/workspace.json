@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Javascript/Javascript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Javascript"
+            }
+          },
+          {
+            "id": "84fb1ae6ad32b2b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Objects and Object Constructors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Objects and Object Constructors"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "route",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -190,12 +206,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "84fb1ae6ad32b2b1",
   "lastOpenFiles": [
-    "Javascript/Converting to React UI.canvas",
+    "Objects and Object Constructors.md",
     "Javascript/Javascript.md",
-    "Javascript/Javascript Datatypes.md",
     "Home.md",
+    "Javascript/Converting to React UI.canvas",
+    "Javascript/Javascript Datatypes.md",
     "then() and catch() in relation to routes.md",
     "Unary operators.md",
     "Undefined.md",
